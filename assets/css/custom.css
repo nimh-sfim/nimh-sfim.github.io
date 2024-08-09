@@ -1,6 +1,24 @@
+.member_profile table {
+  width: 100%; /* make it take up the whole container */
+  border-spacing: 20px; /*add space between columns*/
+}
+
+.member-photo-cell {
+  width: 30%; 
+  vertical-align: top; 
+  horizontal-align: center;
+}
+
+.member-bio-cell {
+  width: 70%; 
+  vertical-align: top; 
+  horizontal-align: left;
+}
+
 .member-photo {
   border-radius: 50%;
-  width: 150px;
+  width: 100%;
+  max-width: 150px;
   height: 150px;
   object-fit: cover;
 }
