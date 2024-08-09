@@ -16,10 +16,9 @@
 }
 
 .member-photo {
-  border-radius: 50%;
   width: 100%;
   max-width: 400px;
-  height: 150px;
+  /* height: 600px; */
   object-fit: cover;
 }
 
