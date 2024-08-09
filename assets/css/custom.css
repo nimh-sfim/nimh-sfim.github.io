@@ -1,0 +1,17 @@
+.member-photo {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+
+.members-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.member-item {
+  flex: 1 1 calc(33.333% - 20px);
+  text-align: center;
+}
