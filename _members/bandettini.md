@@ -3,11 +3,11 @@ name: "Peter Bandettini"
 position: "Chief"
 email: "bandettini@nih.gov"
 phone: "(301) 402-1333"
-address: "Section on Functional Imaging Methods
-Laboratory of Brain and Cognition
-National Institute of Mental Health
-Building 10, Room 1D80B
-10 Center Dr. MSC 1148
+address: "Section on Functional Imaging Methods<br>
+Laboratory of Brain and Cognition<br>
+National Institute of Mental Health<br>
+Building 10, Room 1D80B<br>
+10 Center Dr. MSC 1148<br>
 Bethesda, MD 20892-1148"
 photo: "assets/images/bandettini_framed_1.png"
 bio: "<p>Dr. Bandettini received his B.S. in Physics from Marquette University in 1989 and his Ph.D. in Biophysics from the Medical College of Wisconsin in 1994, where he and his fellow graduate student, Eric Wong, played a role in the early development of magnetic resonance imaging of human brain function using blood oxygenation contrast. During his postdoctoral fellowship at the Massachusetts General Hospital, he continued his investigation of methods to increase the interpretability, resolution, and applicability of functional MRI techniques. In March of 1999, he joined NIMH as an Investigator in the Laboratory of Brain and Cognition and as the Director of the NIH Functional MRI core facility. In 2001, he was awarded the Scientific Director's Merit Award for his efforts in establishing the NIH FMRI core facility and in 2007 the team that he created was also awarded the Scientific Director's Merit Award for their outstanding work. In 2002, he was awarded the Wiley Young Investigator's Award at the annual Organization for Human Brain Mapping Meeting.</p>
