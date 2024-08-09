@@ -2,6 +2,8 @@
 title: "Lab Members"
 permalink: /members/
 ---
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+
 {% for member in site.members %}
 <div class="members-list">
     <div class="member-item">
