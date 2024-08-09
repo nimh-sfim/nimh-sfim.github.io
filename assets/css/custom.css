@@ -24,10 +24,12 @@
 
 .members-list {
   display: flex;
+  flex-direction:row;
   flex-wrap: wrap;
 }
 
 .member-item {
-  flex: 1 1 calc(33.333% - 20px);
+  flex: 1;
   text-align: center;
+  max-height: 100px;
 }
