@@ -5,7 +5,7 @@ permalink: /members/
 {% for member in site.members %}
 <div class="members-list">
     <div class="member-item">
-      <a href="{{ member.url }}"> <img src="{{ member.photo }}" alt="{{ member.name }}"> </a>
+      <a href="{{ member.url }}"> <img src="{{ member.photo }}" alt="{{ member.name }}" class="small-photo"> </a>
     </div>
     <div class="member-item">  
       <b>Name:</b><br>

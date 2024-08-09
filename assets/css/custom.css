@@ -32,3 +32,8 @@
   text-align: center;
   max-height: 100px;
 }
+
+.small_photo {
+  height:100%;
+  max-height: 100px;
+}
