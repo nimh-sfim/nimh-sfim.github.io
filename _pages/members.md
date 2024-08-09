@@ -11,7 +11,6 @@ permalink: /members/
         <h2>{{ member.name }}</h2>
         <h3>{{ member.position }}</h3>
       </a>
-      <p>{{ member.bio | truncate: 100 }}</p> <!-- Short bio -->
     </div>
   {% endfor %}
 </div>
