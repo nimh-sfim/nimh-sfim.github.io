@@ -19,5 +19,6 @@ bio: "<p>Dr. Bandettini received his B.S. in Physics from Marquette University i
 <p>Dr. Bandettini's publications on Google Scholar are available here.</p>
 
 <p>Dr. Bandettini was recently featured in the Lifeworks series at the NIH Office of Science and Education. A video of the interview is available here</p>" 
+status: current
 layout: member
 ---
