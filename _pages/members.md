@@ -30,7 +30,7 @@ classes: wide
       {{member.phone}}
     </div>
 </div>
-{% endif% } 
+{% endif %}
 {% endfor %}
 
 <h2> Former </h2>
@@ -58,5 +58,5 @@ classes: wide
       {{member.phone}}
     </div>
 </div>
-{ % endif % }
+{ % endif %}
 {% endfor %}
