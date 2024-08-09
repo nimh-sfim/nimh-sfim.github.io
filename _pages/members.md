@@ -5,8 +5,6 @@ classes: wide
 ---
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
-<h1> Current </h1>
-
 {% for member in site.members %}
 <div class="members-list">
     <div class="member-item">
