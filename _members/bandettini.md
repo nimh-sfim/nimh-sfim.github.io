@@ -1,5 +1,5 @@
 ---
-name: "Peter Bandettini" 
+name: "Peter Bandettini, Ph.D." 
 position: "Chief"
 email: "bandettini@nih.gov"
 phone: "(301) 402-1333"
