@@ -1,6 +1,7 @@
 ---
 title: "Lab Members"
 permalink: /members/
+classes: wide
 ---
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
