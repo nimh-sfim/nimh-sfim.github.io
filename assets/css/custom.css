@@ -1,8 +1,8 @@
 .member_profile {
-  display: flex
+  display: flex;
   flex-direction: row;
-  align-items: flex-start
-  gap: 50px
+  align-items: flex-start;
+  gap: 50px;
   }
 
 .member-photo-cell {
