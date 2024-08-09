@@ -8,7 +8,7 @@ classes: wide
 <h2> Current </h2>
 
 {% for member in site.current_members %}
-{% if member.status == "current"}
+{% if member.status == "current" %}
 <div class="members-list">
     <div class="member-item">
       <a href="{{ member.url }}"> <img src="{{ member.photo }}" alt="{{ member.name }}" class="small-photo"> </a>
@@ -36,7 +36,7 @@ classes: wide
 <h2> Former </h2>
 
 {% for member in site.members %}
-{% if member.status == "former"}
+{% if member.status == "former" %}
 <div class="members-list">
     <div class="member-item">
       <img src="{{ member.photo }}" alt="{{ member.name }}" class="small-photo">
@@ -58,5 +58,5 @@ classes: wide
       {{member.phone}}
     </div>
 </div>
-{ % endif %}
+{% endif %}
 {% endfor %}
