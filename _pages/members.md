@@ -1,11 +1,11 @@
 ---
-title: "Lab Members"
+title: "Current Lab Members"
 permalink: /members/
 classes: wide
 ---
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
-{% for member in site.members %}
+{% for member in site.current_members %}
 <div class="members-list">
     <div class="member-item">
       <a href="{{ member.url }}"> <img src="{{ member.photo }}" alt="{{ member.name }}" class="small-photo"> </a>
