@@ -76,16 +76,30 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
+      url: "https://github.com/nimh-sfim"
+    - label: "NIH" 
+      icon: 
+      url: "https://nih.gov"
+    - label: "HHS"
+      icon:
+      url: "https://hhs.gov"
+    - label: "USA.gov" 
+      icon: 
+      url: "https://usa.gov"
+    - label: "FOIA"
+      icon: 
+      url: "https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/freedom-information-act-office"
+    - label: "Accessibility"
+      icon: 
+      url: "https://www.nimh.nih.gov/site-info/accessibility"
+    - label: HHS Vulnerability Disclosure" 
+      icon: 
+      url: "https://www.hhs.gov/vulnerability-disclosure-policy/index.html"
+    - label: "Privacy Policy" 
+      icon: 
+      url: "https://www.hhs.gov/web/policies-and-standards/hhs-web-policies/privacy/index.html"
 defaults:
   # _posts
   - scope:
