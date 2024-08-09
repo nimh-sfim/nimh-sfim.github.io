@@ -1,6 +1,5 @@
 ---
 title: "Lab Members"
-layout: default
 permalink: /members/
 ---
 
