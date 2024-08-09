@@ -3,11 +3,6 @@ main:
     url: /
   - title: "Lab Members"
     url: /members/
-    children: 
-      - title: "Current"
-        url: /curent/
-      - title: "Former"
-        url: /former/
   - title: "Projects"
     url: /projects 
   - title: "Photos" 
