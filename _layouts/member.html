@@ -2,10 +2,8 @@
 layout: default
 ---
 
-<div class="member">
-<table class="member-profile"> 
-<tr>
-<td class="member-photo-cell">
+<div class="member-profile"> 
+<div class="member-photo-cell">
 <img src="{{page.photo}}" alt="{{page.name}}" class="member-photo"> 
 <h2>{{page.name}}</h2>
 <h3>{{page.position}}</h3>
@@ -13,10 +11,8 @@ layout: default
 <b>Phone: </b>{{page.phone}}<br>
 <b>Address: </b>{{page.address}}
 </p>
-</td>
-<td class="member-bio-cell">
+</div>
+<div class="member-bio-cell">
 {{page.bio}}
-</td>
-</tr>
-</table>
+</div>
 </div>

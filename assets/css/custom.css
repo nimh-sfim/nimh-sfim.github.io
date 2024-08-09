@@ -1,19 +1,17 @@
-.member_profile table {
-  width: 100%; /* make it take up the whole container */
-  border-spacing: 50px; /*add space between columns*/
-}
+.member_profile {
+  display: flex
+  align-items: flex-start
+  gap: 50px
+  }
 
 .member-photo-cell {
-  width: 40%; 
-  vertical-align: top; 
-  horizontal-align: center;
-}
+  flex:1 ;
+  max-width: 400px; 
+ }
 
 .member-bio-cell {
-  width: 60%; 
-  vertical-align: top; 
-  horizontal-align: left;
-}
+  flex:3
+  }
 
 .member-photo {
   width: 100%;
