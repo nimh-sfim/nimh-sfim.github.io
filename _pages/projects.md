@@ -15,8 +15,8 @@ classes: wide
     <a href="{{ project.url }}"> {{ project.title }} </a>
     </div>
     <div class="project-item">  
-    <b>Summary:</b><br>
-    {{ project.short_summary}}
+        <b>Summary:</b><br>
+        {{ project.short_summary}}
     </div>
 </div>
 {% endif %}
