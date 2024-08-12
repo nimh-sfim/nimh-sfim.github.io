@@ -69,4 +69,14 @@
 
 .presentation-item{
   flex:1;
+  margin-bottom:20px;
+  gap:50px;
 }
+
+.presentation-title{
+  flex:2;
+  margin-bottom:20px;
+  gap:50px;
+
+}
+
