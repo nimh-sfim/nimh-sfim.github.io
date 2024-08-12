@@ -11,7 +11,7 @@ classes: wide
 <div class="presenation-item">
 <b>Title: </b>{{presentation.title}}<br>
 <b>Presented on: </b>{{presentation.date}} <br>
-{% assign conference = site.data.conferences[presentation.conference]}
+{% assign conference = site.data.conferences[presentation.conference] %}
 <b>Project: </b><a href="{{conference.url}}">{{conference.title}}</a> <br>
 <b> Summary: </b><br>
 <b>Presenters: </b><br>
