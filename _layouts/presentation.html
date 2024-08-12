@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="presentation-list">
+    <div class="presentation-item">
+        <b>Title: </b>{{page.title}}<br>
+        <b>Presented on: </b>{{page.date | date: "%B %Y"}} <br>
+        {% assign conference_item = site.conferences | where: "conference_id", page.conference_id | first %}
+        <b>Conference: </b><a href="{{conference_item.url}}">{{conference_item.name}}</a> <br>
+        <b>Summary: </b><br>
+        <b>Presenters: </b><br>
+            <ul>
+            {% for presenter_id in page.presenters %}
+                {% assign presenter = site.members | where: "presenter_id", presenter_id | first %}
+                <li>
+                    <a href="{{presenter.url}}">{{ presenter.name }}</a>
+                </li>
+            {% endfor %}
+            </ul>
+        <b>Download: </b><a href="{{page.file}}">{{page.file_name}}</a>
+    </div>
+</div>
