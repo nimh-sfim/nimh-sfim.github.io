@@ -4,17 +4,32 @@ layout: default
   <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
 <div class="member-profile"> 
-<div class="member-photo-cell">
-<h2>{{page.name}}</h2>
-<img src="{{page.photo}}" alt="{{page.name}}" class="member-photo"> 
-<h3>{{page.position}}</h3>
-<p><b>Start Date: </b>{{page.start_date}}</p>
-<p><b>Email: </b>{{page.email}}<br>
-<b>Phone: </b>{{page.phone}}<br>
-<b>Address: </b>{{page.address}}
-</p>
-</div>
-<div class="member-bio-cell">
-{{page.bio | markdownify }}
-</div>
+  <div class="member-photo-cell">
+    <h2>{{page.name}}</h2>
+    <img src="{{page.photo}}" alt="{{page.name}}" class="member-photo"> 
+    <h3>{{page.position}}</h3>
+    <p><b>Start Date: </b>{{page.start_date}}</p>
+    <p><b>Email: </b>{{page.email}}<br>
+    <b>Phone: </b>{{page.phone}}<br>
+    <b>Address: </b>{{page.address}}
+    </p>
+  </div>
+  
+  <div class="member-bio-cell">
+    <p>{{page.bio | markdownify }}</p>
+
+    <h2>Presentations: </h2>
+
+    {% for presentation in site.presentations %}
+    {%if presentation.author == page.presenter_id %}
+
+    <div class="presentation-list">
+        <div class="presentation-item"><b>Presented on: </b>{{presentation.date | date: "%B %Y"}} </div>
+        <div class="presentation-title"><b>Title: </b><a href="{{presentation.url}}">{{presentation.title}}</a></div>
+        <div class="presentation-item"><b>File: </b><a href="{{presentation.file}}">{{presentation.file_name}}</a></div>
+    </div>
+
+    {% endif %}
+    {% endfor %}
+  </div>
 </div>
