@@ -1,6 +1,7 @@
 ---
 title: "Projects"
 permalink: /projects/
+layout: default
 classes: wide
 ---
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">

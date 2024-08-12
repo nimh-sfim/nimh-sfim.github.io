@@ -48,7 +48,12 @@
 
 .project-item {
   flex:1;
-  text-align: center;
+  text-align: left;
   max-height: 100px;
   gap:50px;
+}
+
+.project-content {
+  width:100%;
+  padding: 30px;
 }
