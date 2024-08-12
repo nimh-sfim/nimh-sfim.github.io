@@ -121,14 +121,14 @@ defaults:
       author_profile: false
 
 collections:
-  authors:
+  members:
     output: true
     sort_by: weight
   publications:
     output: true
   presentations: 
     output: true
-  project: 
+  projects: 
     output: true
 
 category_archive:

@@ -7,7 +7,7 @@ classes: wide
 
 <h2> Active Projects </h2>
 
-{% for project in site.project %}
+{% for project in site.projects %}
 {% if project.status == "active" %}
 <div class="project-list">
     <div class="project-item">
