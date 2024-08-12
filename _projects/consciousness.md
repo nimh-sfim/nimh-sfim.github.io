@@ -1,5 +1,6 @@
 ---
 title: "Conscious Perception and State"
+project_id: "consciousness"
 short_summary: "Consciousness, a perennial subject of fascination, has witnessed a surge in scientific exploration over recent decades."
 summary: "<p>Consciousness, a perennial subject of fascination, has witnessed a surge in scientific exploration over recent decades. The primary objectives of the science of consciousness involve elucidating the neural mechanisms governing conscious states and devising methodologies for diagnosing and recovering impaired consciousness. SFIM actively contributes to this scientific realm through the utilization of cutting-edge computational and neuroimaging tools, including high-field fMRI, MEG, and pupillometry, to investigate two pivotal themes in the study of consciousness.</p>
 <h2>1. Neural Mechanisms of Consciousness</h2>

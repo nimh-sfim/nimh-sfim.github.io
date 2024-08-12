@@ -6,4 +6,20 @@ layout: default
 <div class="project-content"> 
 <h1>{{page.title}}</h1>
 {{page.summary}}
+
+<h2>Presentations: </h2>
+
+{% assign sorted_presentations =  site.presentations | sort: 'date' | reverse %}
+{% for presentation in sorted_presentations %}
+{%if presentation.project_id == page.project_id %}
+
+<div class="presentation-list">
+    <div class="presentation-item"><b>Presented on: </b><br>{{presentation.date | date: "%B %Y"}} </div>
+    <div class="presentation-title"><b>Title: </b><br><a href="{{presentation.url}}">{{presentation.title}}</a></div>
+    <div class="presentation-item"><b>File: </b><br><a href="{{presentation.file}}">{{presentation.file_name}}</a></div>
+</div>
+
+{% endif %}
+{% endfor %}
+
 </div>

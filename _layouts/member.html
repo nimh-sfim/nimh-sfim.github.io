@@ -20,7 +20,9 @@ layout: default
 
     <h2>Presentations: </h2>
 
-    {% for presentation in site.presentations %}
+
+    {% assign sorted_presentations =  site.presentations | sort: 'date' | reverse %}
+    {% for presentation in sorted_presentations %}
     {%if presentation.presenters contains page.presenter_id %}
 
     <div class="presentation-list">
