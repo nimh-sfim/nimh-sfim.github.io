@@ -7,7 +7,7 @@ classes: wide
 
 <h2> Current </h2>
 
-{% for member in site.members %}
+{% for member in site.authors %}
 {% if member.status == "current" %}
 <div class="members-list">
     <div class="member-item">
