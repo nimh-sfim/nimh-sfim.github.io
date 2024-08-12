@@ -3,17 +3,18 @@ layout: default
 ---
   <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
-
-<div><b>Location: </b>{{page.location}}</div>
+<div>
+  <h2>{{page.name}}</h2>
+  <b>Location: </b>{{page.location}}</div>
 <h2>Presentations: </h2>
 
 {% for presentation in site.presentations %}
 {%if presentation.conference_id == page.conference_id %}
 
 <div class="presentation-list">
-    <div class="presentation-item"><b>Presented on: </b>{{presentation.date | date: "%B %Y"}} </div>
-    <div class="presentation-title"><b>Title: </b><a href="{{presentation.url}}">{{presentation.title}}</a></div>
-    <div class="presentation-item"><b>File: </b><a href="{{presentation.file}}">{{presentation.file_name}}</a></div>
+    <div class="presentation-item"><b>Presented on:</b><br>{{presentation.date | date: "%B %Y"}} </div>
+    <div class="presentation-title"><b>Title:</b><br><a href="{{presentation.url}}">{{presentation.title}}</a></div>
+    <div class="presentation-item"><b>File:</b><br><a href="{{presentation.file}}">{{presentation.file_name}}</a></div>
 </div>
 
 {% endif %}
