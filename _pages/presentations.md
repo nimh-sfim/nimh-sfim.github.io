@@ -17,13 +17,13 @@ classes: wide
         <b>Presenters: </b><br>
             <ul>
             {% for presenter_id in presentation.presenters %}
-                {% assign presenter = site.members | where: "id", presenter_id | first %}
+                {% assign presenter = site.members | where: "presenter_id", presenter_id | first %}
                 <li>
                     <a href="{{presenter.url}}">{{ presenter.name }}</a>
                 </li>
             {% endfor %}
             </ul>
-        <b>Download: </b><a href={{presentation.file}}>{{presentation.file_name}}</a>
+        <b>Download: </b><a href="{{presentation.file}}">{{presentation.file_name}}</a>
     </div>
 </div>
 {% endfor %}
