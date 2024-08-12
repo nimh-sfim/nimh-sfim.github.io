@@ -16,12 +16,12 @@ classes: wide
 <b> Summary: </b><br>
 <b>Presenters: </b><br>
 <ul>
- {% for presenter_id in presentation.presenters %}
+{% for presenter_id in presentation.presenters %}
       {% assign presenter = site.data.members[presenter_id] %}
       <li>
         <a href="{{presenter.url}}">{{ presenter.name }}</a>
       </li>
-    {% endfor %}
+{% endfor %}
 </ul>
 <b>Download: </b>
 </div>
