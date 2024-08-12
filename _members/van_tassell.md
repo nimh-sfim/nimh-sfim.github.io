@@ -11,7 +11,7 @@ National Institute of Mental Health<br>
 Building 10, Room 1D8010<br>
 Center Drive, MSC 1148<br>
 Bethesda, MD 20892-1148"
-photo: "/assets/images/dorian_framed"
+photo: "/assets/images/dorian_framed.png"
 bio: ""
 weight: 1
 status: current

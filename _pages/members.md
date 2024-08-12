@@ -7,7 +7,8 @@ classes: wide
 
 <h2> Current </h2>
 
-{% for member in site.members %}
+{% assign sorted_members = site.members | sort: 'weight' | reverse %}
+{% for member in sorted_members %}
 {% if member.status == "current" %}
 <div class="members-list">
     <div class="member-item">
