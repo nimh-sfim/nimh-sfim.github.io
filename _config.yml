@@ -123,6 +123,13 @@ defaults:
 collections:
   authors:
     output: true
+    sort_by: weight
+  publications:
+    output: true
+  presentations: 
+    output: true
+  projects: 
+    output: true
 
 category_archive:
   type: liquid
