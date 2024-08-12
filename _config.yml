@@ -128,7 +128,7 @@ collections:
     output: true
   presentations: 
     output: true
-  projects: 
+  project: 
     output: true
 
 category_archive:
