@@ -1,7 +1,6 @@
 ---
 title: "Projects"
 permalink: /projects/
-layout: default
 classes: wide
 ---
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
@@ -17,8 +16,7 @@ classes: wide
     </div>
     <div class="project-item">  
     <b>Summary:</b><br>
-    {% assign first_sentence = project.summary | split: '.' | first %}
-    {{ first_sentence | truncate: 100}}
+    {{ project.short_summary}}
     </div>
 </div>
 {% endif %}

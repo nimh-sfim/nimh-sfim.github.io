@@ -1,5 +1,6 @@
 ---
 title: "Conscious Perception and State"
+short_summary: "Consciousness, a perennial subject of fascination, has witnessed a surge in scientific exploration over recent decades."
 summary: "<p>Consciousness, a perennial subject of fascination, has witnessed a surge in scientific exploration over recent decades. The primary objectives of the science of consciousness involve elucidating the neural mechanisms governing conscious states and devising methodologies for diagnosing and recovering impaired consciousness. SFIM actively contributes to this scientific realm through the utilization of cutting-edge computational and neuroimaging tools, including high-field fMRI, MEG, and pupillometry, to investigate two pivotal themes in the study of consciousness.</p>
 <h2>1. Neural Mechanisms of Consciousness</h2>
 <p>The central challenge in understanding consciousness lies in unraveling how neural processes give rise to subjective states of conscious experience. Additionally, there is an interest in discerning how diverse sources of content in conscious experiences (such as vision versus audition, or sight versus imagery) share common neural networks. Several projects within SFIM employ afterimages as a perceptual model to delve into these inquiries and explore the neural underpinnings of conscious experience.</p>
