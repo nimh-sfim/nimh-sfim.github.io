@@ -21,7 +21,7 @@ layout: default
     <h2>Presentations: </h2>
 
     {% for presentation in site.presentations %}
-    {%if presentation.author == page.presenter_id %}
+    {%if presentation.presenters contains page.presenter_id %}
 
     <div class="presentation-list">
         <div class="presentation-item"><b>Presented on: </b>{{presentation.date | date: "%B %Y"}} </div>
