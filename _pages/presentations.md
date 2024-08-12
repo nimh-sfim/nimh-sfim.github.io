@@ -11,7 +11,7 @@ classes: wide
     <div class="presenation-item">
         <b>Title: </b>{{presentation.title}}<br>
         <b>Presented on: </b>{{presentation.date | date: "%B %Y"}} <br>
-        {% assign conference_item = site.conferences | where "conference_id", presentation.conference_id | first %}
+        {% assign conference_item = site.conferences | where: "conference_id", presentation.conference_id | first %}
         <b>Conference: </b><a href="{{conference_item.url}}">{{conference_item.name}}</a> <br>
         <b>Summary: </b><br>
         <b>Presenters: </b><br>
