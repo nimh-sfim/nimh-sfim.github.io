@@ -11,13 +11,13 @@ classes: wide
 <div class="presenation-item">
 <b>Title: </b>{{presentation.title}}<br>
 <b>Presented on: </b>{{presentation.date | date: "%B %Y"}} <br>
-{% assign conference = site.conferences[presentation.conference] %}
-<b>Project: </b><a href="{{conference.url}}">{{conference.title}}</a> <br>
-<b> Summary: </b><br>
+{% assign conference_item = site.conferences[presentation.conference] %}
+<b>Conference: </b><a href="{{conference_item.url}}">{{conference_item.name}}</a> <br>
+<b>Summary: </b><br>
 <b>Presenters: </b><br>
 <ul>
 {% for presenter_id in presentation.presenters %}
-      {% assign presenter = site.members[presenter_id] %}
+    {% assign presenter = site.members | where: "id", presenter_id | first %}
       <li>
         <a href="{{presenter.url}}">{{ presenter.name }}</a>
       </li>
