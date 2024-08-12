@@ -6,7 +6,8 @@ classes: wide
 
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
-{% for conference in site.conferences %}
+{% assign sorted_conferences = site.conferences | sort: 'date' | reverse %}
+{% for conference in sorted_conferences %}
 <div class="project-list">
     <div class="project-item">
     <b>Name:</b><br>
