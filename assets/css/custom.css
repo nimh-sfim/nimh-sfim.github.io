@@ -59,3 +59,14 @@
   width:100%;
   padding: 30px;
 }
+
+.presentation-list{
+  height:100%;
+  display: flex;
+  flex-direction:row;
+  margin-bottom: 20px;
+}
+
+.presentation-item{
+  flex:1;
+}
