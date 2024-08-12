@@ -12,11 +12,11 @@ classes: wide
 <div class="project-list">
     <div class="project-item">
     <b>Title:</b><br>
-    <a href="{{ project.url }}"> {{ project.name }} </a>
+    <a href="{{ project.url }}"> {{ project.title }} </a>
     </div>
     <div class="project-item">  
         <b>Summary:</b><br>
-        {{ project.email}}
+        {{ project.short_summary}}
     </div>
 </div>
 {% endif %}
