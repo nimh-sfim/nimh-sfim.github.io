@@ -7,16 +7,16 @@ classes: wide
 
 <h2> Active Projects </h2>
 
-{% for project in site.projects %}
+{% for project in site.members %}
 {% if project.status == "active" %}
 <div class="project-list">
     <div class="project-item">
     <b>Title:</b><br>
-    <a href="{{ project.url }}"> {{ project.title }} </a>
+    <a href="{{ project.url }}"> {{ project.name }} </a>
     </div>
     <div class="project-item">  
         <b>Summary:</b><br>
-        {{ project.short_summary}}
+        {{ project.email}}
     </div>
 </div>
 {% endif %}

@@ -123,12 +123,14 @@ defaults:
 collections:
   members:
     output: true
-    sort_by: weight
+
+  projects: 
+    output: true
+
   publications:
     output: true
+
   presentations: 
-    output: true
-  projects: 
     output: true
 
 category_archive:
