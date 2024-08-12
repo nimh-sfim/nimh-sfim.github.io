@@ -8,12 +8,13 @@ layout: default
 <h2>{{page.name}}</h2>
 <img src="{{page.photo}}" alt="{{page.name}}" class="member-photo"> 
 <h3>{{page.position}}</h3>
+<p><b>Start Date: </b>{{page.start_date}}</p>
 <p><b>Email: </b>{{page.email}}<br>
 <b>Phone: </b>{{page.phone}}<br>
 <b>Address: </b>{{page.address}}
 </p>
 </div>
 <div class="member-bio-cell">
-{{page.bio}}
+{{page.bio | markdownify }}
 </div>
 </div>
