@@ -132,6 +132,9 @@ collections:
 
   presentations: 
     output: true
+  
+  conferences:
+    output: true
 
 category_archive:
   type: liquid
