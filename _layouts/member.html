@@ -11,7 +11,8 @@ layout: default
     <p><b>Start Date: </b>{{page.start_date}}</p>
     <p><b>Email: </b>{{page.email}}<br>
     <b>Phone: </b>{{page.phone}}<br>
-    <b>Address: </b>{{page.address}}
+    <b>Address: </b>{{page.address}}<br>
+    <b>CV: </b><a href="{{ page.cv_file | relative_url }}">{{page.cv_file_show}}</a>
     </p>
   </div>
   
