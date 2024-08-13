@@ -18,6 +18,6 @@ layout: default
                 </li>
             {% endfor %}
             </ul>
-        <b>Download: </b><a href="{{page.file}}">{{page.file_name}}</a>
+        <b>File: </b><a href="{{page.file | relative_url}}">{{page.file_name}}</a>
     </div>
 </div>

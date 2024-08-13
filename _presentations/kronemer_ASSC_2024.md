@@ -6,7 +6,7 @@ conference_id: "2024_ASSC"
 presenters: 
     - "sharif_kronemer"
 summary:
-file: 
-file_name: test_file_name
+file: "/assets/presentations/Kronemer_ASSC_27_Talk_Presentation.pdf"
+file_name: "Kronemer_ASSC_27_Talk_Presentation.pdf"
 layout: presentation
 ---
