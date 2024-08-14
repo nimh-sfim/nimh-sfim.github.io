@@ -12,7 +12,7 @@ layout: default
                 {% assign author = site.members | where: "presenter_id", author_id | first %}
                 {% if author%}
                 <li>
-                    <a href="{{author.url}}">{{ author.name }}</a>
+                    <a href="{{author.url}}">{{ author.title }}</a>
                 </li> 
                 {%endif%}
             {% endfor %}
