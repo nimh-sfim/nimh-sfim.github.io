@@ -16,7 +16,7 @@ classes: wide
     <div> 
         <b>Title:</b><br><a href="{{ publication.url }}">{{ publication.title }}</a>
     </div>
-        <b>Authors:</b><br>{{publications.authors_string}}
+        <b>Authors:</b><br>{{publication.authors_string}}
     <div>
     </div>
     <div>
