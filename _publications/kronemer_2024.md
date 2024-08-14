@@ -1,7 +1,7 @@
 ---
 title: "Cross-species real time detection of trends in pupil size fluctuation"
 
-date: 2024
+date: 2024-08-12
 authors:
    - Sharif I. Kronemer
    - Victoria E. Gobo
