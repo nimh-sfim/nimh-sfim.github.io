@@ -38,7 +38,7 @@ layout: default
 
     {% assign sorted_publications =  site.publications | sort: 'date' | reverse %}
     {% for publication in sorted_publications %}
-    {%if presentation.presenters contains page.presenter_id %}
+    {%if publication.author_ids contains page.presenter_id %}
 
     <div class="presentation-list">
         <div class="presentation-item"><b>Published: </b><br>{{publication.date | date: "%Y"}} </div>
