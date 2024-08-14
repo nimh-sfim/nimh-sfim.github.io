@@ -3,6 +3,7 @@ name: "Dorian D. Van Tassell"
 presenter_id: "dorian_van_tassell"
 position: "Lab Manager"
 start_date: 2006
+end_date: 
 email: "vantasselld@mail.nih.gov"
 phone: "(301) 496-8174"
 address: "Section on Functional Imaging Methods<br>

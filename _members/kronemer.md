@@ -3,6 +3,7 @@ name: "Sharif Kronemer, Ph.D."
 presenter_id: "sharif_kronemer"
 position: Post-Doctoral Fellow
 start_date: 2021
+end_date: 
 email: "sharif.kronemer@nih.gov"
 phone: 
 address: 
