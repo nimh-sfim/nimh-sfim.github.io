@@ -20,9 +20,9 @@ layout: default
 
         <b>Project: </b><br>
         {% assign project = site.projects | where: "project_id", project_id | first %}
-        <a href="{{project.url}}">{{project.name}}</a>
+        <a href="{{project.url}}">{{project.title}}</a>
 
-        <b>Authors: </b>{{page.title}}<br>
+        <b>Authors: </b><br>
         <ul>
             {% for author in page.authors %}
                 <li>
@@ -34,7 +34,7 @@ layout: default
         <b>Year of Publication: </b>{{page.date | date: "%Y"}} <br>
 
         {% if page.type == "journal_article"}
-        
+
         <b>Journal: </b>{{page.journal}}<br>
         <b>Volume: </b>{{page.volume}}<br>
         <b>URL: </b>{{page.paper_url}}<br>
