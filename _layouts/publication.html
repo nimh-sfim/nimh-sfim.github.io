@@ -35,10 +35,10 @@ layout: default
 
         {% if page.type == "journal_article"%}
         <a href="{{page.data_loc}}">Data</a><br>
-        <a href="{{page.code_loc}}">Code</a>
+        <a href="{{page.code_loc}}">Code</a><br>
         <b>Journal: </b>{{page.journal}}<br>
         <b>Volume: </b>{{page.volume}}<br>
-        <b>URL: </b><a href="{{page.paper_url"}}>{{page.paper_url}}</a><br>
+        <b>URL: </b><a href="{{page.paper_url}}">{{page.paper_url}}</a><br>
         <b>DOI: </b><a href="{{page.doi}}">{{page.doi}}</a><br>
 
         {%elsif page.type=="book_chapter"%}
