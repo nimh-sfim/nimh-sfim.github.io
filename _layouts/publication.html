@@ -18,9 +18,9 @@ layout: default
             {% endfor %}
             </ul>
 
-        <b>Project: </b><br>
+        <b>Project: </b>
         {% assign project = site.projects | where: "project_id", project_id | first %}
-        <a href="{{project.url}}">{{project.title}}</a>
+        <a href="{{project.url}}">{{project.title}}</a><br>
 
         <b>Authors: </b><br>
         <ul>
