@@ -33,5 +33,30 @@ layout: default
 
     {% endif %}
     {% endfor %}
+
+    <h2>Publications: </h2>
+
+    {% assign sorted_publications =  site.publications | sort: 'date' | reverse %}
+    {% for publication in sorted_publications %}
+    {%if presentation.presenters contains page.presenter_id %}
+
+    <div class="presentation-list">
+        <div class="presentation-item"><b>Published: </b><br>{{publication.date | date: "%Y"}} </div>
+        <div class="presentation-title"><b>Title: </b><br><a href="{{publication.url}}">{{publication.title}}</a></div>
+        <div class="presentation-item"><b>Type: </b><br>
+          {%if publication.type == "journal_article"%}
+          Journal Article
+          {%elsif publication.type == "book_chapter%}
+          Book Chapter 
+          {%elsif publication.type == "misc"%}
+          Miscellaneous
+          {%endif%}
+        </div>
+    </div>
+
+    {% endif %}
+    {% endfor %}
+
+
   </div>
 </div>
