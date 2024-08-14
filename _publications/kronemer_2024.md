@@ -2,6 +2,7 @@
 title: "Cross-species real time detection of trends in pupil size fluctuation"
 
 date: 2024-08-12
+authors_string: Sharif I. Kronemer, Victoria E. Gobo, Joshua B. Teves,  Diana C. Burk, Somayeh Shahsavarani, Catherine R. Walsh,  Javier Gonzalez-Castillo, Peter A. Bandettini
 authors:
    - Sharif I. Kronemer
    - Victoria E. Gobo
