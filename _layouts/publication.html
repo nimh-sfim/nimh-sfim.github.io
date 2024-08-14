@@ -34,14 +34,12 @@ layout: default
         <b>Year of Publication: </b>{{page.date | date: "%Y"}} <br>
 
         {% if page.type == "journal_article"%}
-
+        <a href="{{page.data_loc}}">Data</a><br>
+        <a href="{{page.code_loc}}">Code</a>
         <b>Journal: </b>{{page.journal}}<br>
         <b>Volume: </b>{{page.volume}}<br>
-        <b>URL: </b>{{page.paper_url}}<br>
-        <b>DOI: </b>{{page.doi}}<br>
-        
-        <a href="{{paper.data_loc}}">Data</a><br>
-        <a href="{{paper.code_loc}}">Code</a>
+        <b>URL: </b><a href="{{page.paper_url"}}>{{page.paper_url}}</a><br>
+        <b>DOI: </b><a href="{{page.doi}}">{{page.doi}}</a><br>
 
         {%elsif page.type=="book_chapter"%}
 
