@@ -25,7 +25,7 @@ volume:
 issue: 
 abstract: 'Pupillometry is a popular method because pupil size is an easily measured and sensitive marker of neural activity and associated with behavior, cognition, emotion, and perception. Currently, there is no method for monitoring the phases of pupillary fluctuation in real time. We introduce rtPupilPhase – a software that automatically detects trends in pupil size in real time, enabling novel implementations of real time pupillometry towards achieving numerous research and translational goals.'
 project_id: consciousness
-url: https://www.biorxiv.org/content/10.1101/2024.02.12.579393v1
+paper_url: https://www.biorxiv.org/content/10.1101/2024.02.12.579393v1
 doi: https://doi.org/10.1101/2024.02.12.579393
 data_loc: 'https://github.com/nimh-sfim/rtPupilPhase'
 code_loc: 'https://github.com/nimh-sfim/rtPupilPhase'
