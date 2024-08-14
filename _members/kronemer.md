@@ -1,5 +1,5 @@
 ---
-name: "Sharif Kronemer, Ph.D."
+title: "Sharif Kronemer, Ph.D."
 presenter_id: sharif_kronemer
 position: Post-Doctoral Fellow
 start_date: 2021

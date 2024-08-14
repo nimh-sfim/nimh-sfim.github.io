@@ -12,11 +12,11 @@ classes: wide
 {% if member.status == "current" %}
 <div class="members-list">
     <div class="member-item">
-      <a href="{{ member.url }}"> <img src="{{ member.photo }}" alt="{{ member.name }}" class="small-photo"> </a>
+      <a href="{{ member.url }}"> <img src="{{ member.photo }}" alt="{{ member.title }}" class="small-photo"> </a>
     </div>
     <div class="member-item">  
       <b>Name:</b><br>
-      <a href="{{ member.url }}"> {{ member.name }}</a>
+      <a href="{{ member.url }}"> {{ member.title }}</a>
     </div>
     <div class="member-item"> 
     <b>Position:</b><br>
@@ -40,11 +40,11 @@ classes: wide
 {% if member.status == "former" %}
 <div class="members-list">
     <div class="member-item">
-      <img src="{{ member.photo }}" alt="{{ member.name }}" class="small-photo">
+      <img src="{{ member.photo }}" alt="{{ member.title }}" class="small-photo">
     </div>
     <div class="member-item">  
       <b>Name:</b><br>
-      {{ member.name }}
+      {{ member.title }}
     </div>
     <div class="member-item"> 
     <b>Position:</b><br>

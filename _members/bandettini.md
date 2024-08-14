@@ -1,5 +1,5 @@
 ---
-name: "Peter Bandettini, Ph.D." 
+title: "Peter Bandettini, Ph.D." 
 presenter_id: peter_bandettini
 position: "Chief"
 start_date: 1999

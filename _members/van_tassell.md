@@ -1,5 +1,5 @@
 ---
-name: "Dorian D. Van Tassell" 
+title: "Dorian D. Van Tassell" 
 presenter_id: "dorian_van_tassell"
 position: "Lab Manager"
 start_date: 2006
