@@ -10,9 +10,11 @@ layout: default
         <ul>
             {% for author_id in page.author_ids %}
                 {% assign author = site.members | where: "presenter_id", author_id | first %}
+                {% if author%}
                 <li>
                     <a href="{{author.url}}">{{ author.name }}</a>
-                </li>
+                </li> 
+                {%endif%}
             {% endfor %}
             </ul>
 
@@ -29,9 +31,10 @@ layout: default
             {% endfor %}
             </ul>
         <b>Abstract: </b>{{page.abstract}}<br>
-        <b>Year of Publication: </b>{{page.date | %Y}}<br>
+        <b>Year of Publication: </b>{{page.date | date: "%Y"}} <br>
 
         {% if page.type == "journal_article"}
+        
         <b>Journal: </b>{{page.journal}}<br>
         <b>Volume: </b>{{page.volume}}<br>
         <b>URL: </b>{{page.paper_url}}<br>
@@ -39,7 +42,7 @@ layout: default
         
         <a href="{{paper.data_loc}}">Data</a><br>
         <a href="{{paper.code_loc}}">Code</a>
-        
+
         {%elsif page.type=="book_chapter"%}
 
 
