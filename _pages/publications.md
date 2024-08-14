@@ -21,7 +21,11 @@ classes: wide
     </div>
     <div>
         <b>Publication:</b><br>
+        {% if publication.type == "journal_article" %}
         {{publication.journal}}
+        {%elsif publication.type =="book_chapter"%}
+        {{publication.book_title}}
+        {%endif%}
     </div>
 </div>
 

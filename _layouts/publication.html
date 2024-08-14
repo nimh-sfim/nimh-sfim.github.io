@@ -19,7 +19,7 @@ layout: default
             </ul>
 
         <b>Project: </b>
-        {% assign project = site.projects | where: "project_id", project_id | first %}
+        {% assign project = site.projects | where: "project_id", page.project_id | first %}
         <a href="{{project.url}}">{{project.title}}</a><br>
 
         <b>Authors: </b><br>
@@ -39,13 +39,16 @@ layout: default
         <b>Journal: </b>{{page.journal}}<br>
         <b>Volume: </b>{{page.volume}}<br>
         <b>URL: </b><a href="{{page.paper_url}}">{{page.paper_url}}</a><br>
-        <b>DOI: </b><a href="{{page.doi}}">{{page.doi}}</a><br>
 
         {%elsif page.type=="book_chapter"%}
 
+        <b>Book Title: </b>{{page.book_title}}<br>
+        <b>Number of Pages: </b>{{page.pages}}<br>
+        <b>Publisher: </b>{{page.publisher}}<br>
+        <b>ISBN: </b>{{page.isbn}}<br>
 
         {%endif %}
-
+        <b>DOI: </b><a href="{{page.doi}}">{{page.doi}}</a><br>
 
 
     </div>
