@@ -80,3 +80,14 @@
 
 }
 
+.related-groups{
+display:flex;
+flex-direction:row;
+}
+
+.related-group-item{
+  flex:1;
+  gap:30px;
+  text-align: center;
+}
+
