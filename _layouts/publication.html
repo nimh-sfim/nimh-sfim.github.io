@@ -1,0 +1,52 @@
+---
+layout: default
+---
+
+<div class="presentation-list">
+    <div class="presentation-item">
+        <b>Title: </b>{{page.title}}<br>
+
+        <b>FIM Authors: </b><br>
+        <ul>
+            {% for author_id in page.author_ids %}
+                {% assign author = site.members | where: "presenter_id", author_id | first %}
+                <li>
+                    <a href="{{author.url}}">{{ author.name }}</a>
+                </li>
+            {% endfor %}
+            </ul>
+
+        <b>Project: </b><br>
+        {% assign project = site.projects | where: "project_id", project_id | first %}
+        <a href="{{project.url}}">{{project.name}}</a>
+
+        <b>Authors: </b>{{page.title}}<br>
+        <ul>
+            {% for author in page.authors %}
+                <li>
+                    {{author}}
+                </li>
+            {% endfor %}
+            </ul>
+        <b>Abstract: </b>{{page.abstract}}<br>
+        <b>Year of Publication: </b>{{page.date | %Y}}<br>
+
+        {% if page.type == "journal_article"}
+        <b>Journal: </b>{{page.journal}}<br>
+        <b>Volume: </b>{{page.volume}}<br>
+        <b>URL: </b>{{page.paper_url}}<br>
+        <b>DOI: </b>{{page.doi}}<br>
+        
+        <a href="{{paper.data_loc}}">Data</a><br>
+        <a href="{{paper.code_loc}}">Code</a>
+        
+        {%elsif page.type=="book_chapter"%}
+
+
+        {%endif %}
+
+
+
+    </div>
+
+</div>
