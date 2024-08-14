@@ -12,18 +12,18 @@ classes: wide
 <h2> {{ year_group.name }} </h2>
 
 {% for publication in year_group.items %}
-    <div class="presentation-list">
-        <div> 
-            <b>Title:</b><br><a href="{{ publication.url }}">{{ publication.title }}</a>
-        </div>
-            <b>Authors:</b><br>{{publications.authors}}
-        <div>
-        </div>
-        <div>
-            <b>Publication:</b><br>
-            {{publication.journal}}
-        </div>
+<div class="presentation-list">
+    <div> 
+        <b>Title:</b><br><a href="{{ publication.url }}">{{ publication.title }}</a>
     </div>
+        <b>Authors:</b><br>{{publications.authors}}
+    <div>
+    </div>
+    <div>
+        <b>Publication:</b><br>
+        {{publication.journal}}
+    </div>
+</div>
 
     {% endfor %}
 {% endfor %}
