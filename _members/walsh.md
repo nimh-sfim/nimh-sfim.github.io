@@ -5,11 +5,11 @@ position: Scientific Programmer
 start_date: 2023
 end_date: 
 email: "catherine.walsh@nih.gov"
-phone: "301-451-2512"
+phone: "(301) 451-2512"
 address: "Section on Functional Imaging Methods<br>
 Laboratory of Brain and Cognition<br>
 National Institute of Mental Health<br>
-Building 10, Room 1D80<br>
+Building 10, Room 1D73<br>
 10 Center Dr. MSC 1148<br>
 Bethesda, MD 20892-1148<br>"
 photo: "/assets/images/walsh.png"
