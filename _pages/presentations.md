@@ -9,7 +9,7 @@ classes: wide
 {% for presentation in site.presentations %}
 <div class="presentation-list">
     <div class="presenation-item">
-        <b>Title: </b>{{presentation.title}}<br>
+        <b>Title: </b><a href="{{presentation.url}}">{{presentation.title}}</a><br>
         <b>Presented on: </b>{{presentation.date | date: "%B %Y"}} <br>
         {% assign conference_item = site.conferences | where: "conference_id", presentation.conference_id | first %}
         <b>Conference: </b><a href="{{conference_item.url}}">{{conference_item.name}}</a> <br>
