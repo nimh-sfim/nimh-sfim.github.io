@@ -17,7 +17,7 @@ bio: "Catherine Walsh recieved a B.A. in Behavioral Neuroscience from Colgate Un
 
 After her Ph.D., Catherine joined Peter Bandettini's Section on Functional Imaging Methods at the NIMH as a Scientific Programmer. In this role, Catherine supports ongoing work in the lab by aiding with scientific programming, sharing of data and general IT support. Additionally, Catherine's own research seeks to apply the novel data acquisition and analysis methods developed in SFIM to the cognitive neuroscience of memory." 
 cv_file: "/assets/CVs/"
-cv_file_show: ""
+cv_file_show: 
 weight: 3
 status: current
 layout: member
