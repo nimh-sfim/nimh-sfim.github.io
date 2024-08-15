@@ -6,7 +6,7 @@ summary: "<p>A common assumption in most resting state fMRI (rsfMRI) studies is 
 
 <h2>1. Periodic Changes in fMRI Connectivity</h2>
 
-![BOLD Dynamics Figure 1](assets/images/boldynamics_fig01_3.jpg)
+![BOLD Dynamics Figure 1](/assets/images/boldynamics_fig01_3.jpg)
 
 <p>Figure 1. (A) Posterior cingulate seed (PCC) region. (B) Correlation map created from the seed using the entire 10 minute time series. (C) Correlation maps created over 32s temporal windows centered at the time points in the connected figures D and E. (D) Sample time series from the seed region (red) and a voxel at the green crosshairs (motor cortex region). (E) Correlation values over time for the sample time series using three different correlation windows with widths (32, 64, and 128 s).</p>
 
@@ -14,7 +14,7 @@ summary: "<p>A common assumption in most resting state fMRI (rsfMRI) studies is 
 
 <h2>2. Spatial Distribution of Most/Least Stable Functional Connections at the scale of Minutes</h2>
 
-![BOLD Dynamics Figure 2](assets/images/boldynamics_fig02.jpg)
+![BOLD Dynamics Figure 2](/assets/images/boldynamics_fig02.jpg)
 
 <p>Figure 2. (A) Most stable positive connections when only connections within the lowest 25% of CVAR values are selected in each subject. (B) Most stable positive connections when only connections within the lowest 12.5% of CVAR values are selected in each subject. As the selection criterion becomes more stringent, a smaller number of connections make it to the group level maps presented here. When fewer connections are present, the symmetric inter-hemispheric pattern becomes clearer.</p>
 
