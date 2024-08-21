@@ -53,10 +53,15 @@
   margin-bottom: 20px;
 }
 
-.project-item {
+.project-title {
   flex:1;
   text-align: left;
-  max-height: 100px;
+  gap:50px;
+}
+
+.project-summary {
+  flex:2;
+  text-align: left;
   gap:50px;
 }
 
