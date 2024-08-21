@@ -41,10 +41,16 @@
   margin-bottom:20px;
 }
 
-.member-item {
-  flex: 2;
+.member-list-photo {
+  width:10%;
+  margin-right: 10px;
   text-align: center;
-  max-height: 100px;
+  gap:50px;
+}
+
+.member-item {
+  width:20%;
+  text-align: center;
   gap:50px;
 }
 
