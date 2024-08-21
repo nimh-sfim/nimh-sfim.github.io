@@ -55,12 +55,14 @@
 
 .project-title {
   flex:1;
+  width:33%;
   text-align: left;
   gap:50px;
 }
 
 .project-summary {
-  flex:2;
+  flex:1;
+  width:67%;
   text-align: left;
   gap:50px;
 }
