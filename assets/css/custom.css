@@ -3,6 +3,13 @@
   padding: 30px;
 }
 
+.content-list {
+  height:fit-content;
+  display: flex;
+  flex-direction:row;
+  margin-bottom: 20px;
+}
+
 .member-profile {
   display: flex;
   flex-direction: row;
@@ -44,13 +51,6 @@
 .small-photo {
   height:100%;
   max-height: 100px;
-}
-
-.content-list {
-  height:fit-content;
-  display: flex;
-  flex-direction:row;
-  margin-bottom: 20px;
 }
 
 .project-title {
