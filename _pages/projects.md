@@ -9,7 +9,7 @@ classes: wide
 
 {% for project in site.projects %}
 {% if project.status == "current" %}
-<div class="project-list">
+<div class="content-list">
     <div class="project-title">
     <b>Title:</b><br>
     <a href="{{ project.url }}"> {{ project.title }} </a>

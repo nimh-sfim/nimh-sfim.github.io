@@ -10,7 +10,7 @@ classes: wide
 {% assign sorted_members = site.members | sort: 'weight' %}
 {% for member in sorted_members %}
 {% if member.status == "current" %}
-<div class="members-list">
+<div class="content-list">
     <div class="member-item">
       <a href="{{ member.url }}"> <img src="{{ member.photo }}" alt="{{ member.title }}" class="small-photo"> </a>
     </div>
@@ -38,7 +38,7 @@ classes: wide
 
 {% for member in site.members %}
 {% if member.status == "former" %}
-<div class="members-list">
+<div class="content-list">
     <div class="member-item">
       <img src="{{ member.photo }}" alt="{{ member.title }}" class="small-photo">
     </div>

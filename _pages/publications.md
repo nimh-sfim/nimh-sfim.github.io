@@ -12,7 +12,7 @@ classes: wide
 <h2> {{ year_group.name }} </h2>
 
 {% for publication in year_group.items %}
-<div class="presentation-list">
+<div class="content-list">
     <div> 
         <b>Title:</b><br><a href="{{ publication.url }}">{{ publication.title }}</a>
     </div>

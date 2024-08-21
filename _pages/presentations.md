@@ -7,7 +7,7 @@ classes: wide
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
 {% for presentation in site.presentations %}
-<div class="presentation-list">
+<div class="content-list">
     <div class="presenation-item">
         <b>Title: </b><a href="{{presentation.url}}">{{presentation.title}}</a><br>
         <b>Presented on: </b>{{presentation.date | date: "%B %Y"}} <br>
