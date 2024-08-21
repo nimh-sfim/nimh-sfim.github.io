@@ -47,7 +47,7 @@
 }
 
 .project-list {
-  height:100%;
+  height:fit-content;
   display: flex;
   flex-direction:row;
   margin-bottom: 20px;
