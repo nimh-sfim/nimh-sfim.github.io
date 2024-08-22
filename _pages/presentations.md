@@ -8,15 +8,22 @@ classes: wide
 
 {% for presentation in site.presentations %}
 <div class="content-list">
-    <div class="presenation-item">
+    <div class="presentation-item">
         <b>Title: </b><a href="{{presentation.url}}">{{presentation.title}}</a><br>
+    </div>
+    <div class="presentation-item">
         <b>Presented on: </b>{{presentation.date | date: "%B %Y"}} <br>
+    </div>
+    <div class="presentation-item">
         {% assign conference_item = site.conferences | where: "conference_id", presentation.conference_id | first %}
         <b>Conference: </b><a href="{{conference_item.url}}">{{conference_item.name}}</a> <br>
+    </div>
+    <div class="presentation-item">
         <b>Project: </b>
         {% assign project = site.projects | where: "project_id", presentation.project_id | first %}
         <a href="{{project.url}}">{{project.title}}</a><br>
-        <b>Summary: </b><br>
+    </div>
+    <div class="presentation-item">
         <b>Presenters: </b><br>
             <ul>
             {% for presenter_id in presentation.presenters %}
@@ -26,7 +33,6 @@ classes: wide
                 </li>
             {% endfor %}
             </ul>
-        <b>Download: </b><a href="{{presentation.file}}">{{presentation.file_name}}</a>
     </div>
 </div>
 {% endfor %}
