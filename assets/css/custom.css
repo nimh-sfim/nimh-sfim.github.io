@@ -75,6 +75,24 @@
   width:20%;
 }
 
+.three-col-table{
+  display: flex;
+  flex-direction:row;
+  gap: 30px 20px;
+}
+
+.three-col-table-left{ 
+  width: 20%;
+}
+
+.three-col-table-center{ 
+  width: 60%;
+}
+
+.three-col-table-right{
+  width:20%;
+}
+
 .presentation-title{
   flex:2;
 }

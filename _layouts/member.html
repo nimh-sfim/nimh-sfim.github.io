@@ -46,10 +46,10 @@ layout: default
     {% for publication in sorted_publications %}
     {%if publication.author_ids contains page.presenter_id %}
 
-    <div class="presentation-list">
-        <div class="publication-title"><b>Published: </b><br>{{publication.date | date: "%Y"}} </div>
-        <div class="publication-authors"><b>Title: </b><br><a href="{{publication.url}}">{{publication.title}}</a></div>
-        <div class="publication-journal"><b>Type: </b><br>
+    <div class="three-col-table">
+        <div class="three-col-table-left"><b>Published: </b><br>{{publication.date | date: "%Y"}} </div>
+        <div class="three-col-table-center"><b>Title: </b><br><a href="{{publication.url}}">{{publication.title}}</a></div>
+        <div class="three-col-table-right"><b>Type: </b><br>
           {%if publication.type == "journal_article"%}
           Journal Article
           {%elsif publication.type == "book_chapter%}
