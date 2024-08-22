@@ -84,6 +84,16 @@
 
 }
 
+.publication-authors{
+  width:50%;
+  margin:20px;
+}
+
+.publication-outer{ 
+  width:25%;
+  margin:20px;
+}
+
 .conference-name{ 
   width:75%; 
   margin-right:50px;
