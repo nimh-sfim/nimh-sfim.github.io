@@ -5,7 +5,7 @@ classes: wide
 ---
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
-<h2> Former Lab Members </h2>
+<h2> <a href="{{ '/members/' | relative_url }}" >Current</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Former </h2>
 
 {% assign sorted_members = site.members | sort: 'weight' %}
 {% for member in sorted_members %}

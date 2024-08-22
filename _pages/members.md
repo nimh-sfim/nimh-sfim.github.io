@@ -5,7 +5,7 @@ classes: wide
 ---
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
-<h2> Current </h2>
+<h2> Current &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="{{ '/former-lab-members/' | relative_url }}" >Former</a> </h2>
 
 {% assign sorted_members = site.members | sort: 'weight' %}
 {% for member in sorted_members %}
@@ -17,34 +17,6 @@ classes: wide
     <div class="member-item">  
       <b>Name:</b><br>
       <a href="{{ member.url }}"> {{ member.title }}</a>
-    </div>
-    <div class="member-item"> 
-    <b>Position:</b><br>
-      {{ member.position }}
-    </div>
-    <div class="member-item">
-    <b>Email:</b><br>
-     {{member.email}}
-     </div>
-     <div class="member-item">
-     <b>Phone:</b><br>
-      {{member.phone}}
-    </div>
-</div>
-{% endif %}
-{% endfor %}
-
-<h2> Former </h2>
-
-{% for member in site.members %}
-{% if member.status == "former" %}
-<div class="content-list">
-    <div class="member-item">
-      <img src="{{ member.photo }}" alt="{{ member.title }}" class="small-photo">
-    </div>
-    <div class="member-item">  
-      <b>Name:</b><br>
-      {{ member.title }}
     </div>
     <div class="member-item"> 
     <b>Position:</b><br>

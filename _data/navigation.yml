@@ -2,12 +2,7 @@ main:
   - title: "Home"
     url: /
   - title: "Lab Members"
-    url: /lab-members/
-    children: 
-      - title: "Current Lab Members"
-        url: /members/
-      - title: "Former Lab Members"
-        url: /former-lab-members/
+    url: /members/
   - title: "Projects"
     url: /projects/
   - title: "Photos" 
