@@ -11,7 +11,7 @@ classes: wide
 <div class="content-list">
     <div class="conference-name">
     <b>Name:</b><br>
-    <a href="{{ conference.url }}"> {{ conference.name }} </a>
+    <a href="{{ conference.url }}"> {{ conference.title }} </a>
     </div>
     <div class="conference-location">  
         <b>Location:</b><br>
