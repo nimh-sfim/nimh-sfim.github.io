@@ -31,10 +31,10 @@ layout: default
     {% for presentation in sorted_presentations %}
     {%if presentation.presenters contains page.presenter_id %}
 
-    <div class="presentation-list">
-        <div class="publication-title"><b>Presented on: </b><br>{{presentation.date | date: "%B %Y"}} </div>
-        <div class="publication-authors"><b>Title: </b><br><a href="{{presentation.url}}">{{presentation.title}}</a></div>
-        <div class="publication-journal"><b>File: </b><br><a href="{{presentation.file}}">{{presentation.file_name}}</a></div>
+    <div class="three-col-table">
+        <div class="three-col-table-left"><b>Presented on: </b><br>{{presentation.date | date: "%B %Y"}} </div>
+        <div class="three-col-table-center"><b>Title: </b><br><a href="{{presentation.url}}">{{presentation.title}}</a></div>
+        <div class="three-col-table-right"><b>File: </b><br><a href="{{presentation.file}}">{{presentation.file_name}}</a></div>
     </div>
 
     {% endif %}
@@ -52,7 +52,7 @@ layout: default
         <div class="three-col-table-right"><b>Type: </b><br>
           {%if publication.type == "journal_article"%}
           Journal Article
-          {%elsif publication.type == "book_chapter%}
+          {%elsif publication.type == "book_chapter"%}
           Book Chapter 
           {%elsif publication.type == "misc"%}
           Miscellaneous

@@ -13,10 +13,10 @@ layout: default
 {% for presentation in sorted_presentations %}
 {%if presentation.project_id == page.project_id %}
 
-<div class="presentation-list">
-    <div class="presentation-item"><b>Presented on: </b><br>{{presentation.date | date: "%B %Y"}} </div>
-    <div class="presentation-title"><b>Title: </b><br><a href="{{presentation.url}}">{{presentation.title}}</a></div>
-    <div class="presentation-item"><b>File: </b><br><a href="{{presentation.file}}">{{presentation.file_name}}</a></div>
+<div class="three-col-table">
+    <div class="three-col-table-left"><b>Presented on: </b><br>{{presentation.date | date: "%B %Y"}} </div>
+    <div class="three-col-table-center"><b>Title: </b><br><a href="{{presentation.url}}">{{presentation.title}}</a></div>
+    <div class="three-col-table-right"><b>File: </b><br><a href="{{presentation.file}}">{{presentation.file_name}}</a></div>
 </div>
 
 {% endif %}
@@ -28,10 +28,10 @@ layout: default
 {% for publication in sorted_publications %}
 {%if publication.project_id == page.project_id %}
 
-<div class="presentation-list">
-    <div class="presentation-item"><b>Published: </b><br>{{publication.date | date: "%Y"}} </div>
-    <div class="presentation-title"><b>Title: </b><br><a href="{{publication.url}}">{{publication.title}}</a></div>
-    <div class="presentation-item"><b>Type: </b><br>
+<div class="three-col-table">
+    <div class="three-col-table-left"><b>Published: </b><br>{{publication.date | date: "%Y"}} </div>
+    <div class="three-col-table-center"><b>Title: </b><br><a href="{{publication.url}}">{{publication.title}}</a></div>
+    <div class="three-col-table-right"><b>Type: </b><br>
       {%if publication.type == "journal_article"%}
       Journal Article
       {%elsif publication.type == "book_chapter%}
