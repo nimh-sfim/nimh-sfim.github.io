@@ -129,7 +129,7 @@ defaults:
 collections:
   members:
     output: true
-    sort_by: weight
+    sort_by: "weight"
   projects: 
     output: true
   publications:
