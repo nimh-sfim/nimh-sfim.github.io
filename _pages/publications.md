@@ -12,14 +12,14 @@ classes: wide
 <h2> {{ year_group.name }} </h2>
 
 {% for publication in year_group.items %}
-<div class="content-list">
-    <div class="publication-title"> 
+<div class="three-col-table">
+    <div class="three-col-table-left"> 
         <b>Title:</b><br><a href="{{ publication.url }}">{{ publication.title }}</a>
     </div>
-    <div class="publication-authors">
+    <div class="three-col-table-center">
         <b>Authors:</b><br>{{publication.authors_string}}
     </div>
-    <div class="publication-journal">
+    <div class="three-col-table-right">
         <b>Publication:</b><br>
         {% if publication.type == "journal_article" %}
         {{publication.journal}}
