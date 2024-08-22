@@ -86,12 +86,16 @@
 
 .publication-authors{
   width:50%;
-  margin:20px;
 }
 
-.publication-outer{ 
+.publication-title{ 
   width:25%;
-  margin:20px;
+  margin-right:20px;
+}
+
+.publication-journal{ 
+  width:25%;
+  margin-left:20px;
 }
 
 .conference-name{ 
