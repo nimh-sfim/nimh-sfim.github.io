@@ -119,6 +119,12 @@ defaults:
     values:
       layout: single
       author_profile: false
+      related: false
+      comments: false
+      share: false
+      show_pagination: false
+      pagination: false
+
 
 collections:
   members:
