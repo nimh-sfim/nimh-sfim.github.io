@@ -9,17 +9,17 @@ classes: wide
 {% for presentation in site.presentations %}
 <div class="content-list">
     <div class="presentation-item">
-        <b>Title: </b><a href="{{presentation.url}}">{{presentation.title}}</a><br>
+        <b>Title: </b><br><a href="{{presentation.url}}">{{presentation.title}}</a><br>
     </div>
     <div class="presentation-item">
-        <b>Presented on: </b>{{presentation.date | date: "%B %Y"}} <br>
+        <b>Presented on: </b><br>{{presentation.date | date: "%B %Y"}} <br>
     </div>
     <div class="presentation-item">
         {% assign conference_item = site.conferences | where: "conference_id", presentation.conference_id | first %}
-        <b>Conference: </b><a href="{{conference_item.url}}">{{conference_item.name}}</a> <br>
+        <b>Conference: </b><br><a href="{{conference_item.url}}">{{conference_item.name}}</a> <br>
     </div>
     <div class="presentation-item">
-        <b>Project: </b>
+        <b>Project: </b><br>
         {% assign project = site.projects | where: "project_id", presentation.project_id | first %}
         <a href="{{project.url}}">{{project.title}}</a><br>
     </div>
