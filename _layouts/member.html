@@ -32,9 +32,9 @@ layout: default
     {%if presentation.presenters contains page.presenter_id %}
 
     <div class="presentation-list">
-        <div class="presentation-item"><b>Presented on: </b><br>{{presentation.date | date: "%B %Y"}} </div>
-        <div class="presentation-title"><b>Title: </b><br><a href="{{presentation.url}}">{{presentation.title}}</a></div>
-        <div class="presentation-item"><b>File: </b><br><a href="{{presentation.file}}">{{presentation.file_name}}</a></div>
+        <div class="publication-title"><b>Presented on: </b><br>{{presentation.date | date: "%B %Y"}} </div>
+        <div class="publication-authors"><b>Title: </b><br><a href="{{presentation.url}}">{{presentation.title}}</a></div>
+        <div class="publication-journal"><b>File: </b><br><a href="{{presentation.file}}">{{presentation.file_name}}</a></div>
     </div>
 
     {% endif %}
@@ -47,9 +47,9 @@ layout: default
     {%if publication.author_ids contains page.presenter_id %}
 
     <div class="presentation-list">
-        <div class="presentation-item"><b>Published: </b><br>{{publication.date | date: "%Y"}} </div>
-        <div class="presentation-title"><b>Title: </b><br><a href="{{publication.url}}">{{publication.title}}</a></div>
-        <div class="presentation-item"><b>Type: </b><br>
+        <div class="publication-title"><b>Published: </b><br>{{publication.date | date: "%Y"}} </div>
+        <div class="publication-authors"><b>Title: </b><br><a href="{{publication.url}}">{{publication.title}}</a></div>
+        <div class="publication-journal"><b>Type: </b><br>
           {%if publication.type == "journal_article"%}
           Journal Article
           {%elsif publication.type == "book_chapter%}
