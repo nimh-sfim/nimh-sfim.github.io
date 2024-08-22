@@ -1,10 +1,13 @@
 ---
-layout: default
+layout: single
+class: wide
 ---
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
 <div class="full-page-content">
-        <b>Title: </b>{{page.title}}<br>
+        <b>Project: </b>
+        {% assign project = site.projects | where: "project_id", page.project_id | first %}
+        <a href="{{project.url}}">{{project.title}}</a><br>
 
         <b>FIM Authors: </b><br>
         <ul>
@@ -17,10 +20,6 @@ layout: default
                 {%endif%}
             {% endfor %}
             </ul>
-
-        <b>Project: </b>
-        {% assign project = site.projects | where: "project_id", page.project_id | first %}
-        <a href="{{project.url}}">{{project.title}}</a><br>
 
         <b>Authors: </b><br>
         <ul>
