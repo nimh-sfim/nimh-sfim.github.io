@@ -1,15 +1,11 @@
 ---
 layout: single
 class: wide
-pagination: false
-show_pagination: false
-show_related_posts: false
-share: false
-related: false
 ---
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
 <div class="full-page-content">
+    <b>Year of Publication: </b>{{page.date | date: "%Y"}} <br>
         <b>Project: </b>
         {% assign project = site.projects | where: "project_id", page.project_id | first %}
         <a href="{{project.url}}">{{project.title}}</a><br>
@@ -35,7 +31,6 @@ related: false
             {% endfor %}
             </ul>
         <b>Abstract: </b>{{page.abstract}}<br>
-        <b>Year of Publication: </b>{{page.date | date: "%Y"}} <br>
 
         {% if page.type == "journal_article"%}
         <a href="{{page.data_loc}}">Data</a><br>
