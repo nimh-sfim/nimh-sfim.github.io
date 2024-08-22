@@ -36,7 +36,9 @@ class: wide
         <a href="{{page.data_loc}}">Data</a><br>
         <a href="{{page.code_loc}}">Code</a><br>
         <b>Journal: </b>{{page.journal}}<br>
+        {% if page.volume %}
         <b>Volume: </b>{{page.volume}}<br>
+        {% endif %}
         <b>URL: </b><a href="{{page.paper_url}}">{{page.paper_url}}</a><br>
 
         {%elsif page.type=="book_chapter"%}
