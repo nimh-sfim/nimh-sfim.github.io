@@ -9,11 +9,11 @@ classes: wide
 {% assign sorted_conferences = site.conferences | sort: 'date' | reverse %}
 {% for conference in sorted_conferences %}
 <div class="content-list">
-    <div class="project-item">
+    <div class="conference-name">
     <b>Name:</b><br>
     <a href="{{ conference.url }}"> {{ conference.name }} </a>
     </div>
-    <div class="project-item">  
+    <div class="conference-location">  
         <b>Location:</b><br>
         {{ conference.location }}
     </div>

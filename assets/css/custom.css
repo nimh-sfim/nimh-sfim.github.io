@@ -84,6 +84,18 @@
 
 }
 
+.conference-name{ 
+  width:75%; 
+  margin-bottom:50px;
+  gap:50px;
+}
+
+.conference-location{
+  width:25%;
+  margin-bottom:50px;
+
+}
+
 .related-groups{
 display:flex;
 flex-direction:row;
