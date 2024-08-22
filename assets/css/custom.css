@@ -16,16 +16,15 @@
   flex-direction: row;
   align-items: flex-start;
   gap: 50px;
-  padding: 30px;
   }
 
 .member-photo-cell {
-  flex:1 ;
+  width:30%;
   max-width: 400px; 
  }
 
 .member-bio-cell {
-  flex:3
+  width:70%;
   }
 
 .member-photo {

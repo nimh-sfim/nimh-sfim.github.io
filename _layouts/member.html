@@ -6,7 +6,6 @@ class: wide
 
 <div class="member-profile"> 
   <div class="member-photo-cell">
-    <h2>{{page.title}}</h2>
     <img src="{{page.photo}}" alt="{{page.title}}" class="member-photo"> 
     <h3>{{page.position}}</h3>
     <p><b>Start Date: </b>{{page.start_date}}</p>
@@ -25,6 +24,10 @@ class: wide
   
   <div class="member-bio-cell">
     <p>{{page.bio | markdownify }}</p>
+</div>
+</div>
+
+<div class="full-page-content">
 
     <h2>Presentations: </h2>
 
@@ -40,7 +43,7 @@ class: wide
 
     {% endif %}
     {% endfor %}
-
+  
     <h2>Publications: </h2>
 
     {% assign sorted_publications =  site.publications | sort: 'date' | reverse %}
@@ -66,4 +69,3 @@ class: wide
 
 
   </div>
-</div>
