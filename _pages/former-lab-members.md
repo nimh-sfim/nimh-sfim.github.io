@@ -29,14 +29,6 @@ classes: wide
     <b>Position:</b><br>
       {{ member.position }}
     </div>
-    <div class="member-item">
-    <b>Email:</b><br>
-     {{member.email}}
-     </div>
-     <div class="member-item">
-     <b>Phone:</b><br>
-      {{member.phone}}
-    </div>
 </div>
 {% endif %}
 {%endfor%}

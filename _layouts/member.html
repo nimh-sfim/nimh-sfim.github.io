@@ -9,8 +9,15 @@ show_date: false
   <div class="member-photo-cell">
     <img src="{{page.photo}}" alt="{{page.title}}" class="member-photo"> 
     <h3>{{page.position}}</h3>
-    <p><b>Start Date: </b>{{page.start_date}}</p>
-    <p><b>Email: </b>{{page.email}}<br>
+    <p><b>Start Date: </b>{{page.start_date}}
+    {%if page.end_date%}
+    <b>End Date: </b> {{page.end_date}}
+    {%endif%}
+  </p>
+    <p>
+      {%if page.email%}
+      <b>Email: </b>{{page.email}}<br>
+      {%endif%}
     {%if page.phone%}
     <b>Phone: </b>{{page.phone}}<br>
     {%endif%}

@@ -1,5 +1,5 @@
 ---
-name: "Tori Gobo" 
+title: "Tori Gobo" 
 presenter_id: tori_gobo
 position: Postbac IRTA
 start_date: 2022
