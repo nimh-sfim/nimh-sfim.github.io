@@ -7,8 +7,15 @@ classes: wide
 
 <h2> <a href="{{ '/members/' | relative_url }}" >Current</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Former </h2>
 
-{% assign sorted_members = site.members | sort: 'weight' %}
-{% for member in sorted_members %}
+{% assign former_staff_by_year = site.members | group_by_exp: "member", "member.date | date: '%Y'" | reverse %}
+
+{% for year_group in former_staff_by_year %}
+
+{% if year_group.name%}
+
+<h2> {{ year_group.name }} </h2>
+
+{% for member in year_group.items %}
 {% if member.status == "former" %}
 <div class="content-list">
     <div class="member-list-photo">
@@ -32,4 +39,6 @@ classes: wide
     </div>
 </div>
 {% endif %}
+{%endif%}
+
 {% endfor %}
