@@ -93,6 +93,19 @@
   width:25%;
 }
 
+.four-col-table-center1{ 
+  width: 40%;
+}
+
+.four-col-table-center2{
+  width:20%;
+}
+
+.four-col-table-right{ 
+  width:15%; 
+
+}
+
 .presentation-title{
   flex:2;
 }

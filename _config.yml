@@ -94,7 +94,7 @@ footer:
     - label: "Accessibility"
       icon: 
       url: "https://www.nimh.nih.gov/site-info/accessibility"
-    - label: HHS Vulnerability Disclosure" 
+    - label: HHS Vulnerability Disclosure 
       icon: 
       url: "https://www.hhs.gov/vulnerability-disclosure-policy/index.html"
     - label: "Privacy Policy" 

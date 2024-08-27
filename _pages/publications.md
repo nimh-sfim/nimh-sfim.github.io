@@ -16,15 +16,23 @@ classes: wide
     <div class="three-col-table-left"> 
         <b>Title:</b><br><a href="{{ publication.url }}">{{ publication.title }}</a>
     </div>
-    <div class="three-col-table-center">
+    <div class="four-col-table-center1">
         <b>Authors:</b><br>{{publication.authors_string}}
     </div>
-    <div class="three-col-table-right">
+    <div class="four-col-table-center2">
         <b>Publication:</b><br>
         {% if publication.type == "journal_article" %}
         {{publication.journal}}
         {%elsif publication.type =="book_chapter"%}
         {{publication.book_title}}
+        {%endif%}
+    </div>
+    <div class="four-col-table-right">
+        {% if publication.data_loc != "" %}
+        <a href="{{publication.data_loc}}">Data<br></a>
+        {%endif%}
+        {% if publication.code_loc != "" %}
+        <a href="{{publication.code_loc}}">Code</a>
         {%endif%}
     </div>
 </div>
