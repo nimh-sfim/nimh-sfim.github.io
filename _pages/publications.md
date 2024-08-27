@@ -28,6 +28,7 @@ classes: wide
         {%endif%}
     </div>
     <div class="four-col-table-right">
+        <b>Data and Code:</b><br>
         {% if publication.data_loc != "" %}
         <a href="{{publication.data_loc}}">Data<br></a>
         {%endif%}
