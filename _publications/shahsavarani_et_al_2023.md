@@ -1,7 +1,7 @@
 ---
 title: "Cortex-wide neural dynamics predict behavioral states and provide a neural basis for resting-state dynamic functional connectivity"
 
-date: 06/27/23
+date: 2023-06-27
 authors_string: Somayeh Shahsavarani, David Thibodeaux, Weihao Xu, Sharon Kim, Fatema Lodgher, Chinwendu Nwokeabia, Morgan Cambareri, Alexis Yagielski, Hanzhi Zhao, Daniel Handwerker, Javier Gonzalez-Castillo, Peter Bandettini, Elizabeth Hillman
 authors:
    - Somayeh Shahsavarani

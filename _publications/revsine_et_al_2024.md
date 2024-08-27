@@ -1,7 +1,7 @@
 ---
 title: "A unifying model for discordant and concordant results in human neuroimaging studies of facial viewpoint selectivity"
 
-date: 04/24/24
+date: 2024-04-24
 authors_string: Cambria Revsine, Javier Gonzalez-Castillo, Elisha Merriam, Peter Bandettini, Fernando Ramírez
 authors:
    - Cambria Revsine

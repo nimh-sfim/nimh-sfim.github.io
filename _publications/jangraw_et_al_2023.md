@@ -1,7 +1,7 @@
 ---
 title: "Inter-subject correlation during long narratives reveals widespread neural correlates of reading ability"
 
-date: 11/15/23
+date: 2023-11-15
 authors_string: David Jangraw, Emily Finn, Peter Bandettini, Nicole Landi, Haorui Sun, Fumiko Hoeft, Gang Chen, Kenneth Pugh, Peter Molfese
 authors:
    - David Jangraw

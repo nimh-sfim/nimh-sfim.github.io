@@ -1,7 +1,7 @@
 ---
 title: "Highlight results, don’t hide them: Enhance interpretation, reduce biases and improve reproducibility"
 
-date: 07/01/23
+date: 2023-07-01
 authors_string: Paul Taylor, Richard Reynolds, Vince Calhoun, Javier Gonzalez-Castillo, Daniel Handwerker, Peter Bandettini, Amanda Mejia, Gang Chen
 authors:
    - Paul Taylor

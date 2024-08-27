@@ -1,7 +1,7 @@
 ---
 title: "Commentary on Pang et al. (2023) Nature"
 
-date: 07/22/23
+date: 2023-07-22
 authors_string: Joshua Faskowitz, Daniel Moyer, Daniel Handwerker, Javier Gonzalez-Castillo, Peter Bandettini, Saad Jbabdi, Richard Betzel
 authors:
    - Joshua Faskowitz

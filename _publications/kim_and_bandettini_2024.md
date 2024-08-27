@@ -1,7 +1,7 @@
 ---
 title: "Principles of BOLD Functional MRI"
 
-date: 12/22/23
+date: 2023-12-22
 authors_string: Seong-Gi Kim, Peter Bandettini
 authors:
    - Seong-Gi Kim
