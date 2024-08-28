@@ -1,17 +1,13 @@
 main:
-  - title: "Home"
-    url: /
-  - title: "Lab Members"
-    url: /members/
   - title: "Projects"
     url: /projects/
+  - title: "Lab Members"
+    url: /members/
   - title: "Photos" 
     url: /photos 
   - title: "Publications"
     url: /publications
   - title: "Presentations"
     url: /presentations 
-  - title: "Conferences"
-    url: /conferences/
   - title: "Positions Available"
     url: /positions-available 
