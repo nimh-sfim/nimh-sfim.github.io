@@ -33,8 +33,12 @@ class: wide
         <b>Abstract: </b>{{page.abstract}}<br>
 
         {% if page.type == "journal_article"%}
+        {%if page.data_loc != ""%}
         <a href="{{page.data_loc}}">Data</a><br>
+        {%endif%}
+        {%if page.code_loc != ""%}
         <a href="{{page.code_loc}}">Code</a><br>
+        {%endif%}
         <b>Journal: </b>{{page.journal}}<br>
         {% if page.volume %}
         <b>Volume: </b>{{page.volume}}<br>
