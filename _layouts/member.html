@@ -37,16 +37,19 @@ show_date: false
 
 <div>
 
-    <h2>Presentations: </h2>
+    <h2>Recent Presentations: </h2>
 
     {% assign sorted_presentations =  site.presentations | sort: 'date' | reverse %}
-    {% for presentation in sorted_presentations %}
+    {% assign recent_presentations = sorted_presentations | slice: 0,5 %}
+    {% for presentation in recent_presentations %}
     {%if presentation.presenters contains page.presenter_id %}
 
     <div class="three-col-table">
         <div class="three-col-table-left"><b>Presented on: </b><br>{{presentation.date | date: "%B %Y"}} </div>
-        <div class="three-col-table-center"><b>Title: </b><br><a href="{{presentation.url}}">{{presentation.title}}</a></div>
-        <div class="three-col-table-right"><b>File: </b><br><a href="{{presentation.file}}">{{presentation.file_name}}</a></div>
+        <div class="four-col-table-center1"><b>Title: </b><br><a href="{{presentation.url}}">{{presentation.title}}</a></div>
+        {% assign conference_item = site.conferences | where: "conference_id", presentation.conference_id | first %}
+        <div class="four-col-table-center2"><b>Conference:<br></b><a href="{{conference_item.url}}">{{conference_item.title}}</a> </div>
+        <div class="four-col-table-right"><b>File: </b><br><a href="{{presentation.file}}">{{presentation.file_name}}</a></div>
     </div>
 
     {% endif %}
@@ -55,21 +58,29 @@ show_date: false
     <h2>Publications: </h2>
 
     {% assign sorted_publications =  site.publications | sort: 'date' | reverse %}
-    {% for publication in sorted_publications %}
+    {% assign recent_publications = sorted_publications | slice: 0,5%}
+    {% for publication in recent_publications %}
     {%if publication.author_ids contains page.presenter_id %}
 
     <div class="three-col-table">
         <div class="three-col-table-left"><b>Published: </b><br>{{publication.date | date: "%Y"}} </div>
-        <div class="three-col-table-center"><b>Title: </b><br><a href="{{publication.url}}">{{publication.title}}</a></div>
-        <div class="three-col-table-right"><b>Type: </b><br>
-          {%if publication.type == "journal_article"%}
-          Journal Article
-          {%elsif publication.type == "book_chapter"%}
-          Book Chapter 
-          {%elsif publication.type == "misc"%}
-          Miscellaneous
+        <div class="four-col-table-center1"><b>Title: </b><br><a href="{{publication.url}}">{{publication.title}}</a></div>
+        <div class="four-col-table-center2"><b>Publication: </b><br>
+          {% if publication.type == "journal_article" %}
+          {{publication.journal}}
+          {%elsif publication.type =="book_chapter"%}
+          {{publication.book_title}}
           {%endif%}
         </div>
+        <div class="four-col-table-right">
+          <b>Data and Code:</b><br>
+          {% if publication.data_loc != "" %}
+          <a href="{{publication.data_loc}}">Data<br></a>
+          {%endif%}
+          {% if publication.code_loc != "" %}
+          <a href="{{publication.code_loc}}">Code</a>
+          {%endif%}
+      </div>
     </div>
 
     {% endif %}
