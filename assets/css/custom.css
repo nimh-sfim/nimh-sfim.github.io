@@ -146,7 +146,8 @@ flex-direction:row;
 }
 
 .front-page-logo{
-  width:10%;
+  width:20%;
+  min-width:100px;
   height: auto;
 
 }
