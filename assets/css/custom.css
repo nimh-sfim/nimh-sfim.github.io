@@ -145,8 +145,15 @@ flex-direction:row;
   text-align: center;
 }
 
+.related-group-image{
+  width:10%;
+  min-width:100px;
+  height: auto;
+
+}
+
 .front-page-logo{
-  width:20%;
+  width:17%;
   min-width:100px;
   height: auto;
 
