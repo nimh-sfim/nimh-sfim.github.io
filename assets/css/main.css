@@ -1155,6 +1155,7 @@ tr,td,th {
 .btn {
     display: inline-block;
     margin-bottom: 0.25em;
+    margin-top:0.75em;
     padding: 0.5em 1em;
     font-family: -apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
     font-size: 1em;
@@ -1164,7 +1165,7 @@ tr,td,th {
     border-width: 0;
     border-radius: 4px;
     cursor: pointer;
-    min-width:20%;
+    min-width:10em;
 }
 
 .btn .icon {
