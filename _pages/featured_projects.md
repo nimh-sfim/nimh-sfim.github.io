@@ -8,13 +8,13 @@ classes: wide
 
 <p>Check out a few of our featured projects. For more information on these projects, or to see other projects that are currently going on in the lab, check out our full list of projects <a href="/all_projects">here</a>. </p>
 
-<h2><a href="/projects/ayer_fmri/">Layer-Specific fMRI</a></h2>
+<h2><a href="/projects/layer_fmri/">Layer-Specific fMRI</a></h2>
 
 <p>We are working to improve the spatial resolution and specificity of fMRI so that it is possible to distinguish neural activity changes across cortical layers. This should have some more text and a few representative figures.</p>
 
-<h4>Selected Publications</h4>
+<b>Selected Publications</b>
 
-<h2><a href="/projects//bold_connectivity_dynamics/">BOLD Connectivity Dynamics</a></h2>
+<h2><a href="/projects/bold_connectivity_dynamics/">BOLD Connectivity Dynamics</a></h2>
 
 <p>A common assumption in most resting state fMRI (rsfMRI) studies is temporal stationarity. However, recent work has shown that rsfMRI connectivity patterns change considerably across short periods of time, even within the length of a typical rest scan. Little is known about this phenomenon (see <a href="http://www.sciencedirect.com/science/article/pii/S105381191300579X">Hutchinson et al. 2013</a> for an in-depth review of this topic). For example, we don't know yet what is the most appropriate temporal scale to investigate this phenomenon. We also don't know if all connections have similar or different levels of variability. Moreover, the potential relationship between fMRI connectivity changes and ongoing cognition is not yet fully understood. Several projects at the SFIM focus on characterizing and understanding BOLD connectivity dynamics both during undirected rest and task.</p>
 
@@ -26,18 +26,18 @@ classes: wide
 
 <p>What's in a functional correlation? Using a simple technique to temporally unwrap Pearson correlation, we can observe the instantaneous similarities between two areas of the brain. These instantaneous similarities, which form so-called 'edge time series', have the potential to reveal different information about the brain's connectivity dynamics. For this project, we report on varying elements of edge time series information, such as describing the conditions that lead to high amplitude (i.e., spiking) events and measures capturing connectivity variability.</p>
 
-<h4>Selected Publications</h4>
+<b>Selected Publications</b>
 
-<h2> <a href="projects/consciousness/">Conscious Perception and State</a> </h2>
+<h2> <a href="/projects/consciousness/">Conscious Perception and State</a> </h2>
 
 <p>Consciousness, a perennial subject of fascination, has witnessed a surge in scientific exploration over recent decades. The primary objectives of the science of consciousness involve elucidating the neural mechanisms governing conscious states and devising methodologies for diagnosing and recovering impaired consciousness. SFIM actively contributes to this scientific realm through the utilization of cutting-edge computational and neuroimaging tools, including high-field fMRI, MEG, and pupillometry, to investigate two pivotal themes in the study of consciousness.</p>
 
-<h3>1. Neural Mechanisms of Consciousness</h3>
+<h3>Neural Mechanisms of Consciousness</h3>
 
 <p>The central challenge in understanding consciousness lies in unraveling how neural processes give rise to subjective states of conscious experience. Additionally, there is an interest in discerning how diverse sources of content in conscious experiences (such as vision versus audition, or sight versus imagery) share common neural networks. Several projects within SFIM employ afterimages as a perceptual model to delve into these inquiries and explore the neural underpinnings of conscious experience.</p>
 
-<h3>2. Predicting Conscious Content and State</h3>
+<h3>Predicting Conscious Content and State</h3>
 
 <p>Conscious states exhibit spontaneous fluctuations influenced by neurophysiological dynamics. The ability to predict conscious states from physiological indicators holds broad significance for both experimental and clinical domains. Two specific projects in SFIM employ electrophysiology and real time pupillometry methods to forecast states of arousal/vigilance linked with conscious states (Samika, Sharif, and colleagues). Additionally, predicting the content of consciousness (i.e., the subjects of conscious perception) is crucial for accounting for variability in neural signals. Javier and colleagues are leading projects exploring how the content of conscious perception during resting-state fMRI can impact recorded activity on an individual subject basis.</p>
 
-<h4>Selected Publications</h4>
+<b>Selected Publications</b>
