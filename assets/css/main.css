@@ -1181,8 +1181,8 @@ tr,td,th {
 }
 
 .btn--primary:visited {
-    background-color:  #5e9ac8;
-    color: #fff
+    background-color:  #fff;
+    color: #5e9ac8
 }
 
 .btn--primary:hover {
