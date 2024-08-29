@@ -159,3 +159,14 @@ align-items: center;
   height: auto;
 
 }
+
+.icon-holder{
+display:flex;
+flex-direction:row;
+height:fit-content;
+gap:20px;
+}
+
+.icon{
+  width:20%;
+}

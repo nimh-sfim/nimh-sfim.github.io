@@ -6,7 +6,7 @@ classes: wide
 
 <div>
 
-<h2 style="font-size:1.5em"><img src="/assets/images/SFIM_logo.png" class="front-page-logo">Section on Functional Imaging Methods</h2>
+<h2 style="font-size:1.5em"><img src="/assets/images/icons/SFIM_logo.png" class="front-page-logo">Section on Functional Imaging Methods</h2>
 
 <p>The Section on Functional Imaging Methods is within the Laboratory of Brain and Cognition and the National Institute of Mental Health.
 Functional MRI is a technique that utilizes time series collection of rapidly-obtained magnetic resonance images that are sensitive to localized brain activation induced hemodynamic changes. 
@@ -20,6 +20,35 @@ and the variable and incompletely-determined relationship between neuronal activ
 
 </div>
 
+<div class="icon-holder">
+
+    <div class="icon">
+        <img src="/assets/images/icons/code.png">
+        <p>Code</p>
+    </div>
+
+    <div class="icon">
+        <img src="/assets/images/icons/projects.png">
+        <p>Projects</p>
+    </div>
+
+    <div class="icon">
+        <img src="/assets/images/icons/members.png">
+        <p>Members</p>
+    </div>
+
+    <div class="icon">
+        <img src="/assets/images/icons/publications.png">
+        <p>Publications</p>
+    </div>
+
+    <div class="icon">
+        <img src="/assets/images/icons/presentations.png">
+        <p>Presentations</p>
+    </div>
+
+</div>
+
 <h2>Recent Lab Publications</h2>
 
 {% assign sorted_publications = site.publications | sort:'date' | reverse %}
@@ -27,7 +56,7 @@ and the variable and incompletely-determined relationship between neuronal activ
 
 <div> 
     {%for publication in recent_publications%}
-    <div style="padding:15px"> 
+    <div style="padding:10px"> 
         {{publication.authors_string}}. <a href="{{publication.url}}">{{publication.title}}</a>. {{publication.pub_str}}
     </div>
 
@@ -39,16 +68,16 @@ and the variable and incompletely-determined relationship between neuronal activ
 <h3>Related NIMH Groups</h3>
 <div class="related-groups">
     <div class="related-group-item">
-        <a href="https://fmrif.nimh.nih.gov/index.php/Main_Page"><img src="/assets/images/fmrif_png.png" class="related-group-image"><br>Functional Magnetic Resonance Facility</a>
+        <a href="https://fmrif.nimh.nih.gov/index.php/Main_Page"><img src="/assets/images/icons/fmrif_png.png" class="related-group-image"><br>Functional Magnetic Resonance Facility</a>
     </div>
     <div class="related-group-item">
-        <a href="https://cmn.nimh.nih.gov/"><img src="/assets/images/CMN.png" class="related-group-image"><br>Center for Multimodal Neuroimaging</a>
+        <a href="https://cmn.nimh.nih.gov/"><img src="/assets/images/icons/CMN.png" class="related-group-image"><br>Center for Multimodal Neuroimaging</a>
     </div>
     <div class="related-group-item">
-        <a href="https://cmn.nimh.nih.gov/mlt"><img src="/assets/images/MLT_cropped.png" class="related-group-image"><br>Machine Learning Team</a>
+        <a href="https://cmn.nimh.nih.gov/mlt"><img src="/assets/images/icons/MLT_cropped.png" class="related-group-image"><br>Machine Learning Team</a>
     </div>
     <div class="related-group-item">
-        <a href="https://cmn.nimh.nih.gov/dsst"><img src="/assets/images/DSST.png" class="related-group-image"><br>Data Science and Sharing Team</a>
+        <a href="https://cmn.nimh.nih.gov/dsst"><img src="/assets/images/icons/DSST.png" class="related-group-image"><br>Data Science and Sharing Team</a>
     </div>
 
 
