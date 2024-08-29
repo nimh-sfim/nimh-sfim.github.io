@@ -29,5 +29,6 @@ code_loc: 'https://github.com/toporam/model-crossings'
 file: '/assets/publications/'
 file_name: ''
 type: journal_article
+pub_str: 'Cambria Revsine, Javier Gonzalez-Castillo, Elisha Merriam, Peter Bandettini, Fernando Ramírez. "<a href='{{publication.url}}'>A unifying model for discordant and concordant results in human neuroimaging studies of facial viewpoint selectivity</a>" Journal of Neuroscience (2024) 44 (17)'
 layout: publication 
 ---

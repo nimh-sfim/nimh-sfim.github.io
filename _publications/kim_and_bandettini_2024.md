@@ -24,5 +24,6 @@ code_loc: ''
 file: '/assets/publications/'
 file_name: ''
 type: book_chapter
+pub_str: 'Seong-Gi Kim, Peter Bandettini. "<a href='{{publication.url}}'>Principles of BOLD Functional MRI</a>" In: Functional Neuroradiology (2023)'
 layout: publication 
 ---

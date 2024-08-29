@@ -40,5 +40,6 @@ code_loc: ''
 file: '/assets/publications/'
 file_name: ''
 type: journal_article
+pub_str: 'Elizabeth Wat, David Jangraw, Elizabeth Wat, David Jangraw, Emily Finn, Peter Bandettini, Jonathan Preston, Nicole Landi, Fumiko Hoeft, Stephen Frost, Airey Lau, Gang Chen, Kenneth Pugh, Peter Molfese. "<a href='{{publication.url}}'>Will you read how I will read? Naturalistic fMRI predictors of emergent reading</a>" Neuropsychologia (2024) 193'
 layout: publication 
 ---

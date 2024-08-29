@@ -36,5 +36,6 @@ code_loc: 'https://github.com/nimh-sfim/rtPupilPhase'
 file: '/assets/publications/'
 file_name: ''
 type: journal_article
+pub_str: 'Sharif Ismail Kronemer, Victoria E. Gobo, Catherine R. Walsh, Joshua B. Teves,  Diana C. Burk, Somayeh Shahsavarani,  Javier Gonzalez-Castillo, Peter A. Bandettini. "<a href='{{publication.url}}'>Cross-species real time detection of trends in pupil size fluctuation</a>" biorxiv (2024) '
 layout: publication 
 ---

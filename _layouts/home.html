@@ -27,16 +27,8 @@ and the variable and incompletely-determined relationship between neuronal activ
 
 <div> 
     {%for publication in recent_publications%}
-    <div> 
-        <a href="{{publication.url}}">{{publication.title}}</a><br>
-        {{publication.authors_string}}<br>
-        {%if publication.type=="journal_article"%}
-            {{publication.journal}} |
-        {%elsif publication..type=="book_chapter%}
-            {{publication.book_title}} |    
-        {%endif%}
-
-        {{publication.date | date: "%Y"}}
+    <div style="padding:15px"> 
+        {{publication.pub_str}}
     </div>
 
     {%endfor%}
