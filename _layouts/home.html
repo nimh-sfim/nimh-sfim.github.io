@@ -20,6 +20,30 @@ and the variable and incompletely-determined relationship between neuronal activ
 
 </div>
 
+<h2>Recent Lab Publications</h2>
+
+{% assign sorted_publications = site.publications | sort:'date' | reverse %}
+{% assign recent_publications = sorted_publications | slice: 0,5%}
+
+<div> 
+    {%for publication in recent_publications%}
+    <div> 
+        <a href="{{publication.url}}">{{publication.title}}</a><br>
+        {{publication.authors_string}}<br>
+        {%if publication.type=="journal_article"%}
+            {{publication.journal}} |
+        {%elsif publication..type=="book_chapter%}
+            {{publication.book_title}} |    
+        {%endif%}
+
+        {{publication.date | date: "%Y"}}
+    </div>
+
+    {%endfor%}
+
+</div>
+
+
 <h3>Related NIMH Groups</h3>
 <div class="related-groups">
     <div class="related-group-item">
