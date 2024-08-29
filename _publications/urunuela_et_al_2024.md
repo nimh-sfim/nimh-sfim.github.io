@@ -28,6 +28,6 @@ code_loc: ''
 file: '/assets/publications/'
 file_name: ''
 type: journal_article
-pub_str: 'Eneko Uruñuela, Javier Gonzalez-Castillo, Charles Zheng, Peter Bandettini, Cesar Caballero-Gaudes. "<a href='{{publication.url}}'>Whole-brain multivariate hemodynamic deconvolution for multi-echo fMRI with stability selection</a>" Medical Image Analysis (2024) 92'
+pub_str: 'Medical Image Analysis (2024) 92'
 layout: publication 
 ---

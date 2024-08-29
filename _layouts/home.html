@@ -28,7 +28,7 @@ and the variable and incompletely-determined relationship between neuronal activ
 <div> 
     {%for publication in recent_publications%}
     <div style="padding:15px"> 
-        {{publication.pub_str}}
+        {{publication.authors_string}}. <a href="{{publication.url}}">{{publication.title}}</a>. {{publication.pub_str}}
     </div>
 
     {%endfor%}

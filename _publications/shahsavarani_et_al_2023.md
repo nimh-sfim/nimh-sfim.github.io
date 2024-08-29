@@ -37,6 +37,6 @@ code_loc: 'https://zenodo.org/records/7968402'
 file: '/assets/publications/'
 file_name: ''
 type: journal_article
-pub_str: 'Somayeh Shahsavarani, David Thibodeaux, Weihao Xu, Sharon Kim, Fatema Lodgher, Chinwendu Nwokeabia, Morgan Cambareri, Alexis Yagielski, Hanzhi Zhao, Daniel Handwerker, Javier Gonzalez-Castillo, Peter Bandettini, Elizabeth Hillman. "<a href='{{publication.url}}'>Cortex-wide neural dynamics predict behavioral states and provide a neural basis for resting-state dynamic functional connectivity</a>" Cell Reports (2023) 42 (6)112527'
+pub_str: 'Cell Reports (2023) 42 (6)112527'
 layout: publication 
 ---

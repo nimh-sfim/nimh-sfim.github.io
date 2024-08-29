@@ -34,6 +34,6 @@ code_loc: 'https://github.com/djangraw/ReadingAbilityIsc'
 file: '/assets/publications/'
 file_name: ''
 type: journal_article
-pub_str: 'David Jangraw, Emily Finn, Peter Bandettini, Nicole Landi, Haorui Sun, Fumiko Hoeft, Gang Chen, Kenneth Pugh, Peter Molfese. "<a href='{{publication.url}}'>Inter-subject correlation during long narratives reveals widespread neural correlates of reading ability</a>" NeuroImage (2023) 282120390'
+pub_str: 'NeuroImage (2023) 282120390'
 layout: publication 
 ---

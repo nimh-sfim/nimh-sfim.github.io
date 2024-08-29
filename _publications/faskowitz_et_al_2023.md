@@ -32,6 +32,6 @@ code_loc: 'https://github.com/faskowit/eigenmodes_nulls'
 file: '/assets/publications/'
 file_name: ''
 type: journal_article
-pub_str: 'Joshua Faskowitz, Daniel Moyer, Daniel Handwerker, Javier Gonzalez-Castillo, Peter Bandettini, Saad Jbabdi, Richard Betzel. "<a href='{{publication.url}}'>Commentary on Pang et al. (2023) Nature</a>" biorxiv (2023) '
+pub_str: 'biorxiv (2023) '
 layout: publication 
 ---
