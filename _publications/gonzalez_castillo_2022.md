@@ -1,0 +1,28 @@
+---
+title: "Traveling and Standing waves in the brain"
+
+date: 7/28/22
+authors_string: Javier Gonzalez-Castillo
+authors:
+   - Javier Gonzalez-Castillo
+author_ids:
+   - javier_gonzalezcastillo
+journal: 'Nature Neuroscience'
+volume: 25.0
+issue: 8.0
+pages: 
+book_title: ''
+publisher: ''
+isbn: 
+abstract: 'Studying the natural wanderings of the living brain is extremely challenging. Bolt et al. describe a new framework for considering the brain’s intrinsic activity based on the geophysical concepts of standing and traveling waves.'
+project_id: bold_connectivity_dynamics
+paper_url: https://www.nature.com/articles/s41593-022-01119-0
+doi: 10.1038/s41593-022-01119-0
+data_loc: ''
+code_loc: ''
+file: '/assets/publications/'
+file_name: ''
+type: journal_article
+pub_str: 'Nature Neuroscience (7/28) 25 (8)'
+layout: publication 
+---

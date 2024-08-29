@@ -1,7 +1,7 @@
 ---
 title: "Commentary on Pang et al. (2023) Nature"
 
-date: 2023-07-22
+date: 7/22/23
 authors_string: Joshua Faskowitz, Daniel Moyer, Daniel Handwerker, Javier Gonzalez-Castillo, Peter Bandettini, Saad Jbabdi, Richard Betzel
 authors:
    - Joshua Faskowitz
@@ -16,7 +16,7 @@ author_ids:
    - dan_handwerker
    - javier_gonzalezcastillo
    - peter_bandettini
-journal: 'biorxiv'
+journal: 'bioRxiv'
 volume: 
 issue: 
 pages: 
@@ -32,6 +32,6 @@ code_loc: 'https://github.com/faskowit/eigenmodes_nulls'
 file: '/assets/publications/'
 file_name: ''
 type: journal_article
-pub_str: 'biorxiv (2023) '
+pub_str: 'bioRxiv (7/22) '
 layout: publication 
 ---

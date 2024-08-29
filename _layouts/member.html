@@ -55,7 +55,7 @@ show_date: false
     {% endif %}
     {% endfor %}
   
-    <h2>Publications: </h2>
+    <h2>Recent Publications: </h2>
 
     {% assign sorted_publications =  site.publications | sort: 'date' | reverse %}
     {% assign recent_publications = sorted_publications | slice: 0,5%}

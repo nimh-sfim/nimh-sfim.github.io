@@ -1,7 +1,7 @@
 ---
 title: "Cross-species real time detection of trends in pupil size fluctuation"
 
-date: 2024-08-12
+date: 8/12/24
 authors_string: Sharif Ismail Kronemer, Victoria E. Gobo, Catherine R. Walsh, Joshua B. Teves,  Diana C. Burk, Somayeh Shahsavarani,  Javier Gonzalez-Castillo, Peter A. Bandettini
 authors:
    - Sharif Ismail Kronemer
@@ -20,7 +20,7 @@ author_ids:
    - bahar_shahsavarani
    - javier_gonzalezcastillo
    - peter_bandettini
-journal: 'biorxiv'
+journal: 'bioRxiv'
 volume: 
 issue: 
 pages: 
@@ -36,6 +36,6 @@ code_loc: 'https://github.com/nimh-sfim/rtPupilPhase'
 file: '/assets/publications/'
 file_name: ''
 type: journal_article
-pub_str: 'biorxiv (2024) '
+pub_str: 'bioRxiv (8/12) '
 layout: publication 
 ---
