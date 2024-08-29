@@ -1,11 +1,11 @@
 ---
-title: "Projects"
-permalink: /projects/
+title: "All Projects"
+permalink: /all_projects/
 classes: wide
 ---
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
-<h2> Active Projects </h2>
+<h2> All Active Projects </h2>
 
 {% for project in site.projects %}
 {% if project.status == "current" %}

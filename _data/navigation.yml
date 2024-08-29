@@ -1,6 +1,6 @@
 main:
   - title: "Projects"
-    url: /projects/
+    url: /featured_projects/
   - title: "Lab Members"
     url: /members/
   - title: "Photos" 
