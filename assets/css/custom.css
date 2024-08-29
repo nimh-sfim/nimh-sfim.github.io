@@ -170,3 +170,20 @@ gap:20px;
 .front-page-icon{
   width:20%;
 }
+
+.icon-button{ 
+font-size: 2em;
+font-weight: bold;
+text-align: center;
+border: 2px solid #5e9ac8;
+padding: 0.5em 1em;
+margin-bottom: 0.25em;
+border-radius: 4px;
+cursor: pointer;
+min-width: 20%;
+}
+
+.icon-button:hover{
+  background-color: #5e9ac8;
+  color:white;
+}
