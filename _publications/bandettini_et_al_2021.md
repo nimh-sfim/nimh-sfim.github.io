@@ -1,7 +1,7 @@
 ---
 title: "Challenges and opportunities of mesoscopic brain mapping with fMRI"
 
-date: 8/1/21
+date: 2021-08-01
 authors_string: Peter Bandettini, Laurentius Huber, Emily Finn
 authors:
    - Peter Bandettini
@@ -27,6 +27,6 @@ code_loc: ''
 file: '/assets/publications/'
 file_name: ''
 type: journal_article
-pub_str: 'Current Opinion in Behavioral Neurosciences (8/1/) 40189-200'
+pub_str: 'Current Opinion in Behavioral Neurosciences (2021) 40189-200'
 layout: publication 
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Visual imagery vividness correlates with afterimage brightness and sharpness"
 
-date: 8/1/24
+date: 2024-08-01
 authors_string: Sharif Kronemer, Micah Holness, Tyler Morgan, Joshua Teves, Javier Gonzalez-Castillo, Daniel Handwerker, Peter Bandettini
 authors:
    - Sharif Kronemer
@@ -35,6 +35,6 @@ code_loc: 'https://github.com/nimh-sfim/Afterimage-Imagery-Behavioral'
 file: '/assets/publications/'
 file_name: ''
 type: journal_article
-pub_str: 'Neuroscience of Consciousness (8/1/) 2024 (1)'
+pub_str: 'Neuroscience of Consciousness (2024) 2024 (1)'
 layout: publication 
 ---

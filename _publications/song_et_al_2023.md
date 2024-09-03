@@ -1,7 +1,7 @@
 ---
 title: "Quantification of regional CMRO2 in human brain using dynamic 17O-MRI at 3T"
 
-date: 8/8/23
+date: 2023-08-08
 authors_string: Hao Song, Johannes Fisher, Ali Özen, Burak Akin, Stefan Schumann, Michael Bock
 authors:
    - Hao Song
@@ -28,6 +28,6 @@ code_loc: ''
 file: '/assets/publications/'
 file_name: ''
 type: journal_article
-pub_str: 'Zeitschrift für Medizinische Physik (8/8/) '
+pub_str: 'Zeitschrift für Medizinische Physik (2023) '
 layout: publication 
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Brain network dynamics in transitions of consciousness reorganize according to task engagement"
 
-date: 6/9/23
+date: 2023-06-09
 authors_string: Samika Kumar, Anat Arzi, Corinne Bareham, Javier Gonzalez-Castillo, Isabel Fernandez, Enzo Tagliazucchi, Pedro Mediano, Peter Bandettini, Tristan Bekinschtein
 authors:
    - Samika Kumar
@@ -34,6 +34,6 @@ code_loc: ''
 file: '/assets/publications/'
 file_name: ''
 type: journal_article
-pub_str: 'bioRxiv (6/9/) '
+pub_str: 'bioRxiv (2023) '
 layout: publication 
 ---

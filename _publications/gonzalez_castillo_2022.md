@@ -1,7 +1,7 @@
 ---
 title: "Traveling and Standing waves in the brain"
 
-date: 7/28/22
+date: 2022-07-28
 authors_string: Javier Gonzalez-Castillo
 authors:
    - Javier Gonzalez-Castillo
@@ -23,6 +23,6 @@ code_loc: ''
 file: '/assets/publications/'
 file_name: ''
 type: journal_article
-pub_str: 'Nature Neuroscience (7/28) 25 (8)'
+pub_str: 'Nature Neuroscience (2022) 25 (8)'
 layout: publication 
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Whole-brain multivariate hemodynamic deconvolution for multi-echo fMRI with stability selection"
 
-date: 1/1/24
+date: 2024-01-01
 authors_string: Eneko Uruñuela, Javier Gonzalez-Castillo, Charles Zheng, Peter Bandettini, Cesar Caballero-Gaudes
 authors:
    - Eneko Uruñuela
@@ -28,6 +28,6 @@ code_loc: ''
 file: '/assets/publications/'
 file_name: ''
 type: journal_article
-pub_str: 'Medical Image Analysis (1/1/) 92'
+pub_str: 'Medical Image Analysis (2024) 92'
 layout: publication 
 ---

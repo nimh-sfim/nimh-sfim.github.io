@@ -1,7 +1,7 @@
 ---
 title: "Highlight results, don’t hide them: Enhance interpretation, reduce biases and improve reproducibility"
 
-date: 7/1/23
+date: 2023-07-01
 authors_string: Paul Taylor, Richard Reynolds, Vince Calhoun, Javier Gonzalez-Castillo, Daniel Handwerker, Peter Bandettini, Amanda Mejia, Gang Chen
 authors:
    - Paul Taylor
@@ -32,6 +32,6 @@ code_loc: 'https://github.com/afni/apaper_highlight_narps'
 file: '/assets/publications/'
 file_name: ''
 type: journal_article
-pub_str: 'NeuroImage (7/1/) 274120138'
+pub_str: 'NeuroImage (2023) 274120138'
 layout: publication 
 ---

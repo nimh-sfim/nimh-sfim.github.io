@@ -1,7 +1,7 @@
 ---
 title: "Lost in transformation: fMRI power is diminished by unknown variability in methods and people"
 
-date: 12/30/22
+date: 2022-12-30
 authors_string: Peter Bandettini
 authors:
    - Peter Bandettini
@@ -23,6 +23,6 @@ code_loc: ''
 file: '/assets/publications/'
 file_name: ''
 type: journal_article
-pub_str: 'Aperture Neuro (12/3) 2'
+pub_str: 'Aperture Neuro (2022) 2'
 layout: publication 
 ---

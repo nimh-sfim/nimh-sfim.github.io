@@ -1,7 +1,7 @@
 ---
 title: "No Replication of Direct Neuronal Activity-related (DIANA) fMRI in Anesthetized Mice"
 
-date: 3/27/24
+date: 2024-03-27
 authors_string: Sang-Han Choi, Geun Im, Sangcheon Choi, Xin Yu, Peter Bandettini, Ravi Menon, Seong-Gi Kim
 authors:
    - Sang-Han Choi
@@ -29,6 +29,6 @@ code_loc: ''
 file: '/assets/publications/'
 file_name: ''
 type: journal_article
-pub_str: 'Science Advances (3/27) 10 (13)'
+pub_str: 'Science Advances (2024) 10 (13)'
 layout: publication 
 ---

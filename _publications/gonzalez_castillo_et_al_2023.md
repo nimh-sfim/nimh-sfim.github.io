@@ -1,7 +1,7 @@
 ---
 title: "Manifold Learning for fMRI time-varying FC"
 
-date: 
+date: 2023-07-10
 authors_string: Javier Gonzalez-Castillo, Isabel Fernandez, Ka Lam, Daniel Handwerker, Francisco Pereira, Peter Bandettini
 authors:
    - Javier Gonzalez-Castillo
@@ -31,6 +31,6 @@ code_loc: ''
 file: '/assets/publications/'
 file_name: ''
 type: journal_article
-pub_str: 'Frontiers in Human Neuroscience () 17'
+pub_str: 'Frontiers in Human Neuroscience (2023) 17'
 layout: publication 
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Different activation signatures in the primary sensorimotor and higher-level regions for haptic three-dimensional curved surface exploration"
 
-date: 5/1/21
+date: 2021-05-01
 authors_string: Jiajia Yang, Peter Molfese, Yinghua Yu, Daniel Handwerker, Gang Chen, Paul Taylor, Yoshimichi Ejima, Jinglong Wu, Peter Bandettini
 authors:
    - Jiajia Yang
@@ -33,6 +33,6 @@ code_loc: ''
 file: '/assets/publications/'
 file_name: ''
 type: journal_article
-pub_str: 'NeuroImage (5/1/) 231117754'
+pub_str: 'NeuroImage (2021) 231117754'
 layout: publication 
 ---

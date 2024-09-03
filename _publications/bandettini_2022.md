@@ -1,7 +1,7 @@
 ---
 title: "Functional Imaging: Magnetic Resonance Imaging"
 
-date: 10/18/22
+date: 2022-10-18
 authors_string: Peter Bandettini
 authors:
    - Peter Bandettini
@@ -23,6 +23,6 @@ code_loc: ''
 file: '/assets/publications/'
 file_name: ''
 type: book_chapter
-pub_str: 'In: Neuroscience in the 21st Century (10/1)'
+pub_str: 'In: Neuroscience in the 21st Century (2022)'
 layout: publication 
 ---

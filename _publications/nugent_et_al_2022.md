@@ -1,7 +1,7 @@
 ---
 title: "The NIMH intramural healthy volunteer dataset: A comprehensive MEG, MRI, and behavioral resource"
 
-date: 8/25/22
+date: 2022-08-25
 authors_string: Allison Nugent, Adam Thomas, Margaret Mahoney, Alison Gibbons, Jarrod Smith, Antoinette Charles, Jacob Shaw, Jeffrey Stout, Anna Namyst, Arshitha Basavaraj, Eric Earl, Travis Riddle, Joseph Snow, Shruti Japee, Adriana Pavletic, Stephen Sinclair, Vinai Roopchansingh, Peter Bandettini, Joyce Chung
 authors:
    - Allison Nugent
@@ -41,6 +41,6 @@ code_loc: ''
 file: '/assets/publications/'
 file_name: ''
 type: journal_article
-pub_str: 'Scientific Data (8/25) 9 (1)'
+pub_str: 'Scientific Data (2022) 9 (1)'
 layout: publication 
 ---

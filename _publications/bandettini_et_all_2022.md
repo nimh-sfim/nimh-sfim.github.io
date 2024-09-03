@@ -1,7 +1,7 @@
 ---
 title: "The challenge of BWAs: Unknown unknowns in feature space and variance"
 
-date: 8/12/22
+date: 2022-08-12
 authors_string: Peter Bandettini, Javier Gonzalez-Castillo, D.A. Handwerker, Paul Taylor, Gang Chen, Adam Thomas
 authors:
    - Peter Bandettini
@@ -30,6 +30,6 @@ code_loc: ''
 file: '/assets/publications/'
 file_name: ''
 type: journal_article
-pub_str: 'Med (8/12) 3 (8)526-531'
+pub_str: 'Med (2022) 3 (8)526-531'
 layout: publication 
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Layer-specific activation in human primary sensory cortex during tactile temporal prediction error processing"
 
-date: 3/1/22
+date: 2022-03-01
 authors_string: Y. Yu, L. Huber, J. Yang, M. Fukunaga, Y. Chai, D. Jangraw, G. Chen, D. Handwerker, P. Molfese, Y. Ejima, N. Sadato, J. Wu, Peter Bandettini
 authors:
    - Y. Yu
@@ -39,6 +39,6 @@ code_loc: ''
 file: '/assets/publications/'
 file_name: ''
 type: journal_article
-pub_str: 'NeuroImage (3/1/) 248118867'
+pub_str: 'NeuroImage (2022) 248118867'
 layout: publication 
 ---

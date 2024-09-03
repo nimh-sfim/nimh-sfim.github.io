@@ -1,7 +1,7 @@
 ---
 title: "Holo-Hilbert spectral-based noise removal method for EEG high-frequency bands"
 
-date: 2/15/22
+date: 2022-02-15
 authors_string: Narges Moradi, Pierre LeVan, Burak Akin, Bradley Goodyear, Roberto Sotero
 authors:
    - Narges Moradi
@@ -27,6 +27,6 @@ code_loc: ''
 file: '/assets/publications/'
 file_name: ''
 type: 
-pub_str: '(2/15)'
+pub_str: '(2022)'
 layout: publication 
 ---

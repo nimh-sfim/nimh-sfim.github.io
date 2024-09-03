@@ -1,7 +1,7 @@
 ---
 title: "Sources of Information Waste in Neuroimaging: Mishandling Structures, Thinking Dichotomously, and Over-Reducing Data"
 
-date: 3/7/22
+date: 2022-03-07
 authors_string: G. Chen, P. Taylor, J. Stoddard, R. Cox, Peter Bandettini, L Pessoa
 authors:
    - G. Chen
@@ -28,6 +28,6 @@ code_loc: ''
 file: '/assets/publications/'
 file_name: ''
 type: journal_article
-pub_str: 'Aperture Neuro (3/7/) 2'
+pub_str: 'Aperture Neuro (2022) 2'
 layout: publication 
 ---

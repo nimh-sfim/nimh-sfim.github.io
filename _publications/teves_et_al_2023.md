@@ -1,7 +1,7 @@
 ---
 title: "The art and science of using quality control to understand and improve fMRI data"
 
-date: 4/5/23
+date: 2023-04-05
 authors_string: Joshua Teves, Javier Gonzalez-Castillo, Micah Holness, Megan Spurney, Peter Bandettini, Daniel Handwerker
 authors:
    - Joshua Teves
@@ -33,6 +33,6 @@ code_loc: 'https://github.com/nimh-sfim/SFIM_Frontiers_Neuroimaging_QC_Project'
 file: '/assets/publications/'
 file_name: ''
 type: journal_article
-pub_str: 'Frontiers in Neuroscience (4/5/) 17'
+pub_str: 'Frontiers in Neuroscience (2023) 17'
 layout: publication 
 ---

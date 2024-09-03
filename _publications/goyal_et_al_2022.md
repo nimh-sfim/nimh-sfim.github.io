@@ -1,7 +1,7 @@
 ---
 title: "The positive–negative mode link between brain connectivity, demographics and behaviour: a pre-registered replication of Smith et al. (2015)"
 
-date: 2/2/22
+date: 2022-02-02
 authors_string: Nikhil Goyal, Dustin Moraczewski, Peter Bandettini, Emily Finn, Adam Thomas
 authors:
    - Nikhil Goyal
@@ -28,6 +28,6 @@ code_loc: ''
 file: '/assets/publications/'
 file_name: ''
 type: journal_article
-pub_str: 'Royal Society Open Science (2/2/) 9 (2)'
+pub_str: 'Royal Society Open Science (2022) 9 (2)'
 layout: publication 
 ---

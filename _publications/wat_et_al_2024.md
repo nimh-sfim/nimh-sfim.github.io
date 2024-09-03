@@ -1,7 +1,7 @@
 ---
 title: "Will you read how I will read? Naturalistic fMRI predictors of emergent reading"
 
-date: 1/29/24
+date: 2024-01-29
 authors_string: Elizabeth Wat, David Jangraw, Emily Finn, Peter Bandettini, Jonathan Preston, Nicole Landi, Fumiko Hoeft, Stephen Frost, Airey Lau, Gang Chen, Kenneth Pugh, Peter Molfese
 authors:
    - Elizabeth Wat
@@ -38,6 +38,6 @@ code_loc: ''
 file: '/assets/publications/'
 file_name: ''
 type: journal_article
-pub_str: 'Neuropsychologia (1/29) 193'
+pub_str: 'Neuropsychologia (2024) 193'
 layout: publication 
 ---

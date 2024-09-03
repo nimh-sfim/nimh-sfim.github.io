@@ -1,7 +1,7 @@
 ---
 title: "Ultra-slow fMRI fluctuations in the fourth ventricle as a marker of drowsiness"
 
-date: 10/1/22
+date: 2022-10-01
 authors_string: Javier Gonzalez-Castillo, Isabel Fernandez, Daniel Handwerker, Peter Bandettini
 authors:
    - Javier Gonzalez-Castillo
@@ -29,6 +29,6 @@ code_loc: 'https://github.com/nimh-sfim/hcp7t_fv_sleep'
 file: '/assets/publications/'
 file_name: ''
 type: journal_article
-pub_str: 'NeuroImage (10/1) 259119424'
+pub_str: 'NeuroImage (2022) 259119424'
 layout: publication 
 ---
