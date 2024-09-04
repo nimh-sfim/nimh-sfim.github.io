@@ -153,11 +153,25 @@ align-items: center;
 
 }
 
+.related-group-image-div{ 
+  width:10%;
+  min-width:100px;
+  height:10%;
+  text-align: center;
+
+}
+
+.related-group-link-div{
+width:10%;
+min-width: 100px;
+text-align: center;
+}
+
 .front-page-logo{
   width:17%;
   min-width:100px;
   height: auto;
-
+  
 }
 
 .icon-holder{
