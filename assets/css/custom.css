@@ -161,10 +161,14 @@ align-items: center;
 .related-group-image-div{ 
   width:10%;
   min-width:100px;
+  min-height: 100px;
+  display: flex;
+  align-items: center;
 }
 
 .related-group-link-div{
 text-align: center;
+height:3em;
 }
 
 .front-page-logo{
