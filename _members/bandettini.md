@@ -23,7 +23,7 @@ bio: "<p>Dr. Bandettini received his B.S. in Physics from Marquette University i
 <p>Dr. Bandettini's publications on Google Scholar are available here.</p>
 
 <p>Dr. Bandettini was recently featured in the Lifeworks series at the NIH Office of Science and Education. A video of the interview is available here</p>" 
-cv_file: "/assets/CVs/Bandettini_CV.pdf"
+cv_file: "https://docs.google.com/document/d/1KcK-PDuKIxnMBZpms00XCMvnKWc5PaINBnBE0ulFBzs/edit"
 cv_file_show: "Bandettini_CV.pdf"
 status: current
 layout: member
