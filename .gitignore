@@ -3,3 +3,4 @@ _site
 .jekyll-metadata
 Gemfile.lock
 assets/icons/icon_dev.svg
+_data/backup_fim_20240903.sql
