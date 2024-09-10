@@ -1,6 +1,6 @@
 ---
 title: "Javier Gonzalez-Castillo, Ph.D."
-presenter_id: javier_gonzalezcastillo
+presenter_id: javier_gonzalez-castillo
 position: Staff Scientist
 start_date: 2007
 end_date: 
