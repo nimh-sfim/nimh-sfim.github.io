@@ -1,6 +1,6 @@
 ---
 title: "Daniel A Handwerker, Ph.D."
-presenter_id: dan_handwerker
+presenter_id: daniel_handwerker
 position: Staff Scientist
 start_date: 2007
 end_date: 

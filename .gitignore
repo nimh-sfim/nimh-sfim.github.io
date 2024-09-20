@@ -5,4 +5,6 @@ Gemfile.lock
 assets/icons/icon_dev.svg
 _data/backup_fim_20240903.sql
 _data/bibcite-export-09102024112644-83.bib
+_data/*.html
+_data/former_members.csv
 pull_sql_data.ipynb

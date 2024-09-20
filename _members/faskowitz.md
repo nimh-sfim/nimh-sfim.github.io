@@ -1,6 +1,6 @@
 ---
 title: "Josh Faskowitz, Ph.D."
-presenter_id: josh_faskowitz
+presenter_id: joshua_faskowitz
 position: Post-Doctoral Fellow
 start_date: 2022
 end_date: 
