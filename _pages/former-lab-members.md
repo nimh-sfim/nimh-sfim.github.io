@@ -13,10 +13,9 @@ classes: wide
 
 {% for member in sorted_members %}
   {%if member.status == "former"%}
-  {% assign end_year = member.end_date | date: "%Y" %}
+  {% assign end_year = member.end_date %}
 
   {% if end_year != current_year %}
-    <!-- Create a header for each year -->
     <h2>{{ end_year }}</h2>
     {% assign current_year = end_year %}
   {% endif %}
