@@ -7,7 +7,7 @@ classes: wide
 
 <h2> <a href="{{ '/members/' | relative_url }}" >Current</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Former </h2>
 
-{% assign former_staff_by_year = site.members | group_by_exp: "member", "member.date | date: '%Y'" | reverse %}
+{% assign former_staff_by_year = site.members | group_by_exp: "member", "member.end_date | date: '%Y'" | reverse %}
 
 {% for year_group in former_staff_by_year %}
 
