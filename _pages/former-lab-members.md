@@ -7,16 +7,20 @@ classes: wide
 
 <h2> <a href="{{ '/members/' | relative_url }}" >Current</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Former </h2>
 
-{% assign former_staff_by_year = site.members | group_by_exp: "member", "member.end_date | date: '%Y'" | reverse %}
+{% assign sorted_members = site.members | sort: 'end_date' | reverse %}
 
-{% for year_group in former_staff_by_year %}
+{% assign current_year = "" %}
 
-{% if year_group.name%}
+{% for member in sorted_members %}
+  {%if member.status == "former"%}
+  {% assign end_year = member.end_date | date: "%Y" %}
 
-<h2> {{ year_group.name }} </h2>
+  {% if end_year != current_year %}
+    <!-- Create a header for each year -->
+    <h2>{{ end_year }}</h2>
+    {% assign current_year = end_year %}
+  {% endif %}
 
-{% for member in year_group.items %}
-{% if member.status == "former" %}
 <div class="content-list">
     <div class="member-list-photo">
       <a href="{{ member.url }}"> <img src="{{ member.photo }}" alt="{{ member.title }}" class="small-photo"> </a>
@@ -30,8 +34,7 @@ classes: wide
       {{ member.position }}
     </div>
 </div>
-{% endif %}
-{%endfor%}
-{%endif%}
 
-{% endfor %}
+  {%endif%}
+  {%endfor&}
+  
