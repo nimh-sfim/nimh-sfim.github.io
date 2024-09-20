@@ -12,27 +12,27 @@ classes: wide
 {% assign current_year = "" %}
 
 {% for member in sorted_members %}
-  {%if member.status == "former"%}
-  {% assign end_year = member.end_date %}
+{%if member.status == "former"%}
+{% assign end_year = member.end_date %}
 
-  {% if end_year != current_year %}
-    <h2>{{ end_year }}</h2>
-    {% assign current_year = end_year %}
-  {% endif %}
+{% if end_year != current_year %}
+<h2>{{ end_year }}</h2>
+{% assign current_year = end_year %}
+{% endif %}
 
 <div class="content-list">
-    <div class="member-list-photo">
-      <a href="{{ member.url }}"> <img src="{{ member.photo }}" alt="{{ member.title }}" class="small-photo"> </a>
-    </div>
-    <div class="member-item">  
-      <b>Name:</b><br>
-      <a href="{{ member.url }}"> {{ member.title }}</a>
-    </div>
-    <div class="member-item"> 
-    <b>Position:</b><br>
-      {{ member.position }}
-    </div>
+<div class="member-list-photo">
+<a href="{{ member.url }}"> <img src="{{ member.photo }}" alt="{{ member.title }}" class="small-photo"> </a>
+</div>
+<div class="member-item">  
+<b>Name:</b><br>
+<a href="{{ member.url }}"> {{ member.title }}</a>
+</div>
+<div class="member-item"> 
+<b>Position:</b><br>
+{{ member.position }}
+</div>
 </div>
 
-  {%endif%}
-  {%endfor%}
+{%endif%}
+{%endfor%}
