@@ -36,5 +36,4 @@ classes: wide
 </div>
 
   {%endif%}
-  {%endfor&}
-  
+  {%endfor%}
