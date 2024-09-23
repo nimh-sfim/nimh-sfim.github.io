@@ -39,10 +39,9 @@ show_date: false
 
     <h2>Recent Presentations: </h2>
 
-    {% assign sorted_presentations =  site.presentations | sort: 'date' | reverse %}
-    {% assign recent_presentations = sorted_presentations | slice: 0,5 %}
-    {% for presentation in recent_presentations %}
-    {%if presentation.presenters contains page.presenter_id %}
+    {% assign recent_presentations_by_author = site.presentations | where_exp: "item", "item.presenters contains page.presenter_id" | sort: "date" | reverse | slice: 0, 5 %}
+    
+    {% for presentation in recent_presentations_by_author %}
 
     <div class="three-col-table">
         <div class="three-col-table-left"><b>Presented on: </b><br>{{presentation.date | date: "%B %Y"}} </div>
@@ -52,7 +51,6 @@ show_date: false
         <div class="four-col-table-right"><b>File: </b><br><a href="{{presentation.file}}">{{presentation.file_name}}</a></div>
     </div>
 
-    {% endif %}
     {% endfor %}
   
     <h2>Recent Publications: </h2>
@@ -81,7 +79,6 @@ show_date: false
       </div>
     </div>
 
-    {% endif %}
     {% endfor %}
 
 
