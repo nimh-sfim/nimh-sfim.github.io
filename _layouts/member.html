@@ -58,7 +58,7 @@ show_date: false
     <h2>Recent Publications: </h2>
 
     {% assign sorted_publications =  site.publications | sort: 'date' | reverse %}
-    {% assign recent_publications = sorted_publications | slice: 0,5%}
+    {% assign recent_publications = sorted_publications %}
     {% for publication in recent_publications %}
     {%if publication.author_ids contains page.presenter_id %}
 
