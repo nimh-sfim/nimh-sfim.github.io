@@ -8,8 +8,12 @@ classes: wide
 
 {% assign publications_by_year = site.publications | group_by_exp: "publication", "publication.date | date: '%Y'" | reverse %}
 
+<h2> 2020-Present &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="{{ '/pubs_2010s/' | relative_url }}" >2010-2019</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="{{ '/pubs_2000s/' | relative_url }}" >2000-2009</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="{{ '/pubs_1990s/' | relative_url }}" >1990-1999</a>  </h2>
+
 {% for year_group in publications_by_year %}
-<h2> {{ year_group.name }} </h2>
+{% assign year = year_group.name | plus: 0 %}
+{% if year >= 2020 %}
+<h3> {{ year_group.name }} </h3>
 
 {% for publication in year_group.items %}
 <div class="three-col-table">
@@ -37,6 +41,6 @@ classes: wide
         {%endif%}
     </div>
 </div>
-
+        {%endif%}
     {% endfor %}
 {% endfor %}
