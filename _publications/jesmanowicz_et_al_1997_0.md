@@ -1,5 +1,5 @@
 ---
-title: "US Patent $\#$ 5603,332, Feb 18, 1997, Time Course MRI Imaging of Brain Functions."
+title: "US Patent #5603,332, Feb 18, 1997, Time Course MRI Imaging of Brain Functions."
 date: 1997-01-01
 authors_string: A. Jesmanowicz, Peter Bandettini, J. Hyde, E. Wong
 authors:
