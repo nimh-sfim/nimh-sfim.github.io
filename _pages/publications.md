@@ -41,6 +41,7 @@ classes: wide
         {%endif%}
     </div>
 </div>
-        {%endif%}
     {% endfor %}
+{%endif%}
+
 {% endfor %}
