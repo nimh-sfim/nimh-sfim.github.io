@@ -38,7 +38,7 @@ publisher: ''
 abstract: ''
 project_id: multi_echo
 paper_url: 
-doi: : 10.21105/joss.03669
+doi: 10.21105/joss.03669
 data_loc: ''
 code_loc: 'https://github.com/ME-ICA/tedana'
 file: '/assets/publications//assets/publications/'
