@@ -1,7 +1,6 @@
 ---
 title: "The Functional MRI Core Facility"
 project_id: 
-date: 
 conference_id: ""
 presenters:
    - peter_bandettini

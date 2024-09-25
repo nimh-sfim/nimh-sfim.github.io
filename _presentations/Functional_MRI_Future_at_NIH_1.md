@@ -1,7 +1,6 @@
 ---
 title: "Functional MRI: Future at NIH"
 project_id: 
-date: 
 conference_id: ""
 presenters:
    - peter_bandettini

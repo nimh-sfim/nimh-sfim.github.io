@@ -1,7 +1,6 @@
 ---
 title: "McDonnell Pew Foundation, Tucson, AZ"
 project_id: 
-date: 
 conference_id: ""
 presenters:
    - peter_bandettini

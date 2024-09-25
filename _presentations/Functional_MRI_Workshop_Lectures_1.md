@@ -1,7 +1,6 @@
 ---
 title: "Functional MRI Workshop Lectures"
 project_id: 
-date: 
 conference_id: ""
 presenters:
    - peter_bandettini

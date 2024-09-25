@@ -1,7 +1,6 @@
 ---
 title: "Functional Magnetic Resonance Imaging (fMRI): History, Development, and Applications"
 project_id: 
-date: 
 conference_id: ""
 presenters:
    - peter_bandettini

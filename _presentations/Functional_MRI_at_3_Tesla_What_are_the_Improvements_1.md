@@ -1,7 +1,6 @@
 ---
 title: "Functional MRI at 3 Tesla, What are the Improvements?"
 project_id: 
-date: 
 conference_id: ""
 presenters:
    - peter_bandettini

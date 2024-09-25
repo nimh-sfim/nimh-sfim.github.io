@@ -1,7 +1,6 @@
 ---
 title: "NIH extramural Inter-Institute Imaging Group"
 project_id: 
-date: 
 conference_id: ""
 presenters:
    - peter_bandettini

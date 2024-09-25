@@ -1,7 +1,6 @@
 ---
 title: "University of Michigan, MI"
 project_id: 
-date: 
 conference_id: ""
 presenters:
    - peter_bandettini

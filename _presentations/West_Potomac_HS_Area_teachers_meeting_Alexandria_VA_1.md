@@ -1,7 +1,6 @@
 ---
 title: "West Potomac HS Area teachers meeting, Alexandria, VA."
 project_id: 
-date: 
 conference_id: ""
 presenters:
    - peter_bandettini

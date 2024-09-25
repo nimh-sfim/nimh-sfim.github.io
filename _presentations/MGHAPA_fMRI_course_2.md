@@ -1,7 +1,6 @@
 ---
 title: "MGH-APA fMRI course"
 project_id: 
-date: 
 conference_id: ""
 presenters:
    - peter_bandettini

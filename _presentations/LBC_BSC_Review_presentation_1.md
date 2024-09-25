@@ -1,7 +1,6 @@
 ---
 title: "LBC BSC Review presentation"
 project_id: 
-date: 
 conference_id: ""
 presenters:
    - peter_bandettini

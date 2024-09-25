@@ -1,7 +1,6 @@
 ---
 title: "NIH Monkey Journal Club"
 project_id: 
-date: 
 conference_id: ""
 presenters:
    - peter_bandettini

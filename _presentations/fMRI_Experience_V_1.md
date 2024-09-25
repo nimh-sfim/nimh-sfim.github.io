@@ -1,7 +1,6 @@
 ---
 title: "fMRI Experience V"
 project_id: 
-date: 
 conference_id: ""
 presenters:
    - peter_bandettini

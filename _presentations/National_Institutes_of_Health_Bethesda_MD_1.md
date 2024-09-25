@@ -1,7 +1,6 @@
 ---
 title: "National Institutes of Health, Bethesda, MD"
 project_id: 
-date: 
 conference_id: ""
 presenters:
    - peter_bandettini

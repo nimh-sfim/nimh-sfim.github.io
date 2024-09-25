@@ -1,7 +1,6 @@
 ---
 title: "ISMRM education program"
 project_id: 
-date: 
 conference_id: ""
 presenters:
    - peter_bandettini

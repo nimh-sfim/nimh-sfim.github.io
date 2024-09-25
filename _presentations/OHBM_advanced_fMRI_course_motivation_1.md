@@ -1,7 +1,6 @@
 ---
 title: "OHBM advanced fMRI course motivation"
 project_id: 
-date: 
 conference_id: ""
 presenters:
    - peter_bandettini

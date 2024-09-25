@@ -1,7 +1,6 @@
 ---
 title: "University of British Columbia, Vancouver, BC"
 project_id: 
-date: 
 conference_id: ""
 presenters:
    - peter_bandettini

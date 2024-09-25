@@ -1,7 +1,6 @@
 ---
 title: "fMRI: Where are we, Where are we going?"
 project_id: 
-date: 
 conference_id: ""
 presenters:
    - peter_bandettini

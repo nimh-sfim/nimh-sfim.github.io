@@ -1,7 +1,6 @@
 ---
 title: "Scanning Parameter Optimization for fMRI"
 project_id: 
-date: 
 conference_id: ""
 presenters:
    - peter_bandettini

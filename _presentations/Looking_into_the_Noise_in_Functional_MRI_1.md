@@ -1,7 +1,6 @@
 ---
 title: "Looking into the "Noise" in Functional MRI"
 project_id: 
-date: 
 conference_id: ""
 presenters:
    - peter_bandettini

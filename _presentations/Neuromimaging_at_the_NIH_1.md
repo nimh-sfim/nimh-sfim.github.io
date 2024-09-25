@@ -1,7 +1,6 @@
 ---
 title: "Neuromimaging (...at the NIH)"
 project_id: 
-date: 
 conference_id: ""
 presenters:
    - peter_bandettini

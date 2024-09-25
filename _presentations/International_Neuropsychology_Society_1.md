@@ -1,7 +1,6 @@
 ---
 title: "International Neuropsychology Society"
 project_id: 
-date: 
 conference_id: ""
 presenters:
    - peter_bandettini

@@ -1,7 +1,6 @@
 ---
 title: "Biomag '98"
 project_id: 
-date: 
 conference_id: ""
 presenters:
    - peter_bandettini

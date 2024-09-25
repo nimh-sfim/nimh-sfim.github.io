@@ -1,7 +1,6 @@
 ---
 title: "Spatial, Temporal, and Interpretive Limits of Functional MRI"
 project_id: 
-date: 
 conference_id: ""
 presenters:
    - peter_bandettini

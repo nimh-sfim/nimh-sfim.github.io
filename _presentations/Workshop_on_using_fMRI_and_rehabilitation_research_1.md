@@ -1,7 +1,6 @@
 ---
 title: "Workshop on using fMRI and rehabilitation research"
 project_id: 
-date: 
 conference_id: ""
 presenters:
    - peter_bandettini

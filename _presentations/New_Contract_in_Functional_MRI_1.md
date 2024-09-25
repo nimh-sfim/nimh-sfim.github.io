@@ -1,7 +1,6 @@
 ---
 title: "New Contract in Functional MRI"
 project_id: 
-date: 
 conference_id: ""
 presenters:
    - peter_bandettini

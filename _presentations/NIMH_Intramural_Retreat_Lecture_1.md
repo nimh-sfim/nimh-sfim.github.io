@@ -1,7 +1,6 @@
 ---
 title: "NIMH Intramural Retreat Lecture"
 project_id: 
-date: 
 conference_id: ""
 presenters:
    - peter_bandettini

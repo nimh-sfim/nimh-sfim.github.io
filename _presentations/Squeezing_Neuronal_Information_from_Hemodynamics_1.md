@@ -1,7 +1,6 @@
 ---
 title: "Squeezing Neuronal Information from Hemodynamics"
 project_id: 
-date: 
 conference_id: ""
 presenters:
    - peter_bandettini

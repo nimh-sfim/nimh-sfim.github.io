@@ -1,7 +1,6 @@
 ---
 title: "Cutting Edge of fMRI"
 project_id: 
-date: 
 conference_id: ""
 presenters:
    - peter_bandettini

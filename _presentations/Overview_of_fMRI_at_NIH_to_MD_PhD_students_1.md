@@ -1,7 +1,6 @@
 ---
 title: "Overview of fMRI at NIH to MD, Ph.D. students"
 project_id: 
-date: 
 conference_id: ""
 presenters:
    - peter_bandettini

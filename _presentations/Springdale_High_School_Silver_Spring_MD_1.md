@@ -1,7 +1,6 @@
 ---
 title: "Springdale High School, Silver Spring, MD"
 project_id: 
-date: 
 conference_id: ""
 presenters:
    - peter_bandettini

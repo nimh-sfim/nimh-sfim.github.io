@@ -1,7 +1,6 @@
 ---
 title: "fMRI: Past, Present, and Future"
 project_id: 
-date: 
 conference_id: ""
 presenters:
    - peter_bandettini

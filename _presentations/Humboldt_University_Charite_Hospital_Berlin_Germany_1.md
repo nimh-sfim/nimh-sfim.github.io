@@ -1,7 +1,6 @@
 ---
 title: "Humboldt University, Charite Hospital, Berlin, Germany"
 project_id: 
-date: 
 conference_id: ""
 presenters:
    - peter_bandettini

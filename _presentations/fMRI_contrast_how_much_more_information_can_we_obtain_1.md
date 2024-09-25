@@ -1,7 +1,6 @@
 ---
 title: "fMRI contrast: how much more information can we obtain?"
 project_id: 
-date: 
 conference_id: ""
 presenters:
    - peter_bandettini

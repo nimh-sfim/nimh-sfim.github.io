@@ -7,7 +7,9 @@ classes: wide
 
 <div>
     <div>
+        {%if page.date %}
         <b>Presented on: </b>{{page.date | date: "%B %Y"}} <br>
+        {%endif% }
         {% assign conference_item = site.conferences | where: "conference_id", page.conference_id | first %}
         <b>Conference: </b><a href="{{conference_item.url}}">{{conference_item.title}}</a> <br>
         <b>Summary: </b><br>

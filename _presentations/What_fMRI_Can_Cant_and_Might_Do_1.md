@@ -1,7 +1,6 @@
 ---
 title: "What fMRI Can, Can't, and Might Do"
 project_id: 
-date: 
 conference_id: ""
 presenters:
    - peter_bandettini

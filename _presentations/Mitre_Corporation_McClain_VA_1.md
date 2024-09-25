@@ -1,7 +1,6 @@
 ---
 title: "Mitre Corporation, McClain, VA"
 project_id: 
-date: 
 conference_id: ""
 presenters:
    - peter_bandettini
