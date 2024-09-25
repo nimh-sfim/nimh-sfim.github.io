@@ -15,7 +15,7 @@ classes: wide
         {%if page.conference_id != "" %}
         <b>Conference: </b><a href="{{conference_item.url}}">{{conference_item.title}}</a> <br>
         {%endif%}
-        {%if page.summary}
+        {%if page.summary%}
         <b>Summary: </b> {{page.summary}} <br>
         {%endif%}
         <b>Presenters: </b><br>
