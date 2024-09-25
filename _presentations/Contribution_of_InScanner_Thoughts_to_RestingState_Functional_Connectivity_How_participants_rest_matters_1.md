@@ -1,0 +1,16 @@
+---
+title: "Contribution of In-Scanner Thoughts to Resting-State Functional Connectivity: How participants rest matters"
+project_id: bold_connectivity_dynamics
+date: 2023-11-01
+conference_id: "SFN_2023"
+presenters:
+   - javier_gonzalez-castillo
+   - megan_spurney
+   - daniel_handwerker
+   - peter_bandettini
+summary: "<p>Resting-state fMRI (rs-fMRI) scans are often used to identify aberrant patterns of functional connectivity (<em>FC</em>) in clinical populations and to reveal the neural correlates of specific phenotypes. To minimize interpretational uncertainty, researchers control for age, gender, co-morbidities, and motion. Yet, rarely considered is the role of systematic differences of in-scanner experience (i.e., what subjects are thinking during the scan). To evaluate this prospect, we used 471 publicly available rs-fMRI scans (MPI Mind-Brain-Body dataset) annotated with self-reports about the content and form of in-scanner thoughts, and perceived levels of wakefulness. Based on these self-reports, we subdivided our sample into groups with different in-scanner experience controlling for age, gender, and wakefulness. Group <em>G1</em> is characterized by reporting thoughts in the form of images, of positive valence and about other people. Group <em>G2</em> includes scans with thoughts focused primarily on the environment and of negative valence. For all scans, we estimated <em>FC</em> using the 400 <em>ROI</em> <em>Schaefer</em> Atlas augmented with 8 subcortical <em>ROIs</em>. Significant differences in <em>FC</em>across groups were estimated using Network Based Statistics. We found stronger <em>FC</em> between the <em>DMN</em> and somatosensory and attentional networks for the contrast <em>G1 &gt; G2</em>. In addition, we observed significantly stronger <em>FC</em>between sensory regions and attentional regions for the contrast <em>G2 &gt; G1</em>. These results show that internally vs. externally-oriented thought engagement modulates <em>FC</em> between attentional regions and the rest of the brain. Next, we asked if we could predict aspects of in-scanner experience using <em>FC</em>. Prediction targets included: wakefulness, individual descriptors of thought form (images, words, intrusive, vague) and content (surroundings, other people, oneself, future/past events, positive/negative valence). Using connectome-predictive modeling, we were able to significantly predict wakefulness, reported levels of visual imagery, and focus on surroundings and past events. Inspection of <em>FC</em> models contributing to each prediction agree with our current understanding of how these state-level aspects of cognition manifest in the brain. Together, these results highlight the key role of in-scanner experience in shaping rs-fMRI <em>FC</em> and motivate the practice of annotating rs-fMRI scans with first-person descriptions of in-scanner experience. Future work should elucidate if accounting for these state-level effects help characterize sources of inter- and intra-subject variability that hinder our ability to interpret <em>FC</em> differences and develop rs-fMRI biomarkers of disease.</p>
+"
+file: /assets/presentations/
+filename: 
+layout: presentation
+---
