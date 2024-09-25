@@ -13,7 +13,7 @@ classes: wide
     </div>
     <div class="presentation-item">
         {%if presentation.conf_date%}
-        <b>Presented on: </b><br>{{presentation.conf_date | conf_date: "%B %Y"}} <br>
+        <b>Presented on: </b><br>{{presentation.conf_date | date: "%B %Y"}} <br>
         {%else%}
         <b>Presented on: </b>
         {%endif%}
