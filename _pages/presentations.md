@@ -12,12 +12,11 @@ classes: wide
         <b>Title: </b><br><a href="{{presentation.url}}">{{presentation.title}}</a><br>
     </div>
     <div class="presentation-item">
-        {% if presentation.date %}
-        {%assign pres_date = presentation.date | date: "%B %Y"  % }
+        {%if page.date %}
+        <b>Presented on: </b>{{page.date | date: "%B %Y"}} <br>
         {%else%}
-        {%assign pres_date = ""%}
+        <b>Presented on: </b>
         {%endif%}
-        <b>Presented on: </b><br>{{pres_date}} <br>
     </div>
     <div class="presentation-item">
         {% assign conference_item = site.conferences | where: "conference_id", presentation.conference_id | first %}
