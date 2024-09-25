@@ -9,7 +9,7 @@ class: wide
 
 <h2>Presentations: </h2>
 
-{% assign sorted_presentations =  site.presentations | sort: 'date' | reverse %}
+{% assign sorted_presentations =  site.presentations | sort: 'conf_date' | reverse %}
 {% for presentation in sorted_presentations %}
 {%if presentation.project_id == page.project_id %}
 

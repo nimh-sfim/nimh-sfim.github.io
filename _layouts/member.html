@@ -39,7 +39,7 @@ show_date: false
 
     <h2>Recent Presentations: </h2>
 
-    {% assign recent_presentations_by_author = site.presentations | where_exp: "item", "item.presenters contains page.presenter_id" | sort: "date" | reverse | slice: 0, 5 %}
+    {% assign recent_presentations_by_author = site.presentations | where_exp: "item", "item.presenters contains page.presenter_id" | sort: "conf_date" | reverse | slice: 0, 5 %}
     
     {% for presentation in recent_presentations_by_author %}
 
