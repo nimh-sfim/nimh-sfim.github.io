@@ -12,8 +12,8 @@ classes: wide
         <b>Title: </b><br><a href="{{presentation.url}}">{{presentation.title}}</a><br>
     </div>
     <div class="presentation-item">
-        {%if page.date %}
-        <b>Presented on: </b>{{page.date | date: "%B %Y"}} <br>
+        {%if presentation.date %}
+        <b>Presented on: </b>{{presentation.date | date: "%B %Y"}} <br>
         {%else%}
         <b>Presented on: </b>
         {%endif%}
