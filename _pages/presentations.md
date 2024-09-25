@@ -6,7 +6,8 @@ classes: wide
 
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
-{% for presentation in site.presentations %}
+{% assign sorted_presentations =  site.presentations  | sort: 'conf_date' | reverse %}
+{% for presentation in sorted_presentations %}
 <div class="content-list">
     <div class="presentation-item">
         <b>Title: </b><br><a href="{{presentation.url}}">{{presentation.title}}</a><br>
