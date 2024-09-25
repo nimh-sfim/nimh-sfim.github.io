@@ -1,7 +1,6 @@
 ---
 title: "A neuroscientist sees the brain in action"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

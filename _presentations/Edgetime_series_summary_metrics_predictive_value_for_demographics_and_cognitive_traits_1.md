@@ -1,7 +1,7 @@
 ---
 title: "Edge-time series summary metrics: predictive value for demographics and cognitive traits"
 project_id: bold_connectivity_dynamics
-date: 2023-07-01
+conf_date: 2023-07-01
 conference_id: "OHBM_2023"
 presenters:
    - megan_spurney

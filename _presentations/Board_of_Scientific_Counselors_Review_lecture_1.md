@@ -1,7 +1,6 @@
 ---
 title: "Board of Scientific Counselors Review lecture"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

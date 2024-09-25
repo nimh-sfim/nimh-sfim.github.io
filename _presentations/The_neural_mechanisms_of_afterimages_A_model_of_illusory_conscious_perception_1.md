@@ -1,7 +1,7 @@
 ---
 title: "The neural mechanisms of afterimages: A model of illusory conscious perception"
 project_id: consciousness
-date: 2022-11-01
+conf_date: 2022-11-01
 conference_id: "SFN_2022"
 presenters:
    - micah_holness

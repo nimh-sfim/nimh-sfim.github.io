@@ -1,7 +1,6 @@
 ---
 title: "University of California, Los Angeles, Los Angeles, CA"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

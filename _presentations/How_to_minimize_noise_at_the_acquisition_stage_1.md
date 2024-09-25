@@ -1,7 +1,7 @@
 ---
 title: "How to minimize noise at the acquisition stage"
 project_id: multi_echo
-date: 2017-06-01
+conf_date: 2017-06-01
 conference_id: "OHBM_2017"
 presenters:
    - daniel_handwerker

@@ -1,7 +1,7 @@
 ---
 title: "Impact of Sleep Restriction & Simulated Weightlessness on Speech Perception"
 project_id: 
-date: 2019-06-01
+conf_date: 2019-06-01
 conference_id: "OHBM_2019"
 presenters:
    - emily_finn

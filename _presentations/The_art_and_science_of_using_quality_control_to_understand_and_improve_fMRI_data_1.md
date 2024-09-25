@@ -1,7 +1,7 @@
 ---
 title: "The art and science of using quality control to understand and improve fMRI data"
 project_id: education
-date: 2023-07-01
+conf_date: 2023-07-01
 conference_id: "OHBM_2023"
 presenters:
    - daniel_handwerker

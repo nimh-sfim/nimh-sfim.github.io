@@ -1,7 +1,6 @@
 ---
 title: "Summer School, Brain Sciences Institute, RIKEN, Tokyo, Japan"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

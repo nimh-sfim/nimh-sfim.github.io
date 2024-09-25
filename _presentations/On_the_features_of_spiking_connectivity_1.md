@@ -1,7 +1,7 @@
 ---
 title: "On the features of spiking connectivity"
 project_id: bold_connectivity_dynamics
-date: 2024-06-01
+conf_date: 2024-06-01
 conference_id: "OHBM_2024"
 presenters:
    - josh_faskowitz

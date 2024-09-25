@@ -1,7 +1,6 @@
 ---
 title: "MCW graduate course on fMRI contrast"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

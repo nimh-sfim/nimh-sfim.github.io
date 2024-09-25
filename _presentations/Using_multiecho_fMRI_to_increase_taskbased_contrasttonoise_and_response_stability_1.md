@@ -1,7 +1,7 @@
 ---
 title: "Using multi-echo fMRI to increase task-based contrast-to-noise and response stability"
 project_id: multi_echo
-date: 2015-10-01
+conf_date: 2015-10-01
 conference_id: "SFN_2015"
 presenters:
    - ben_gutierrez

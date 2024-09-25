@@ -1,7 +1,6 @@
 ---
 title: "Picturing the Brain: Powerful Predictions or False Prophecy?"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

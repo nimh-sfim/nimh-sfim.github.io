@@ -1,7 +1,6 @@
 ---
 title: "Beijing Normal University, Beijing, China"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

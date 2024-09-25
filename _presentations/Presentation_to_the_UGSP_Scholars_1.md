@@ -1,7 +1,6 @@
 ---
 title: "Presentation to the UGSP Scholars"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

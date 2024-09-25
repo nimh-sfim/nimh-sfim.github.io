@@ -1,7 +1,6 @@
 ---
 title: "Shorewood High School, Shorewood, WI"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

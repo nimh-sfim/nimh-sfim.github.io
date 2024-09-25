@@ -1,7 +1,6 @@
 ---
 title: "Lecture for Grafman group, NINDS"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

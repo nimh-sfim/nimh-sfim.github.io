@@ -1,7 +1,6 @@
 ---
 title: "MGH traveling fMRI course"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

@@ -1,7 +1,7 @@
 ---
 title: "Effect of multi-echo denoising on the amount of data required to see wide-spread activity"
 project_id: multi_echo
-date: 2015-07-01
+conf_date: 2015-07-01
 conference_id: "OHBM_2015"
 presenters:
    - ben_gutierrez

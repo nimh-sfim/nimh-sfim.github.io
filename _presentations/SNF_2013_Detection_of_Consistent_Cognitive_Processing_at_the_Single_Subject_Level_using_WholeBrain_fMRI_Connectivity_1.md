@@ -1,7 +1,6 @@
 ---
 title: "SNF 2013 Detection of Consistent Cognitive Processing at the Single Subject Level using Whole-Brain fMRI Connectivity"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - javier_gonzalez-castillo

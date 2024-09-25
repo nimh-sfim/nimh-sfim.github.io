@@ -1,7 +1,6 @@
 ---
 title: "The Biggest Unknowns in Functional FMRI"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

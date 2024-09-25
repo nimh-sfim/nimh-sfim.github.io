@@ -1,7 +1,6 @@
 ---
 title: "Cold Spring Harbor course on Brain Mapping"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

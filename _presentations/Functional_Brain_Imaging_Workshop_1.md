@@ -1,7 +1,6 @@
 ---
 title: "Functional Brain Imaging Workshop"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

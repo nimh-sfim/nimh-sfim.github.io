@@ -1,7 +1,6 @@
 ---
 title: "10 Things You Need to Know to be a successful fMRI Researcher"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

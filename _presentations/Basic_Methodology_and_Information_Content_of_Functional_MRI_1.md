@@ -1,7 +1,6 @@
 ---
 title: "Basic Methodology and Information Content of Functional MRI"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

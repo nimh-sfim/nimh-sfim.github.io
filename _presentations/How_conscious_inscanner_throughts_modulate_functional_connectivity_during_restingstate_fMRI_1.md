@@ -1,7 +1,7 @@
 ---
 title: "How conscious in-scanner throughts modulate functional connectivity during resting-state fMRI"
 project_id: bold_connectivity_dynamics
-date: 2022-11-01
+conf_date: 2022-11-01
 conference_id: "SFN_2022"
 presenters:
    - megan_spurney

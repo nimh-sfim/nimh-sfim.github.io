@@ -1,7 +1,7 @@
 ---
 title: "Laminar level subcortico-cortical interactions during naturalistic movie viewing"
 project_id: layer_fmri
-date: 2022-06-01
+conf_date: 2022-06-01
 conference_id: "OHBM_2022"
 presenters:
    - burak_akin

@@ -1,7 +1,6 @@
 ---
 title: "C.O.R.E. talk"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

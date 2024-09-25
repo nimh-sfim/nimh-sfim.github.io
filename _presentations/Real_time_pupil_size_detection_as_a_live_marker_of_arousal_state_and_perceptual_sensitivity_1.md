@@ -1,7 +1,7 @@
 ---
 title: "Real time pupil size detection as a live marker of arousal state and perceptual sensitivity"
 project_id: consciousness
-date: 2023-07-01
+conf_date: 2023-07-01
 conference_id: "OHBM_2023"
 presenters:
    - tori_gobo

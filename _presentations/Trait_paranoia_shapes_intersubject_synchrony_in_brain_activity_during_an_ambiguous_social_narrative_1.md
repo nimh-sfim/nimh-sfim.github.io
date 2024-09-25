@@ -1,7 +1,7 @@
 ---
 title: "Trait paranoia shapes inter-subject synchrony in brain activity during an ambiguous social narrative"
 project_id: 
-date: 2018-06-01
+conf_date: 2018-06-01
 conference_id: "OHBM_2018"
 presenters:
    - emily_finn

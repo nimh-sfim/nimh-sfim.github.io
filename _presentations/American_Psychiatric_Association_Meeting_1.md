@@ -1,7 +1,6 @@
 ---
 title: "American Psychiatric Association Meeting"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

@@ -1,7 +1,7 @@
 ---
 title: " A functionally time-resolved reconstruction technique for high-resolution fMRI"
 project_id: 
-date: 2022-06-01
+conf_date: 2022-06-01
 conference_id: "OHBM_2022"
 presenters:
    - tyler_morgan

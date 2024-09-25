@@ -1,7 +1,6 @@
 ---
 title: "Beyond Spatial, Temporal, and Interpretive Limits of fMRI"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

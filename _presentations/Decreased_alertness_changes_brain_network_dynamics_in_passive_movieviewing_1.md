@@ -1,7 +1,7 @@
 ---
 title: "Decreased alertness changes brain network dynamics in passive movie-viewing"
 project_id: consciousness
-date: 2023-07-01
+conf_date: 2023-07-01
 conference_id: "OHBM_2023"
 presenters:
    - samika_kumar

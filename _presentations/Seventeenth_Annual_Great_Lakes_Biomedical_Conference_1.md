@@ -1,7 +1,6 @@
 ---
 title: "Seventeenth Annual Great Lakes Biomedical Conference"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

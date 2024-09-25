@@ -1,7 +1,6 @@
 ---
 title: "What to do when stimuli (video, audio) are missing?"
 project_id: bold_connectivity_dynamics
-date: nil
 conference_id: ""
 presenters:
    - javier_gonzalez-castillo

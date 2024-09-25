@@ -1,7 +1,6 @@
 ---
 title: "Latest Developments in fMRI"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

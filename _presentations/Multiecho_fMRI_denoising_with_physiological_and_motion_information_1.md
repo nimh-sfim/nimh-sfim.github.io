@@ -1,7 +1,7 @@
 ---
 title: "Multi-echo fMRI denoising with physiological and motion information"
 project_id: multi_echo
-date: 2022-06-01
+conf_date: 2022-06-01
 conference_id: "OHBM_2022"
 presenters:
    - micah_holness

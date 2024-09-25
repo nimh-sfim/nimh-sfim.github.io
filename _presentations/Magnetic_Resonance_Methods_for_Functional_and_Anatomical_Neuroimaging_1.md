@@ -1,7 +1,6 @@
 ---
 title: "Magnetic Resonance Methods for Functional and Anatomical Neuroimaging"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

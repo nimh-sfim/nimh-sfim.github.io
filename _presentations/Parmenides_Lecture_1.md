@@ -1,7 +1,6 @@
 ---
 title: "Parmenides Lecture"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

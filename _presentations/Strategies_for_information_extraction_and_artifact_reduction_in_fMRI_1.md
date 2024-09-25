@@ -1,7 +1,6 @@
 ---
 title: "Strategies for information extraction and artifact reduction in fMRI"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

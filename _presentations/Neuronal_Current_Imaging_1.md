@@ -1,7 +1,6 @@
 ---
 title: "Neuronal Current Imaging"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

@@ -1,7 +1,6 @@
 ---
 title: "Milwaukee County Hospital, Milwaukee, WI"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

@@ -1,7 +1,6 @@
 ---
 title: "M.D. Anderson Cancer Center, Houston, TX"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

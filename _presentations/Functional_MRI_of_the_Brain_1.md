@@ -1,7 +1,6 @@
 ---
 title: "Functional MRI of the Brain"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

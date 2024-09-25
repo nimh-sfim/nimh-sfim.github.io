@@ -1,7 +1,7 @@
 ---
 title: "Comparisons of dynamic functional connectivity of neuronal and hemodynamic activity in awake mice"
 project_id: 
-date: 2018-11-01
+conf_date: 2018-11-01
 conference_id: "SFN_2018"
 presenters:
    - daniel_handwerker

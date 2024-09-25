@@ -1,7 +1,6 @@
 ---
 title: "fMRI 2 Day Workshop"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

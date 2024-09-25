@@ -1,7 +1,6 @@
 ---
 title: "McGovern Institute, Boston, MA"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

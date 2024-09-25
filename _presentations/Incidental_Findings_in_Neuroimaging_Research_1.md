@@ -1,7 +1,6 @@
 ---
 title: "Incidental Findings in Neuroimaging Research"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

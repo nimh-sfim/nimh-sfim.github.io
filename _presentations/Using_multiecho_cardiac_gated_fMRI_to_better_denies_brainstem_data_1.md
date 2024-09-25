@@ -1,7 +1,7 @@
 ---
 title: "Using multi-echo cardiac gated fMRI to better denies brainstem data"
 project_id: multi_echo
-date: 2015-10-01
+conf_date: 2015-10-01
 conference_id: "SFN_2015"
 presenters:
    - ben_gutierrez

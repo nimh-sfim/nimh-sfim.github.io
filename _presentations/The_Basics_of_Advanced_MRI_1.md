@@ -1,7 +1,6 @@
 ---
 title: "The Basics of Advanced MRI"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

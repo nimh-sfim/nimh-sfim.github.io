@@ -1,7 +1,6 @@
 ---
 title: "Charter Hospital, Sioux Falls, SD"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

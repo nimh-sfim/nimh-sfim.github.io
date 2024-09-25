@@ -1,7 +1,6 @@
 ---
 title: "NIH FAES course lecture"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

@@ -1,7 +1,7 @@
 ---
 title: "Thetaburst TMS to the right posterior superior temporal sulcus disrupts resting state connectivity across the face-processing network as measured with multi-echo fMRI"
 project_id: multi_echo
-date: 2015-10-01
+conf_date: 2015-10-01
 conference_id: "SFN_2015"
 presenters:
    - ben_gutierrez

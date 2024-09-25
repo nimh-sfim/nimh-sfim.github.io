@@ -1,7 +1,6 @@
 ---
 title: "Functional MRI:  Patterns, Fluctuations and a Focus on the Individual"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

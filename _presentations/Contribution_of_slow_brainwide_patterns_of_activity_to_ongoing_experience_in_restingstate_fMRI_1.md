@@ -1,7 +1,7 @@
 ---
 title: "Contribution of slow, brain-wide patterns of activity to ongoing experience in resting-state fMRI"
 project_id: bold_connectivity_dynamics
-date: 2024-06-01
+conf_date: 2024-06-01
 conference_id: "OHBM_2024"
 presenters:
    - isabel_gephart

@@ -1,7 +1,6 @@
 ---
 title: "Methodology Development in fMRI: What remains to be done?"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

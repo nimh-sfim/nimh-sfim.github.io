@@ -1,7 +1,7 @@
 ---
 title: "Pupil size and phase as a real-time marker of perceptual sensitivity and whole brain activity"
 project_id: consciousness
-date: 2023-11-01
+conf_date: 2023-11-01
 conference_id: "SFN_2023"
 presenters:
    - tori_gobo

@@ -1,7 +1,6 @@
 ---
 title: "University of Florida, Gainesville, FL"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

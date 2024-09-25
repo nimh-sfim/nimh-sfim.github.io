@@ -1,7 +1,6 @@
 ---
 title: "FMRIF Review Talk"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

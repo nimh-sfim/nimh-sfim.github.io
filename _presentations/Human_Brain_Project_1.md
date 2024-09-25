@@ -1,7 +1,6 @@
 ---
 title: "Human Brain Project"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

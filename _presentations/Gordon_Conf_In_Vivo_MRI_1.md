@@ -1,7 +1,6 @@
 ---
 title: "Gordon Conf: In Vivo MRI"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

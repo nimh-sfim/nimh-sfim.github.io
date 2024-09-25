@@ -1,7 +1,6 @@
 ---
 title: "Neuropsychopharmacology meeting lecture"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

@@ -1,7 +1,6 @@
 ---
 title: "NIDDK Obesity Research Conference"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

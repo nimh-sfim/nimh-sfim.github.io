@@ -1,7 +1,7 @@
 ---
 title: "Resting state frequency signatures across regions"
 project_id: bold_connectivity_dynamics
-date: 2014-09-01
+conf_date: 2014-09-01
 conference_id: "RSBC_2014"
 presenters:
    - daniel_handwerker

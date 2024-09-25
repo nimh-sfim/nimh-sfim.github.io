@@ -1,7 +1,6 @@
 ---
 title: "OHBM course on fMRI"
 project_id: 
-date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

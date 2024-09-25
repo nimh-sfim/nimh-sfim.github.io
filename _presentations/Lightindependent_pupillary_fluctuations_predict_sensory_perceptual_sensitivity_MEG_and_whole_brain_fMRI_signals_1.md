@@ -1,7 +1,7 @@
 ---
 title: "Light-independent pupillary fluctuations predict sensory perceptual sensitivity, MEG, and whole brain fMRI signals"
 project_id: consciousness
-date: 2024-07-01
+conf_date: 2024-07-01
 conference_id: "ASSC_2024"
 presenters:
    - tori_gobo
