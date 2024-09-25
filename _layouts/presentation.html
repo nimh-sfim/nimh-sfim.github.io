@@ -7,12 +7,15 @@ classes: wide
 
 <div>
     <div>
-        {%if page.date %}
-        <b>Presented on: </b>{{page.date | date: "%B %Y"}} <br>
-        {%endif% }
+        {%if page.conf_date%}
+        <b>Presented on: </b><br>{{page.conf_date | date: "%B %Y"}} <br>
+        {%endif%}
         {% assign conference_item = site.conferences | where: "conference_id", page.conference_id | first %}
-        <b>Conference: </b><a href="{{conference_item.url}}">{{conference_item.title}}</a> <br>
-        <b>Summary: </b><br>
+
+        {%if page.conference_id != "" %}
+        <b>Conference: </b><br><a href="{{conference_item.url}}">{{conference_item.title}}</a> <br>
+        {%endif%}
+        <b>Summary: </b> {{page.summary}} <br>
         <b>Presenters: </b><br>
             <ul>
             {% for presenter_id in page.presenters %}
@@ -22,6 +25,6 @@ classes: wide
                 </li>
             {% endfor %}
             </ul>
-        <b>File: </b><a href="{{page.file | relative_url}}">{{page.file_name}}</a>
+        <b>File: </b><a href="{{page.file | relative_url}}">{{page.filename}}</a>
     </div>
 </div>
