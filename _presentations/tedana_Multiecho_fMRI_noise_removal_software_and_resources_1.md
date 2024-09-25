@@ -10,8 +10,7 @@ presenters:
    - peter_molfese
 summary: "<p>Poster #1336, page 484</p>
 
-<p>Organization for Human Brain Mapping. Abstract Book 3: OHBM 2024 Annual Meeting. <em>Aperture Neuro</em>. 2024;4(Suppl 1). <a href="https://doi.org/10.52294/001c.120593">doi:10.52294/001c.120593</a></p>
-"
+<p>Organization for Human Brain Mapping. Abstract Book 3: OHBM 2024 Annual Meeting. <em>Aperture Neuro</em>. 2024;4(Suppl 1). <a href="https://doi.org/10.52294/001c.120593">doi:10.52294/001c.120593</a></p>"
 file: /assets/presentations/tedana_poster_OHBM2024.pdf
 filename: tedana_poster_OHBM2024.pdf
 layout: presentation
