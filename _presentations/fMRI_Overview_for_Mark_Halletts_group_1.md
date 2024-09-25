@@ -1,6 +1,7 @@
 ---
 title: "fMRI Overview for Mark Hallett's group."
 project_id: 
+date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

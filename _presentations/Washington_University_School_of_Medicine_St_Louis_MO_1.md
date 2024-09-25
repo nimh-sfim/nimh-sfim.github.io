@@ -1,6 +1,7 @@
 ---
 title: "Washington University School of Medicine, St. Louis, MO"
 project_id: 
+date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

@@ -1,6 +1,7 @@
 ---
 title: "OHBM education program"
 project_id: 
+date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

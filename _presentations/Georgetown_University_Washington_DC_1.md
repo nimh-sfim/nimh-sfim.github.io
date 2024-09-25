@@ -1,6 +1,7 @@
 ---
 title: "Georgetown University, Washington, D.C."
 project_id: 
+date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

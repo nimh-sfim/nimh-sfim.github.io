@@ -1,6 +1,7 @@
 ---
 title: "Linearity of the BOLD Response"
 project_id: 
+date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

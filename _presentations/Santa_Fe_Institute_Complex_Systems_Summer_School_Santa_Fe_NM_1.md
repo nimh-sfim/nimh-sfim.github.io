@@ -1,6 +1,7 @@
 ---
 title: "Santa Fe Institute, Complex Systems Summer School, Santa Fe, NM"
 project_id: 
+date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

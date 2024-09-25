@@ -1,6 +1,7 @@
 ---
 title: "OHBM Meeting Wrap-up"
 project_id: 
+date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

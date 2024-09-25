@@ -1,6 +1,7 @@
 ---
 title: "How Much Information Can We Extract from the fMRI Time Series?"
 project_id: 
+date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

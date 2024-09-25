@@ -1,6 +1,7 @@
 ---
 title: "A Closer Look at BOLD Fluctuations, Decreases, and Increases"
 project_id: 
+date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

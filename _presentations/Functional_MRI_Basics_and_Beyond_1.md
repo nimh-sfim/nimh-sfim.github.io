@@ -1,6 +1,7 @@
 ---
 title: "Functional MRI: Basics and Beyond"
 project_id: 
+date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

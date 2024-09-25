@@ -1,6 +1,7 @@
 ---
 title: "New Frontiers in Functional Imaging"
 project_id: 
+date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

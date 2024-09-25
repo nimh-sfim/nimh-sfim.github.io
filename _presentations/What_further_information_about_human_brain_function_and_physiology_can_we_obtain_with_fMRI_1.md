@@ -1,6 +1,7 @@
 ---
 title: "What further information about human brain function and physiology can we obtain with fMRI?"
 project_id: 
+date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

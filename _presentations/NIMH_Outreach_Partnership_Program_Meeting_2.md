@@ -1,6 +1,7 @@
 ---
 title: "NIMH Outreach Partnership Program Meeting."
 project_id: 
+date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

@@ -1,6 +1,7 @@
 ---
 title: "The Hemodynamic Response and More: Advances and Prospects for fMRI"
 project_id: 
+date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

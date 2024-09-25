@@ -1,6 +1,7 @@
 ---
 title: "Medical College of Wisconsin Council Meeting"
 project_id: 
+date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

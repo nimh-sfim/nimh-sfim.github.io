@@ -1,6 +1,7 @@
 ---
 title: "Teknisk Aften"
 project_id: 
+date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

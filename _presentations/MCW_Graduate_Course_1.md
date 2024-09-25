@@ -1,6 +1,7 @@
 ---
 title: "MCW Graduate Course"
 project_id: 
+date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

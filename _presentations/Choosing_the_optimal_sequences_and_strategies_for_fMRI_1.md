@@ -1,6 +1,7 @@
 ---
 title: "Choosing the optimal sequences and strategies for fMRI"
 project_id: 
+date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

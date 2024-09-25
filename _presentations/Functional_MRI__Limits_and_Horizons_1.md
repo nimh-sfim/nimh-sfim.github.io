@@ -1,6 +1,7 @@
 ---
 title: "Functional MRI:  Limits and Horizons"
 project_id: 
+date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

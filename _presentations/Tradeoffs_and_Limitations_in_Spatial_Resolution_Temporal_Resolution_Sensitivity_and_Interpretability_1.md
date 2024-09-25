@@ -1,6 +1,7 @@
 ---
 title: "Tradeoffs and Limitations in: Spatial Resolution, Temporal Resolution, Sensitivity, and Interpretability"
 project_id: 
+date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

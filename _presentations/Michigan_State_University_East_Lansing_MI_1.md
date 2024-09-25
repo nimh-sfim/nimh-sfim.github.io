@@ -1,6 +1,7 @@
 ---
 title: "Michigan State University, East Lansing, MI"
 project_id: 
+date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

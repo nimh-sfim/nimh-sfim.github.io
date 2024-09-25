@@ -1,6 +1,7 @@
 ---
 title: "Most and Least Temporally Stable Brain Connections as Measured by Resting State fMRI"
 project_id: 
+date: nil
 conference_id: ""
 presenters:
    - laura_buchanan

@@ -1,6 +1,7 @@
 ---
 title: "History and Prospects of fMRI and Human Brain Mapping"
 project_id: 
+date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

@@ -1,6 +1,7 @@
 ---
 title: "Starting Up an FMRI Facility"
 project_id: 
+date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

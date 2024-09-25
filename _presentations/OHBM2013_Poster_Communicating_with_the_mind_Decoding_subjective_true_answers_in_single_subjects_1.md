@@ -1,6 +1,7 @@
 ---
 title: "OHBM2013 Poster: Communicating with the mind: Decoding subjective true answers in single subjects"
 project_id: 
+date: nil
 conference_id: ""
 presenters:
    - zhi_yang

@@ -1,6 +1,7 @@
 ---
 title: "Non-standard uses of echo-planar imaging"
 project_id: 
+date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

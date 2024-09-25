@@ -1,6 +1,7 @@
 ---
 title: "NIH Director's Council of Public Representatives (COPR) tour"
 project_id: 
+date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

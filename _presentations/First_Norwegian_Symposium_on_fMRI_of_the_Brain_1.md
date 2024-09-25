@@ -1,6 +1,7 @@
 ---
 title: "First Norwegian Symposium on fMRI of the Brain"
 project_id: 
+date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

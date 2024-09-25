@@ -1,6 +1,7 @@
 ---
 title: "Purdue University, West Lafayette, Indiana"
 project_id: 
+date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

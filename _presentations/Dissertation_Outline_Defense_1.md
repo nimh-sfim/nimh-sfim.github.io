@@ -1,6 +1,7 @@
 ---
 title: "Dissertation Outline Defense"
 project_id: 
+date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

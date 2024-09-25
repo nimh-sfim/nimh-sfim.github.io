@@ -1,6 +1,7 @@
 ---
 title: "Pushing the limits of fMRI:  Dynamics, Fluctiations, and Patterns"
 project_id: 
+date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

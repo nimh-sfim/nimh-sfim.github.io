@@ -1,6 +1,7 @@
 ---
 title: "National Research Council, Washington DC"
 project_id: 
+date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

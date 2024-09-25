@@ -1,6 +1,7 @@
 ---
 title: "MGH - NMR Center, Charlestown, MA"
 project_id: 
+date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

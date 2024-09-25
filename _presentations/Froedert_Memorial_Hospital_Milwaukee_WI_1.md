@@ -1,6 +1,7 @@
 ---
 title: "Froedert Memorial Hospital, Milwaukee, WI"
 project_id: 
+date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

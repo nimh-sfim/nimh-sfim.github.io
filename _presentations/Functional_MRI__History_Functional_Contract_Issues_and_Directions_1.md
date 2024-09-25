@@ -1,6 +1,7 @@
 ---
 title: "Functional MRI:  History, Functional Contract, Issues, and Directions"
 project_id: 
+date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

@@ -1,6 +1,7 @@
 ---
 title: "University of Udina, Italy"
 project_id: 
+date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

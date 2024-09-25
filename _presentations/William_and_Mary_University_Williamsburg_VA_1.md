@@ -1,6 +1,7 @@
 ---
 title: "William and Mary University, Williamsburg, VA"
 project_id: 
+date: nil
 conference_id: ""
 presenters:
    - peter_bandettini

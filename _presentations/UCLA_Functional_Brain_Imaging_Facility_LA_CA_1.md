@@ -1,6 +1,7 @@
 ---
 title: "UCLA Functional Brain Imaging Facility, LA, CA"
 project_id: 
+date: nil
 conference_id: ""
 presenters:
    - peter_bandettini
