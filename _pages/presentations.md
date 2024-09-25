@@ -15,7 +15,7 @@ classes: wide
         {% if presentation.date%}
         {%assign pres_date = presentation.date % }
         {%else%}
-        {%assign pres_date = ""}
+        {%assign pres_date = ""%}
         {%endif%}
         <b>Presented on: </b><br>{{pres_date}} <br>
     </div>
