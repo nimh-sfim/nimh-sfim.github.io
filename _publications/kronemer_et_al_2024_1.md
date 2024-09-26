@@ -13,7 +13,7 @@ authors:
    - Peter Bandettini
 author_ids:
    - sharif_kronemer
-   - tori_gobo
+   - victoria_gobo
    - catherine_walsh
    - joshua_teves
    - bahar_shahsavarani

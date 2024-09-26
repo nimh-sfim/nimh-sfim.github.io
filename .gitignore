@@ -8,3 +8,4 @@ _data/bibcite-export-09102024112644-83.bib
 _data/*.html
 _data/former_members.csv
 pull_sql_data.ipynb
+_data/pubs.csv
