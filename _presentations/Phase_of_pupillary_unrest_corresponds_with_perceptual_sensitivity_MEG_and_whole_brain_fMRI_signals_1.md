@@ -4,7 +4,7 @@ project_id: consciousness
 conf_date: 2024-06-01
 conference_id: "OHBM_2024"
 presenters:
-   - tori_gobo
+   - victoria_gobo
    - javier_gonzalez-castillo
    - joshua_teves
    - micah_holness

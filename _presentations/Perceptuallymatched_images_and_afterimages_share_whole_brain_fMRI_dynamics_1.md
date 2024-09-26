@@ -11,7 +11,7 @@ presenters:
    - joshua_teves
    - burak_akin
    - laurentius_huber
-   - tori_gobo
+   - victoria_gobo
    - daniel_handwerker
    - peter_bandettini
 summary: ""

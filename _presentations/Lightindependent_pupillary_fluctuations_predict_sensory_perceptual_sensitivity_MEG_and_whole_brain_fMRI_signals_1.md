@@ -4,7 +4,7 @@ project_id: consciousness
 conf_date: 2024-07-01
 conference_id: "ASSC_2024"
 presenters:
-   - tori_gobo
+   - victoria_gobo
 summary: ""
 file: /assets/presentations/ASSC_Presentation_Gobo.pdf
 filename: ASSC_Presentation_Gobo.pdf

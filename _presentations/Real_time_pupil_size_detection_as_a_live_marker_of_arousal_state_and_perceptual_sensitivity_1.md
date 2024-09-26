@@ -4,7 +4,7 @@ project_id: consciousness
 conf_date: 2023-07-01
 conference_id: "OHBM_2023"
 presenters:
-   - tori_gobo
+   - victoria_gobo
    - javier_gonzalez-castillo
    - joshua_teves
    - peter_bandettini

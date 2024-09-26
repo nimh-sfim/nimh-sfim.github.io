@@ -4,7 +4,7 @@ project_id: consciousness
 conf_date: 2023-11-01
 conference_id: "SFN_2023"
 presenters:
-   - tori_gobo
+   - victoria_gobo
    - javier_gonzalez-castillo
    - joshua_teves
    - micah_holness

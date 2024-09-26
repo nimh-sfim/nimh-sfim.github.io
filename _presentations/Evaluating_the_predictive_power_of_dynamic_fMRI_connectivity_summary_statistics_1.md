@@ -5,7 +5,7 @@ conf_date: 2023-11-01
 conference_id: "SFN_2023"
 presenters:
    - megan_spurney
-   - josh_faskowitz
+   - joshua_faskowitz
    - javier_gonzalez-castillo
    - daniel_handwerker
    - peter_bandettini

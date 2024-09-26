@@ -4,7 +4,7 @@ project_id: bold_connectivity_dynamics
 conf_date: 2024-06-01
 conference_id: "OHBM_2024"
 presenters:
-   - josh_faskowitz
+   - joshua_faskowitz
    - javier_gonzalez-castillo
    - daniel_handwerker
    - peter_bandettini

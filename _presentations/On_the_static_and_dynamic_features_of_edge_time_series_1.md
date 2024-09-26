@@ -4,7 +4,7 @@ project_id: bold_connectivity_dynamics
 conf_date: 2023-07-01
 conference_id: "OHBM_2023"
 presenters:
-   - josh_faskowitz
+   - joshua_faskowitz
    - tyler_morgan
    - daniel_handwerker
    - javier_gonzalez-castillo

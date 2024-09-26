@@ -11,7 +11,7 @@ presenters:
    - laurentius_huber
    - tyler_morgan
    - joshua_teves
-   - tori_gobo
+   - victoria_gobo
    - daniel_handwerker
    - peter_bandettini
 summary: "<p>Poster #2540, pages 310-311</p>

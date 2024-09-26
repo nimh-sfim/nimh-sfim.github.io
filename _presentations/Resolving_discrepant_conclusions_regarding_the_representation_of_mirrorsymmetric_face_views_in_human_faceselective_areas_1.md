@@ -4,7 +4,7 @@ project_id:
 conf_date: 2023-11-01
 conference_id: "SFN_2023"
 presenters:
-   - fernando_ramírez
+   - fernando_ramirez
    - javier_gonzalez-castillo
    - peter_bandettini
 summary: "<p>Viewpoint invariant face recognition is a remarkable feat of the primate visual system. Traditional theories hold that viewpoint is coded by view-selective mechanisms at early visual processing stages and representations become gradually tolerant to viewpoint changes in higher-level visual areas. Newer theories, based on single-neuron monkey electrophysiological recordings, suggest a three-step architecture revealing a sharp transition from a view-tuned to a mirror-symmetric representation before achieving viewpoint invariance at the highest level of the hierarchy. Consistent with traditional theories, human studies combining neuroimaging and multivariate pattern analysis have provided evidence of view-selectivity in early visual cortex. However, contradictory results have been reported in higher-level visual areas regarding the existence in humans of a mirror-symmetric processing stage.<br />
