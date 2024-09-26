@@ -40,8 +40,7 @@ summary: "<ul>
 		</li>
 	</ul>
 	</li>
-</ul>
-"
+</ul>"
 file: /assets/presentations/IGephart_SFN_FINAL.pdf
 filename: IGephart_SFN_FINAL.pdf
 layout: presentation

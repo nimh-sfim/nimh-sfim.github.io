@@ -12,8 +12,7 @@ summary: "<p>Resting-state functional magnetic resonance imaging (fMRI) studies 
 
 <p>Goal of Study</p>
 
-<p>Here, wide-field optical mapping (WFOM) provided us with a unique opportunity to simultaneously record neuronal calcium and hemodynamic signals in awake, spontaneously behaving mice. We aimed to characterize dynamic changes in cortex-wide neuronal correlation patterns and their relationship to mouse behavior and brain hemodynamics.</p>
-"
+<p>Here, wide-field optical mapping (WFOM) provided us with a unique opportunity to simultaneously record neuronal calcium and hemodynamic signals in awake, spontaneously behaving mice. We aimed to characterize dynamic changes in cortex-wide neuronal correlation patterns and their relationship to mouse behavior and brain hemodynamics.</p>"
 file: /assets/presentations/Shahsavarani_SfN_2022_sm.pdf
 filename: Shahsavarani_SfN_2022_sm.pdf
 layout: presentation

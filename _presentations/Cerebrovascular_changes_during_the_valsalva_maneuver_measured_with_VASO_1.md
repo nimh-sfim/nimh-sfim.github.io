@@ -10,8 +10,7 @@ presenters:
    - peter_bandettini
    - ben_gutierrez
    - puja_panwar
-summary: "<p>Abstract #4298</p>
-"
+summary: "<p>Abstract #4298</p>"
 file: /assets/presentations/handwerker_valsalvavaso_hbm2016_small.pdf
 filename: handwerker_valsalvavaso_hbm2016_small.pdf
 layout: presentation

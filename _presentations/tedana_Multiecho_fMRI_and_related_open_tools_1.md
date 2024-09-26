@@ -14,8 +14,7 @@ summary: "<p>tedana is:</p>
 
 <p>2. Makes multi-echo fMRI denoising methods more accessible and understandable</p>
 
-<p>3. A <em>community </em>and resources for people interested in multi-echo fMRI whether or not they use tedana software</p>
-"
+<p>3. A <em>community </em>and resources for people interested in multi-echo fMRI whether or not they use tedana software</p>"
 file: /assets/presentations/tedana_poster_OHBM2022.pdf
 filename: tedana_poster_OHBM2022.pdf
 layout: presentation

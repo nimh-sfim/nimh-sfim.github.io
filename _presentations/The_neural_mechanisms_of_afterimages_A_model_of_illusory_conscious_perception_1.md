@@ -15,8 +15,7 @@ summary: "<p>There are two broad categories of conscious perception: (1) exteroc
 <p>Primary Aim</p>
 
 <p>Use afterimages and perceptually-matched mock afterimages to identify the neural mechanisms for interoceptive, illusory<br />
-conscious perception.</p>
-"
+conscious perception.</p>"
 file: /assets/presentations/Holness_et_al_SfN_2022_sm.pdf
 filename: Holness_et_al_SfN_2022_sm.pdf
 layout: presentation

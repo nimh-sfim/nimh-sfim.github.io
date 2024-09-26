@@ -18,8 +18,7 @@ The fTR-MRI reconstruction method incorporates experimental designs into the ima
 [3] F. Wang et al., Magn. Reson. Med. 2019<br />
 [4] A.G. Christodoulou et al., Nat. Biomed. Eng. 2018<br />
 [5] M.A.O. Vasilescu, University of Toronto Thesis. 2009<br />
-[6] P. Tian et al., Proc. Natl. Acad. Sci. 2010</p>
-"
+[6] P. Tian et al., Proc. Natl. Acad. Sci. 2010</p>"
 file: /assets/presentations/Morgan_SFN2023.pdf
 filename: Morgan_SFN2023.pdf
 layout: presentation

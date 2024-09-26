@@ -12,8 +12,7 @@ presenters:
    - peter_bandettini
 summary: "<p>Multi-echo denoising removes non-T2* and therefore non-BOLD time series fluctuations. This includes scanner artifacts and head motion. However, breathing related BOLD changes are not removed.</p>
 
-<p>We use the multi-echo ICA denoising method implemented in tedana and additionally removed ICA components that are correlated with head motion, cardiac, and respiratory fluctuations. Our hypothesis was that this additional ICA removal process would help eliminate artifactual BOLD and maintain higher statistical degrees of freedom.</p>
-"
+<p>We use the multi-echo ICA denoising method implemented in tedana and additionally removed ICA components that are correlated with head motion, cardiac, and respiratory fluctuations. Our hypothesis was that this additional ICA removal process would help eliminate artifactual BOLD and maintain higher statistical degrees of freedom.</p>"
 file: /assets/presentations/Holness_OHBM_final.pdf
 filename: Holness_OHBM_final.pdf
 layout: presentation
