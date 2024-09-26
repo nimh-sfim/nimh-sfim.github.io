@@ -1,6 +1,7 @@
 ---
 title: "ISMRM education program"
 project_id: 
+conf_date: 2008-04-06
 conference_id: ""
 presenters:
    - peter_bandettini

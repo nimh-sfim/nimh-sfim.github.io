@@ -1,6 +1,7 @@
 ---
 title: "MCW Graduate Course in fMRI, Talk 2"
 project_id: 
+conf_date: 2007-02-06
 conference_id: ""
 presenters:
    - peter_bandettini

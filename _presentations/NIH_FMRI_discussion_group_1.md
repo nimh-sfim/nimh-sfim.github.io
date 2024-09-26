@@ -1,6 +1,7 @@
 ---
 title: "NIH FMRI discussion group"
 project_id: 
+conf_date: 2006-01-06
 conference_id: ""
 presenters:
    - peter_bandettini

@@ -1,6 +1,7 @@
 ---
 title: "MCW fMRI Course"
 project_id: 
+conf_date: 2007-05-06
 conference_id: ""
 presenters:
    - peter_bandettini

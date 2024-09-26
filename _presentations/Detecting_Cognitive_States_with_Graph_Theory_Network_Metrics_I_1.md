@@ -1,6 +1,7 @@
 ---
 title: "Detecting Cognitive States with Graph Theory Network Metrics I"
 project_id: 
+conf_date: 2014-09-06
 conference_id: ""
 presenters:
    - laura_buchanan

@@ -1,6 +1,7 @@
 ---
 title: "University of Wisconsin, Milwaukee, Milwaukee, WI"
 project_id: 
+conf_date: 2007-04-06
 conference_id: ""
 presenters:
    - peter_bandettini

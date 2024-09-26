@@ -1,6 +1,7 @@
 ---
 title: "University of Pennsylvania, PA"
 project_id: 
+conf_date: 2008-08-06
 conference_id: ""
 presenters:
    - peter_bandettini

@@ -1,6 +1,7 @@
 ---
 title: "Medical College of Wisconsin Council Meeting"
 project_id: 
+conf_date: 1993-04-06
 conference_id: ""
 presenters:
    - peter_bandettini

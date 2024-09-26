@@ -1,6 +1,7 @@
 ---
 title: "International Neuropsychology Society, Waikoloa, HI"
 project_id: 
+conf_date: 2008-01-06
 conference_id: ""
 presenters:
    - peter_bandettini

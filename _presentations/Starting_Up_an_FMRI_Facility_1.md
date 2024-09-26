@@ -1,6 +1,7 @@
 ---
 title: "Starting Up an FMRI Facility"
 project_id: 
+conf_date: 2002-06-06
 conference_id: ""
 presenters:
    - peter_bandettini

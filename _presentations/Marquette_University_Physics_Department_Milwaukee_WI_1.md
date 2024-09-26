@@ -1,6 +1,7 @@
 ---
 title: "Marquette University Physics Department, Milwaukee, WI"
 project_id: 
+conf_date: 2000-01-06
 conference_id: ""
 presenters:
    - peter_bandettini

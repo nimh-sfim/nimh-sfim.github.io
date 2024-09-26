@@ -1,6 +1,7 @@
 ---
 title: "Presentation for Carmelite Priests"
 project_id: 
+conf_date: 2004-02-06
 conference_id: ""
 presenters:
    - peter_bandettini

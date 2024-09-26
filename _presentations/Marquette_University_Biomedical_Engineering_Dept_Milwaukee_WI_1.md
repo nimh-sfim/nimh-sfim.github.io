@@ -1,6 +1,7 @@
 ---
 title: "Marquette University Biomedical Engineering Dept., Milwaukee, WI"
 project_id: 
+conf_date: 1997-01-06
 conference_id: ""
 presenters:
    - peter_bandettini

@@ -1,6 +1,7 @@
 ---
 title: "Functional MRI graduate course"
 project_id: 
+conf_date: 2002-09-06
 conference_id: ""
 presenters:
    - peter_bandettini

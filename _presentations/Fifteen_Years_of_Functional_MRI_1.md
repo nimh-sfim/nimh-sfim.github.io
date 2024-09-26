@@ -1,6 +1,7 @@
 ---
 title: "Fifteen Years of Functional MRI"
 project_id: 
+conf_date: 2006-08-06
 conference_id: ""
 presenters:
    - peter_bandettini

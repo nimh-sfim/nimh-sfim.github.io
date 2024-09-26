@@ -1,6 +1,7 @@
 ---
 title: "Neuromimaging (...at the NIH)"
 project_id: 
+conf_date: 2003-01-06
 conference_id: ""
 presenters:
    - peter_bandettini

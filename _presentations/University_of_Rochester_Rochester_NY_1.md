@@ -1,6 +1,7 @@
 ---
 title: "University of Rochester, Rochester, NY"
 project_id: 
+conf_date: 1996-07-06
 conference_id: ""
 presenters:
    - peter_bandettini

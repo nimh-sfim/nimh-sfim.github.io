@@ -1,6 +1,7 @@
 ---
 title: "Neuronal Correlates of Bold"
 project_id: 
+conf_date: 2003-08-06
 conference_id: ""
 presenters:
    - peter_bandettini

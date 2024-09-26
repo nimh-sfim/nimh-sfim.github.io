@@ -1,6 +1,7 @@
 ---
 title: "FMRI database workshop"
 project_id: 
+conf_date: 2002-06-06
 conference_id: ""
 presenters:
    - peter_bandettini

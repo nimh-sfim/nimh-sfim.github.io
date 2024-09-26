@@ -1,6 +1,7 @@
 ---
 title: "Williamsport High School, Williamsport, MD"
 project_id: 
+conf_date: 2005-03-06
 conference_id: ""
 presenters:
    - peter_bandettini

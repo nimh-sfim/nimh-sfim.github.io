@@ -1,6 +1,7 @@
 ---
 title: "Dynamics, Fluctuations, and Patterns:  Ongoing work towards seperating physiologic from neuronal information in fMRI"
 project_id: 
+conf_date: 2009-07-06
 conference_id: ""
 presenters:
    - peter_bandettini

@@ -1,6 +1,7 @@
 ---
 title: "Functional Brain Imaging Workshop"
 project_id: 
+conf_date: 1998-04-06
 conference_id: ""
 presenters:
    - peter_bandettini

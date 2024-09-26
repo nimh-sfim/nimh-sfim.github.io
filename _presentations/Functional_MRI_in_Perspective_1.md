@@ -1,6 +1,7 @@
 ---
 title: "Functional MRI in Perspective"
 project_id: 
+conf_date: 2005-08-06
 conference_id: ""
 presenters:
    - peter_bandettini

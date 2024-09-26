@@ -1,6 +1,7 @@
 ---
 title: "Third Midwest Course on fMRI"
 project_id: 
+conf_date: 1997-02-06
 conference_id: ""
 presenters:
    - peter_bandettini

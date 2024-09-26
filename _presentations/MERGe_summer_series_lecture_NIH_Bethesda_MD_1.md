@@ -1,6 +1,7 @@
 ---
 title: "MERGe summer series lecture, NIH, Bethesda, MD"
 project_id: 
+conf_date: 2008-06-06
 conference_id: ""
 presenters:
    - peter_bandettini

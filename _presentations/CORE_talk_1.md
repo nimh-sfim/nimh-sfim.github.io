@@ -1,6 +1,7 @@
 ---
 title: "C.O.R.E. talk"
 project_id: 
+conf_date: 2003-10-06
 conference_id: ""
 presenters:
    - peter_bandettini

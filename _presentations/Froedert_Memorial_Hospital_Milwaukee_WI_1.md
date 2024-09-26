@@ -1,6 +1,7 @@
 ---
 title: "Froedert Memorial Hospital, Milwaukee, WI"
 project_id: 
+conf_date: 1992-09-06
 conference_id: ""
 presenters:
    - peter_bandettini

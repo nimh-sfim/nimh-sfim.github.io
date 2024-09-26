@@ -1,6 +1,7 @@
 ---
 title: "fMRI 2 Day Workshop"
 project_id: 
+conf_date: 1996-05-06
 conference_id: ""
 presenters:
    - peter_bandettini

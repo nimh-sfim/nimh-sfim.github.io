@@ -1,6 +1,7 @@
 ---
 title: "Society of Magnetic Resonance mini-cat. course"
 project_id: 
+conf_date: 1994-07-06
 conference_id: ""
 presenters:
    - peter_bandettini

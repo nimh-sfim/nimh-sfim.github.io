@@ -1,6 +1,7 @@
 ---
 title: "Is it possible to detect neuronal activity directly with fMRI?"
 project_id: 
+conf_date: 2005-04-06
 conference_id: ""
 presenters:
    - peter_bandettini

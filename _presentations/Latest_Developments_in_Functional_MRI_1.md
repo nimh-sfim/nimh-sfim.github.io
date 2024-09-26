@@ -1,6 +1,7 @@
 ---
 title: "Latest Developments in Functional MRI"
 project_id: 
+conf_date: 2002-04-06
 conference_id: ""
 presenters:
    - peter_bandettini

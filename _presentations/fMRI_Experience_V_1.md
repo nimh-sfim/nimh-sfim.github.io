@@ -1,6 +1,7 @@
 ---
 title: "fMRI Experience V"
 project_id: 
+conf_date: 2003-02-06
 conference_id: ""
 presenters:
    - peter_bandettini

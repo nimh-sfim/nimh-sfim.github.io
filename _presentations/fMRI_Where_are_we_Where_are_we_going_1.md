@@ -1,6 +1,7 @@
 ---
 title: "fMRI: Where are we, Where are we going?"
 project_id: 
+conf_date: 2002-08-06
 conference_id: ""
 presenters:
    - peter_bandettini

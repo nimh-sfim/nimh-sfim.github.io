@@ -1,6 +1,7 @@
 ---
 title: "ISMRM symposium on unsolved problems"
 project_id: 
+conf_date: 2008-05-06
 conference_id: ""
 presenters:
    - peter_bandettini

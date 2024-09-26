@@ -1,6 +1,7 @@
 ---
 title: "Effect of Flip Angle in BOLD Sensitivity"
 project_id: 
+conf_date: 2014-09-06
 conference_id: ""
 presenters:
    - javier_gonzalez-castillo

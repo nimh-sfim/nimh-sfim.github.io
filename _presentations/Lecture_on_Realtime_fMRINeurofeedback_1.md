@@ -1,6 +1,7 @@
 ---
 title: "Lecture on Realtime fMRI/Neurofeedback"
 project_id: 
+conf_date: 2014-09-06
 conference_id: ""
 presenters:
    - javier_gonzalez-castillo

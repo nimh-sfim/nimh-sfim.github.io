@@ -1,11 +1,12 @@
 ---
 title: "MCW fMRI course"
 project_id: 
+conf_date: 2000-05-06
 conference_id: ""
 presenters:
    - peter_bandettini
-summary: "<p>MCW fMRI course, Milwaukee, WI</p>"
-file: /assets/presentations/T160.ppt
-filename: T160.ppt
+summary: "MCW fMRI course, Medical College of Wisconsin, Milwaukee, WI"
+file: /assets/presentations/
+filename: 
 layout: presentation
 ---

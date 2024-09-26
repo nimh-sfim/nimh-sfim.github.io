@@ -1,6 +1,7 @@
 ---
 title: "Incidental Findings in Neuroimaging Research"
 project_id: 
+conf_date: 2004-12-06
 conference_id: ""
 presenters:
    - peter_bandettini

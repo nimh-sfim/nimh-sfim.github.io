@@ -1,6 +1,7 @@
 ---
 title: "NIMH PI Retreat, FMRIF overview"
 project_id: 
+conf_date: 2005-02-06
 conference_id: ""
 presenters:
    - peter_bandettini

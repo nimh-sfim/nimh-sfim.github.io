@@ -1,6 +1,7 @@
 ---
 title: "NIDDK Obesity Research Conference"
 project_id: 
+conf_date: 2007-03-06
 conference_id: ""
 presenters:
    - peter_bandettini

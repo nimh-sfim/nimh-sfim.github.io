@@ -1,6 +1,7 @@
 ---
 title: "MCW graduate course on fMRI contrast"
 project_id: 
+conf_date: 2000-01-06
 conference_id: ""
 presenters:
    - peter_bandettini

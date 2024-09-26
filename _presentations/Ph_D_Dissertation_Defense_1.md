@@ -1,6 +1,7 @@
 ---
 title: "Ph. D. Dissertation Defense"
 project_id: 
+conf_date: 1994-09-06
 conference_id: ""
 presenters:
    - peter_bandettini

@@ -1,6 +1,7 @@
 ---
 title: "Summer School, Brain Sciences Institute, RIKEN, Tokyo, Japan"
 project_id: 
+conf_date: 2002-06-06
 conference_id: ""
 presenters:
    - peter_bandettini

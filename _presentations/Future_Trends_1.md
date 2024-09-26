@@ -1,6 +1,7 @@
 ---
 title: "Future Trends"
 project_id: 
+conf_date: 2002-05-06
 conference_id: ""
 presenters:
    - peter_bandettini

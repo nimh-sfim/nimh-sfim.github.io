@@ -1,6 +1,7 @@
 ---
 title: "NSF Security Evaluation Workshop"
 project_id: 
+conf_date: 2005-07-06
 conference_id: ""
 presenters:
    - peter_bandettini
