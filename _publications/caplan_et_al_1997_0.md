@@ -8,7 +8,7 @@ authors:
    - J. Sutton
 author_ids:
    - peter_bandettini
-journal: 'Computational Neuroscience &amp;apos;96'
+journal: 'Computational Neuroscience 96'
 volume: 
 issue: 
 pages: 585-589
@@ -23,6 +23,6 @@ code_loc: ''
 file: '/assets/publications//assets/publications/'
 file_name: '/assets/publications/'
 type: journal_article
-pub_str: ' (1997) Computational Neuroscience &apos;96 : 585-589'
+pub_str: ' (1997) Computational Neuroscience 96 : 585-589'
 layout: publication 
 ---

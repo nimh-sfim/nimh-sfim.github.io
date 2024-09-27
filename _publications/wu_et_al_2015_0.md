@@ -11,7 +11,7 @@ author_ids:
    - paula_wu
    - peter_bandettini
    - daniel_handwerker
-journal: 'Journal of Cerebral Blood Flow \&amp;amp; Metabolism'
+journal: 'Journal of Cerebral Blood Flow & Metabolism'
 volume: 35
 issue: 6
 pages: 1024-1032
@@ -26,6 +26,6 @@ code_loc: ''
 file: '/assets/publications//assets/publications/'
 file_name: '/assets/publications/'
 type: journal_article
-pub_str: ' (2015) Journal of Cerebral Blood Flow \&amp; Metabolism 35(6): 1024-1032'
+pub_str: ' (2015) Journal of Cerebral Blood Flow & Metabolism 35(6): 1024-1032'
 layout: publication 
 ---

@@ -1,5 +1,5 @@
 ---
-title: "The effect of stimulus duty cycle and &amp;quot;off&amp;quot; duration on BOLD response linearity"
+title: "The effect of stimulus duty cycle and 'off' duration on BOLD response linearity"
 date: 2005-01-01
 authors_string: R. Birn, Peter Bandettini
 authors:

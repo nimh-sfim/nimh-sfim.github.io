@@ -1,5 +1,5 @@
 ---
-title: "What&amp;apos;s new in neuroimaging methods?"
+title: "What's new in neuroimaging methods?"
 date: 2009-01-01
 authors_string: Peter Bandettini
 authors:

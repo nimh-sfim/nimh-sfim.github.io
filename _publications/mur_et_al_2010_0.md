@@ -1,5 +1,5 @@
 ---
-title: "Face-identity change activation outside the face system: &amp;quot;Release from Adaptation&amp;quot; may not always indicate neuronal selectivity"
+title: "Face-identity change activation outside the face system: 'Release from Adaptation' may not always indicate neuronal selectivity"
 date: 2010-01-01
 authors_string: M. Mur, D. Ruff, J. Bodurka, Peter Bandettini, N. Kriegeskorte
 authors:

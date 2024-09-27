@@ -12,7 +12,7 @@ issue: 8
 pages: 
 book_title: ''
 publisher: ''
-abstract: 'Studying the natural wanderings of the living brain is extremely challenging. Bolt et al. describe a new framework for considering the brain&amp;apos;s intrinsic activity based on the geophysical concepts of standing and traveling waves.'
+abstract: 'Studying the natural wanderings of the living brain is extremely challenging. Bolt et al. describe a new framework for considering the brain's intrinsic activity based on the geophysical concepts of standing and traveling waves.'
 project_id: bold_connectivity_dynamics
 paper_url: https://www.nature.com/articles/s41593-022-01119-0
 doi: 10.1038/s41593-022-01119-0
