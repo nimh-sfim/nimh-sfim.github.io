@@ -6,8 +6,16 @@ classes: wide
 
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
-{% assign sorted_presentations =  site.presentations  | sort: 'conf_date' | reverse %}
-{% for presentation in sorted_presentations %}
+{% assign sorted_presentations =  site.presentations  | group_by_exp: "publication", "presentation.conf_date | date: '%Y% | reverse %} 
+
+<h2> 2020-Present &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="{{ '/pubs_2010s/' | relative_url }}" >2010-2019</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="{{ '/pubs_2000s/' | relative_url }}" >2000-2009</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="{{ '/pubs_1990s/' | relative_url }}" >1990-1999</a>  </h2>
+
+{% for year_group in sorted_presentations %}
+{% assign year = year_group.name | plus: 0 %}
+{% if year >= 2020 %}
+<h3> {{ year_group.name }} </h3>
+
+{% for presentation in year_group.items %}
 <div class="content-list">
     <div class="presentation-item">
         <b>Title: </b><br><a href="{{presentation.url}}">{{presentation.title}}</a><br>
@@ -43,3 +51,5 @@ classes: wide
     </div>
 </div>
 {% endfor %}
+{%endif%}
+{%endfor%}
