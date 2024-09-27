@@ -9,7 +9,7 @@ classes: wide
     <div>
         <b>Presented: </b>{{page.date | date: "%B %Y"}} <br>
 
-        {assign project_item = site.projects | where: "project_id", page.project_id | first %} 
+        {%assign project_item = site.projects | where: "project_id", page.project_id | first %} 
         {%if page.project_id%}
         <b>Project: </b><a href="{{project_item.url}}">{{project_item.title}}</a><br>
         {%endif%}
