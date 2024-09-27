@@ -14,7 +14,7 @@ issue:
 pages: 
 book_title: ''
 publisher: ''
-abstract: ""
+abstract: ''
 project_id: education
 paper_url: https://link.springer.com/article/10.1007/s00247-020-04875-y
 doi: https://doi.org/10.1007/s00247-020-04875-y

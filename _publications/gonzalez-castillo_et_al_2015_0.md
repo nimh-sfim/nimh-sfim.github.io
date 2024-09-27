@@ -24,7 +24,7 @@ issue:
 pages: 8762-8767
 book_title: ''
 publisher: ''
-abstract: ""
+abstract: ''
 project_id: bold_connectivity_dynamics
 paper_url: http://www.pnas.org/lookup/doi/10.1073/pnas.1501242112
 doi: 10.1073/pnas.1501242112

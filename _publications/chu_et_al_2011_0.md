@@ -17,7 +17,7 @@ issue:
 pages: 41-44
 book_title: ''
 publisher: 'IEEE'
-abstract: ""
+abstract: ''
 project_id: 
 paper_url: 
 doi: 10.1109/PRNI.2011.11

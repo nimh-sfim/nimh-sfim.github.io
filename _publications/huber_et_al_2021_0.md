@@ -26,7 +26,7 @@ issue:
 pages: 101835
 book_title: ''
 publisher: 'Elsevier BV'
-abstract: ""
+abstract: ''
 project_id: layer_fmri
 paper_url: 
 doi: 10.1016/j.pneurobio.2020.101835

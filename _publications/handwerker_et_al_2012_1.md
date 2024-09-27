@@ -17,7 +17,7 @@ issue:
 pages: 1719
 book_title: ''
 publisher: ''
-abstract: ""
+abstract: ''
 project_id: bold_connectivity_dynamics
 paper_url: 
 doi: 10.1016/j.neuroimage.2012.06.078

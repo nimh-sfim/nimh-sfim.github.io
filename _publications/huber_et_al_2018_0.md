@@ -21,7 +21,7 @@ issue:
 pages: 131-143
 book_title: ''
 publisher: ''
-abstract: ""
+abstract: ''
 project_id: layer_fmri
 paper_url: http://linkinghub.elsevier.com/retrieve/pii/S1053811916306589http://api.elsevier.com/content/article/PII:S1053811916306589?httpAccept=text/xmlhttp://api.elsevier.com/content/article/PII:S1053811916306589?httpAccept=text/plain
 doi: 10.1016/j.neuroimage.2016.11.039

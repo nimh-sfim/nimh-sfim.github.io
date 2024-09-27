@@ -14,7 +14,7 @@ issue:
 pages: 1327-1329
 book_title: ''
 publisher: ''
-abstract: ""
+abstract: ''
 project_id: 
 paper_url: http://www.sciencedirect.com/science/article/pii/S089662731500519X
 doi: 10.1016/j.neuron.2015.06.006

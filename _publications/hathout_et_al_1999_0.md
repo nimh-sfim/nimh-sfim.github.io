@@ -15,7 +15,7 @@ issue:
 pages: 20-Sep
 book_title: ''
 publisher: ''
-abstract: ""
+abstract: ''
 project_id: 
 paper_url: 
 doi: 

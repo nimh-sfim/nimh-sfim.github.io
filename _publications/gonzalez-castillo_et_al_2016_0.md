@@ -27,7 +27,7 @@ issue:
 pages: 452-468
 book_title: ''
 publisher: ''
-abstract: ""
+abstract: ''
 project_id: multi_echo
 paper_url: http://linkinghub.elsevier.com/retrieve/pii/S1053811916303639
 doi: 10.1016/j.neuroimage.2016.07.049

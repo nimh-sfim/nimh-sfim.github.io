@@ -19,7 +19,7 @@ issue:
 pages: 
 book_title: ''
 publisher: ''
-abstract: ""
+abstract: ''
 project_id: 
 paper_url: http://journal.frontiersin.org/Article/10.3389/fphys.2015.00351/abstract
 doi: 10.3389/fphys.2015.00351

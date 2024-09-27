@@ -18,7 +18,7 @@ issue:
 pages: 
 book_title: ''
 publisher: ''
-abstract: ""
+abstract: ''
 project_id: multi_echo
 paper_url: https://www.sciencedirect.com/science/article/pii/S105381191930669X
 doi: https://doi.org/10.1016/j.neuroimage.2019.116081

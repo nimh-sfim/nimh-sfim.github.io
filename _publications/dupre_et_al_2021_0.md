@@ -35,7 +35,7 @@ issue:
 pages: 
 book_title: ''
 publisher: ''
-abstract: ""
+abstract: ''
 project_id: multi_echo
 paper_url: 
 doi: 10.21105/joss.03669

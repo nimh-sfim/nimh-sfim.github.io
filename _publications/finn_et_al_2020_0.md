@@ -22,7 +22,7 @@ issue:
 pages: 116828
 book_title: ''
 publisher: 'Elsevier BV'
-abstract: ""
+abstract: ''
 project_id: 
 paper_url: 
 doi: 10.1016/j.neuroimage.2020.116828

@@ -17,7 +17,7 @@ issue:
 pages: 
 book_title: ''
 publisher: ''
-abstract: "Sources of Information Waste in Neuroimaging: Mishandling Structures, Thinking Dichotomously, and Over-Reducing Data"
+abstract: 'Sources of Information Waste in Neuroimaging: Mishandling Structures, Thinking Dichotomously, and Over-Reducing Data'
 project_id: education
 paper_url: https://apertureneuro.org/article/77476-sources-of-information-waste-in-neuroimaging-mishandling-structures-thinking-dichotomously-and-over-reducing-data
 doi: 10.52294/ApertureNeuro.2022.2.ZRJI8542

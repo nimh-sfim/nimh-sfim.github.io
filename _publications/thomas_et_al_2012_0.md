@@ -16,7 +16,7 @@ issue:
 pages: 
 book_title: ''
 publisher: ''
-abstract: ""
+abstract: ''
 project_id: 
 paper_url: 
 doi: 10.3389/fpsyg.2012.00086

@@ -20,7 +20,7 @@ issue:
 pages: 117-125
 book_title: ''
 publisher: ''
-abstract: ""
+abstract: ''
 project_id: 
 paper_url: 
 doi: 

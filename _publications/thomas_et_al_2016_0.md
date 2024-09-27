@@ -25,7 +25,7 @@ issue:
 pages: 162-170
 book_title: ''
 publisher: ''
-abstract: ""
+abstract: ''
 project_id: 
 paper_url: http://linkinghub.elsevier.com/retrieve/pii/S1053811915010721
 doi: 10.1016/j.neuroimage.2015.10.090

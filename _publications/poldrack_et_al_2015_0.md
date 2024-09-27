@@ -42,7 +42,7 @@ issue:
 pages: 
 book_title: ''
 publisher: ''
-abstract: ""
+abstract: ''
 project_id: 
 paper_url: http://www.nature.com/articles/ncomms9885http://www.nature.com/articles/ncomms9885.pdfhttp://www.nature.com/articles/ncomms9885.pdfhttp://www.nature.com/articles/ncomms9885
 doi: 10.1038/ncomms9885

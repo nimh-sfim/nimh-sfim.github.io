@@ -18,7 +18,7 @@ issue:
 pages: 
 book_title: ''
 publisher: ''
-abstract: ""
+abstract: ''
 project_id: 
 paper_url: http://journal.frontiersin.org/article/10.3389/fnins.2017.00222/fullhttp://journal.frontiersin.org/article/10.3389/fnins.2017.00222/full
 doi: 10.3389/fnins.2017.00222

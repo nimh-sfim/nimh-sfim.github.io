@@ -15,7 +15,7 @@ issue:
 pages: 66005
 book_title: ''
 publisher: ''
-abstract: ""
+abstract: ''
 project_id: 
 paper_url: http://iopscience.iop.org/article/10.1088/1741-2560/13/6/066005/meta
 doi: 10.1088/1741-2560/13/6/066005

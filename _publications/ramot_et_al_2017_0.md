@@ -20,7 +20,7 @@ issue:
 pages: 
 book_title: ''
 publisher: ''
-abstract: ""
+abstract: ''
 project_id: 
 paper_url: http://elifesciences.org/lookup/doi/10.7554/eLife.28974
 doi: 10.7554/eLife.28974

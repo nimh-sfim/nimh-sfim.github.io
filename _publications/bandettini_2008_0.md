@@ -12,7 +12,7 @@ issue:
 pages: 
 book_title: ''
 publisher: ''
-abstract: "<p><a href='http://science.education.nih.gov/LifeWorks.nsf/Interviews/Peter+Bandettini'>http://science.education.nih.gov/LifeWorks.nsf/Interviews/Peter+Bandettini</a></p>"
+abstract: '<p><a href='http://science.education.nih.gov/LifeWorks.nsf/Interviews/Peter+Bandettini'>http://science.education.nih.gov/LifeWorks.nsf/Interviews/Peter+Bandettini</a></p>'
 project_id: 
 paper_url: 
 doi: 

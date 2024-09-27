@@ -23,7 +23,7 @@ issue:
 pages: 
 book_title: ''
 publisher: ''
-abstract: ""
+abstract: ''
 project_id: multi_echo
 paper_url: https://direct.mit.edu/netn/article/4/3/746/95839/Theta-burst-TMS-to-the-posterior-superior-temporal
 doi: https://doi.org/10.1162/netn_a_00145

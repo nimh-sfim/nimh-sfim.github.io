@@ -20,7 +20,7 @@ issue:
 pages: 1687-1695
 book_title: ''
 publisher: 'Springer Science and Business Media LLC'
-abstract: ""
+abstract: ''
 project_id: layer_fmri
 paper_url: 
 doi: 10.1038/s41593-019-0487-z

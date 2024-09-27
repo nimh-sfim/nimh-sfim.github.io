@@ -15,7 +15,7 @@ issue:
 pages: 7947-7957
 book_title: ''
 publisher: ''
-abstract: ""
+abstract: ''
 project_id: 
 paper_url: http://www.jneurosci.org/cgi/doi/10.1523/JNEUROSCI.4171-13.2014
 doi: 10.1523/JNEUROSCI.4171-13.2014

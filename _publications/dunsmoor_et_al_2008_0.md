@@ -16,7 +16,7 @@ issue:
 pages: 811-817
 book_title: ''
 publisher: 'Elsevier'
-abstract: ""
+abstract: ''
 project_id: 
 paper_url: 
 doi: 

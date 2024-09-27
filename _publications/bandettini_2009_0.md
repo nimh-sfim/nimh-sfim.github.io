@@ -12,7 +12,7 @@ issue:
 pages: 260-293
 book_title: ''
 publisher: 'Wiley'
-abstract: ""
+abstract: ''
 project_id: 
 paper_url: 
 doi: 

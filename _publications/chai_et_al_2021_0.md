@@ -23,7 +23,7 @@ issue:
 pages: 
 book_title: ''
 publisher: ''
-abstract: ""
+abstract: ''
 project_id: layer_fmri
 paper_url: https://www.sciencedirect.com/science/article/pii/S0301008221001350
 doi: https://doi.org/10.1016/j.pneurobio.2021.102121

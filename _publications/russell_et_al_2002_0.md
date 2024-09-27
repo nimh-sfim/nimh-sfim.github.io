@@ -15,7 +15,7 @@ issue:
 pages: Jan-50
 book_title: ''
 publisher: 'Dunitz Press'
-abstract: ""
+abstract: ''
 project_id: 
 paper_url: 
 doi: 

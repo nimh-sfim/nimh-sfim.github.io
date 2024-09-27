@@ -16,7 +16,7 @@ issue:
 pages: e48847
 book_title: ''
 publisher: ''
-abstract: ""
+abstract: ''
 project_id: 
 paper_url: 
 doi: 

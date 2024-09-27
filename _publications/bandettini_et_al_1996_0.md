@@ -15,7 +15,7 @@ issue:
 pages: 1051-1056
 book_title: ''
 publisher: 'John Wiley \& Sons Ltd.'
-abstract: ""
+abstract: ''
 project_id: 
 paper_url: 
 doi: 

@@ -19,7 +19,7 @@ issue:
 pages: 10023-10028
 book_title: ''
 publisher: ''
-abstract: ""
+abstract: ''
 project_id: 
 paper_url: 
 doi: 

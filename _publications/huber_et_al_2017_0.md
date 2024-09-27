@@ -29,7 +29,7 @@ issue:
 pages: 1253-1263
 book_title: ''
 publisher: ''
-abstract: ""
+abstract: ''
 project_id: layer_fmri
 paper_url: http://linkinghub.elsevier.com/retrieve/pii/S0896627317310334http://api.elsevier.com/content/article/PII:S0896627317310334?httpAccept=text/xmlhttp://api.elsevier.com/content/article/PII:S0896627317310334?httpAccept=text/plain
 doi: 10.1016/j.neuron.2017.11.005

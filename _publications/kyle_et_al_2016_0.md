@@ -15,7 +15,7 @@ issue:
 pages: 52-58
 book_title: ''
 publisher: ''
-abstract: ""
+abstract: ''
 project_id: 
 paper_url: http://ieeexplore.ieee.org/document/7145486/http://xplorestaging.ieee.org/ielx7/13/7394950/7145486.pdf?arnumber=7145486
 doi: 10.1109/TE.2015.2445313

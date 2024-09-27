@@ -38,7 +38,7 @@ issue:
 pages: 160044
 book_title: ''
 publisher: ''
-abstract: ""
+abstract: ''
 project_id: 
 paper_url: http://www.nature.com/articles/sdata201644
 doi: 10.1038/sdata.2016.44

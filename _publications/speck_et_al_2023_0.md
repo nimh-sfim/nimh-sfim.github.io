@@ -18,7 +18,7 @@ issue:
 pages: 
 book_title: ''
 publisher: 'Georg Thieme Verlag'
-abstract: ""
+abstract: ''
 project_id: 
 paper_url: 
 doi: 10.1055/s-0043-1767469

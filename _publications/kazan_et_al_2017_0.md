@@ -18,7 +18,7 @@ issue:
 pages: 1168-1173
 book_title: ''
 publisher: ''
-abstract: ""
+abstract: ''
 project_id: layer_fmri
 paper_url: http://doi.wiley.com/10.1002/mrm.v78.3
 doi: 10.1002/mrm.v78.3

@@ -21,7 +21,7 @@ issue:
 pages: 335-349
 book_title: ''
 publisher: 'Raven Press'
-abstract: ""
+abstract: ''
 project_id: 
 paper_url: 
 doi: 

@@ -20,7 +20,7 @@ issue:
 pages: 60-68
 book_title: ''
 publisher: ''
-abstract: ""
+abstract: ''
 project_id: 
 paper_url: http://ieeexplore.ieee.org/document/7562326/http://xplorestaging.ieee.org/ielx7/2/7562313/07562326.pdf?arnumber=7562326
 doi: 10.1109/MC.2016.294

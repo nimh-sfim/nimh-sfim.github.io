@@ -25,7 +25,7 @@ issue:
 pages: 390
 book_title: ''
 publisher: 'Lippincott, Williams \& Wilkins'
-abstract: ""
+abstract: ''
 project_id: 
 paper_url: 
 doi: 

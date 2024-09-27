@@ -26,7 +26,7 @@ issue:
 pages: 
 book_title: ''
 publisher: 'American Association for the Advancement of Science (AAAS)'
-abstract: "<p>Using laminar fMRI, we show that prediction and sensory inputs activate specific layers in human primary somatosensory cortex.</p>"
+abstract: '<p>Using laminar fMRI, we show that prediction and sensory inputs activate specific layers in human primary somatosensory cortex.</p>'
 project_id: layer_fmri
 paper_url: 
 doi: 10.1126/sciadv.aav9053

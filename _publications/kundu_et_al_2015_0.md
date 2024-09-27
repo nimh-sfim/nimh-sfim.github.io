@@ -21,7 +21,7 @@ issue: 1
 pages: 56-73
 book_title: ''
 publisher: ''
-abstract: ""
+abstract: ''
 project_id: multi_echo
 paper_url: http://link.springer.com/10.1007/s11682-014-9346-4
 doi: 10.1007/s11682-014-9346-4

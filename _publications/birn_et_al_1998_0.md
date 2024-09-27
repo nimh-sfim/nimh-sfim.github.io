@@ -17,7 +17,7 @@ issue:
 pages: 55-60
 book_title: ''
 publisher: ''
-abstract: ""
+abstract: ''
 project_id: 
 paper_url: 
 doi: 
