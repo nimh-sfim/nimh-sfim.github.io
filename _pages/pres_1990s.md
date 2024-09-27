@@ -9,6 +9,8 @@ classes: wide
 {% assign presentations_by_year = site.presentations | group_by_exp: "presentation", "presentation.date | date: '%Y'" | reverse %}
 
 <h2> <a href="{{ '/presentations/' | relative_url }}" >2020-Present </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="{{ '/pres_2010s/' | relative_url }}" >2010-2019</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="{{ '/pres_2000s/' | relative_url }}" >2000-2009 </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1990-1999  </h2>
+{% for year_group in presentations_by_year %}
+
 {% assign year = year_group.name | plus: 0 %}
 {% if year >= 1990 and year <= 1999 %}
 <h3> {{ year_group.name }} </h3>
