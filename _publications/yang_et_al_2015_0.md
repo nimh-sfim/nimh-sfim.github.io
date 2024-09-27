@@ -23,7 +23,7 @@ issue:
 pages: 
 book_title: ''
 publisher: ''
-abstract: ''
+abstract: ""
 project_id: 
 paper_url: http://www.nature.com/articles/srep05549http://www.nature.com/articles/srep05549.pdfhttp://www.nature.com/articles/srep05549http://www.nature.com/articles/srep05549.pdf
 doi: 10.1038/srep05549

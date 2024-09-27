@@ -20,7 +20,7 @@ issue:
 pages: 93-109
 book_title: ''
 publisher: ''
-abstract: ''
+abstract: ""
 project_id: 
 paper_url: 
 doi: 

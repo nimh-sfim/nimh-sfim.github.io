@@ -17,7 +17,7 @@ issue:
 pages: 189-197
 book_title: ''
 publisher: ''
-abstract: ''
+abstract: ""
 project_id: multi_echo
 paper_url: http://linkinghub.elsevier.com/retrieve/pii/S1053811914008908
 doi: 10.1016/j.neuroimage.2014.10.051

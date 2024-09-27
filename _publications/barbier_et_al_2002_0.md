@@ -20,7 +20,7 @@ issue:
 pages: 735-738
 book_title: ''
 publisher: ''
-abstract: ''
+abstract: ""
 project_id: 
 paper_url: 
 doi: 

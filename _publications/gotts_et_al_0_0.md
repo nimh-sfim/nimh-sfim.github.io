@@ -15,7 +15,7 @@ issue:
 pages: 
 book_title: ''
 publisher: ''
-abstract: ''
+abstract: ""
 project_id: 
 paper_url: http://www.pnas.org/content/early/2013/08/14/1302581110.abstract
 doi: 10.1073/pnas.1302581110

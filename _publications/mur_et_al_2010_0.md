@@ -19,7 +19,7 @@ issue:
 pages: 2027-2042
 book_title: ''
 publisher: ''
-abstract: ''
+abstract: ""
 project_id: 
 paper_url: 
 doi: 

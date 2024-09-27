@@ -14,7 +14,7 @@ issue:
 pages: 145
 book_title: ''
 publisher: ''
-abstract: '<p>Over the past 20 years, functional MRI (fMRI) has proven to be a powerful tool for the investigation of cognitive behavior in the brain. One of the more challenging aspects of the use of this technique is the application to studies involving acoustic stimulation, given that the measurement process generates acoustic noise of high intensity that can mask or otherwise impede perception and comprehension of a desired auditory stimulus. Advances in attenuation, acquisition strategies and experimental design have enhanced the use of fMRI in this context, with recent advances in active noise cancellation and our understanding of the fMRI-assessed hemodynamic response laying a framework for continued improvement.</p>'
+abstract: "<p>Over the past 20 years, functional MRI (fMRI) has proven to be a powerful tool for the investigation of cognitive behavior in the brain. One of the more challenging aspects of the use of this technique is the application to studies involving acoustic stimulation, given that the measurement process generates acoustic noise of high intensity that can mask or otherwise impede perception and comprehension of a desired auditory stimulus. Advances in attenuation, acquisition strategies and experimental design have enhanced the use of fMRI in this context, with recent advances in active noise cancellation and our understanding of the fMRI-assessed hemodynamic response laying a framework for continued improvement.</p>"
 project_id: 
 paper_url: 
 doi: 

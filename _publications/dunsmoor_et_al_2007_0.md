@@ -16,7 +16,7 @@ issue:
 pages: 811-817
 book_title: ''
 publisher: ''
-abstract: ''
+abstract: ""
 project_id: 
 paper_url: 
 doi: 10.1016/j.neuroimage.2007.11.042

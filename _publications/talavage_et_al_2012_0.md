@@ -14,7 +14,7 @@ issue:
 pages: 
 book_title: ''
 publisher: 'Springer Science+Business Media'
-abstract: ''
+abstract: ""
 project_id: 
 paper_url: 
 doi: 

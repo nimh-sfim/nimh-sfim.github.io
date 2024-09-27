@@ -96,7 +96,7 @@ issue:
 pages: 26-Jan
 book_title: ''
 publisher: ''
-abstract: ''
+abstract: ""
 project_id: 
 paper_url: 
 doi: 10.1186/s13742-016-0147-0

@@ -231,7 +231,7 @@ issue: 11
 pages: 1769-1775
 book_title: ''
 publisher: ''
-abstract: 'Brainhack is an innovative meeting format that promotes scientific collaboration and education in an open, inclusive environment. This NeuroView describes the myriad benefits for participants and the research community and how Brainhacks complement conventional formats to augment scientific progress.'
+abstract: "Brainhack is an innovative meeting format that promotes scientific collaboration and education in an open, inclusive environment. This NeuroView describes the myriad benefits for participants and the research community and how Brainhacks complement conventional formats to augment scientific progress."
 project_id: education
 paper_url: https://www.cell.com/neuron/fulltext/S0896-6273(21)00231-2
 doi: 10.1016/j.neuron.2021.04.001

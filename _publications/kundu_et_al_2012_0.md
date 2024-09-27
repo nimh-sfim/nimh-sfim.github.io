@@ -18,7 +18,7 @@ issue:
 pages: 1759-1770
 book_title: ''
 publisher: 'Elsevier BV'
-abstract: ''
+abstract: ""
 project_id: multi_echo
 paper_url: 
 doi: 10.1016/j.neuroimage.2011.12.028

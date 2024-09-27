@@ -21,7 +21,7 @@ issue:
 pages: 103742
 book_title: ''
 publisher: 'Elsevier BV'
-abstract: ''
+abstract: ""
 project_id: bold_connectivity_dynamics
 paper_url: 
 doi: 10.1016/j.compbiomed.2020.103742

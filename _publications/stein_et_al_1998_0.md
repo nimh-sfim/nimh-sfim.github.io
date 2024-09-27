@@ -23,7 +23,7 @@ issue:
 pages: 1009-1015
 book_title: ''
 publisher: ''
-abstract: ''
+abstract: ""
 project_id: 
 paper_url: 
 doi: 

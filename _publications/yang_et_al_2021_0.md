@@ -17,7 +17,7 @@ issue:
 pages: 
 book_title: ''
 publisher: ''
-abstract: ''
+abstract: ""
 project_id: layer_fmri
 paper_url: 
 doi: doi.org/10.1016/j.neubiorev.2021.07.005

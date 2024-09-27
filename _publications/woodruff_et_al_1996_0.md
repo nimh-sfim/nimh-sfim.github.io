@@ -19,7 +19,7 @@ issue:
 pages: 1909-1913
 book_title: ''
 publisher: ''
-abstract: ''
+abstract: ""
 project_id: 
 paper_url: 
 doi: 

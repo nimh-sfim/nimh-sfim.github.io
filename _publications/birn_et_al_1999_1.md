@@ -15,7 +15,7 @@ issue:
 pages: 
 book_title: ''
 publisher: 'VCH-John Wiley and Sons'
-abstract: ''
+abstract: ""
 project_id: 
 paper_url: 
 doi: 

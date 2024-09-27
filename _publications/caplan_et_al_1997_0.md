@@ -14,7 +14,7 @@ issue:
 pages: 585-589
 book_title: ''
 publisher: 'Plenum'
-abstract: ''
+abstract: ""
 project_id: 
 paper_url: 
 doi: 

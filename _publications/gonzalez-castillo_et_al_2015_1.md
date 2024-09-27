@@ -23,7 +23,7 @@ issue:
 pages: 4667-4677
 book_title: ''
 publisher: ''
-abstract: ''
+abstract: ""
 project_id: 
 paper_url: https://academic.oup.com/cercor/article-lookup/doi/10.1093/cercor/bhu148http://academic.oup.com/cercor/article-pdf/25/12/4667/879940/bhu148.pdf
 doi: 10.1093/cercor/bhu148

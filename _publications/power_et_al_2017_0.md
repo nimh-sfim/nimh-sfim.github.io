@@ -17,7 +17,7 @@ issue:
 pages: e0182939
 book_title: ''
 publisher: ''
-abstract: ''
+abstract: ""
 project_id: 
 paper_url: http://dx.plos.org/10.1371/journal.pone.0182939
 doi: 10.1371/journal.pone.0182939

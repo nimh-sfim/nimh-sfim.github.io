@@ -16,7 +16,7 @@ issue:
 pages: 
 book_title: ''
 publisher: 'IEEE'
-abstract: ''
+abstract: ""
 project_id: 
 paper_url: http://ieeexplore.ieee.org/document/5627403/http://xplorestaging.ieee.org/ielx5/5608545/5625939/05627403.pdf?arnumber=5627403
 doi: 10.1109/IEMBS.2010.5627403

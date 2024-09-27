@@ -20,7 +20,7 @@ issue:
 pages: 71-86
 book_title: ''
 publisher: ''
-abstract: ''
+abstract: ""
 project_id: 
 paper_url: 
 doi: 10.1093/brain/awn300

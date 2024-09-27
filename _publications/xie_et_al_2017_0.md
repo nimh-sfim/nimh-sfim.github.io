@@ -19,7 +19,7 @@ issue:
 pages: 
 book_title: ''
 publisher: ''
-abstract: ''
+abstract: ""
 project_id: bold_connectivity_dynamics
 paper_url: http://linkinghub.elsevier.com/retrieve/pii/S1053811917304494
 doi: 10.1016/j.neuroimage.2017.05.050

@@ -20,7 +20,7 @@ issue:
 pages: 526-531
 book_title: ''
 publisher: 'Elsevier BV'
-abstract: 'The recent paper by Marek et al.1 has shown that, to capture brain-wide associations using fMRI and MRI measures, thousands of individuals are required. These results can be potentially misunderstood to imply that MRI or fMRI lack sensitivity or specificity. This commentary discusses the demonstrated sensitivity of fMRI and focuses on methodology that may allow improvements in BWA studies. While individual variation may be an ultimate constraint, refinements in acquisition, population selection, and processing may bring about higher correlations.'
+abstract: "The recent paper by Marek et al.1 has shown that, to capture brain-wide associations using fMRI and MRI measures, thousands of individuals are required. These results can be potentially misunderstood to imply that MRI or fMRI lack sensitivity or specificity. This commentary discusses the demonstrated sensitivity of fMRI and focuses on methodology that may allow improvements in BWA studies. While individual variation may be an ultimate constraint, refinements in acquisition, population selection, and processing may bring about higher correlations."
 project_id: education
 paper_url: 
 doi: 10.1016/j.medj.2022.07.002

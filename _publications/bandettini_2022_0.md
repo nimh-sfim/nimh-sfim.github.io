@@ -12,7 +12,7 @@ issue:
 pages: 
 book_title: ''
 publisher: ''
-abstract: ''
+abstract: ""
 project_id: education
 paper_url: 
 doi: https://doi.org/10.52294/725139d7-0b8a-49dc-a81d-ba2ca64ff6d9
