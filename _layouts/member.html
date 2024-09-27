@@ -39,17 +39,13 @@ show_date: false
 
     <h2>Recent Presentations: </h2>
 
-    {% assign recent_presentations_by_author = site.presentations | where_exp: "item", "item.presenters contains page.presenter_id" | sort: "conf_date" | reverse | slice: 0, 5 %}
+    {% assign recent_presentations_by_author = site.presentations | where_exp: "item", "item.presenters contains page.presenter_id" | sort: "date" | reverse | slice: 0, 5 %}
     
     {% for presentation in recent_presentations_by_author %}
 
     <div class="three-col-table">
         <div class="three-col-table-left">
-          {%if presentation.conf_date%}
-          <b>Presented on: </b><br>{{presentation.conf_date | date: "%B %Y"}} 
-          {%else%}
-          <b>Presented on: </b><br>
-          {%endif%}
+          <b>Presented on: </b><br>{{presentation.date | date: "%B %Y"}} 
           </div>
         <div class="four-col-table-center1"><b>Title: </b><br><a href="{{presentation.url}}">{{presentation.title}}</a></div>
         {% assign conference_item = site.conferences | where: "conference_id", presentation.conference_id | first %}

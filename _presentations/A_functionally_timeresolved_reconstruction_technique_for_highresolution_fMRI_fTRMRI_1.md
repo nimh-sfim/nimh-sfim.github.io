@@ -1,7 +1,7 @@
 ---
 title: "A functionally time-resolved reconstruction technique for high-resolution fMRI (fTR-MRI)"
 project_id: 
-conf_date: 2023-11-01
+date: 2023-11-01
 conference_id: "SFN_2023"
 presenters:
    - tyler_morgan

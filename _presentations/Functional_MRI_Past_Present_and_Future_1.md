@@ -1,7 +1,7 @@
 ---
 title: "Functional MRI: Past, Present, and Future"
 project_id: 
-conf_date: 2002-03-06
+date: 2002-03-06
 conference_id: ""
 presenters:
    - peter_bandettini

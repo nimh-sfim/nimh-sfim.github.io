@@ -1,7 +1,7 @@
 ---
 title: "Integrating Multimodal Neuroimaging Features to Predict Working Memory and Psychiatric Disability"
 project_id: 
-conf_date: 2024-06-01
+date: 2024-06-01
 conference_id: "OHBM_2024"
 presenters:
    - catherine_walsh

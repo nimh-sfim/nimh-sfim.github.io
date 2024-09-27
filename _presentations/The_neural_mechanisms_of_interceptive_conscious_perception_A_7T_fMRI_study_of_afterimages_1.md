@@ -1,7 +1,7 @@
 ---
 title: "The neural mechanisms of interceptive conscious perception: A 7T fMRI study of afterimages"
 project_id: consciousness
-conf_date: 2023-07-01
+date: 2023-07-01
 conference_id: "OHBM_2023"
 presenters:
    - sharif_kronemer

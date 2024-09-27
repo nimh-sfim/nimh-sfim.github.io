@@ -1,7 +1,7 @@
 ---
 title: "Human Brain Project"
 project_id: 
-conf_date: 1995-12-06
+date: 1995-12-06
 conference_id: ""
 presenters:
    - peter_bandettini

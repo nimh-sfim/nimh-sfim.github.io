@@ -1,7 +1,7 @@
 ---
 title: "Varying patterns of brain-wide neuronal activity underlie correlation structure of low-frequency spontaneous hemodynamic signals"
 project_id: 
-conf_date: 2022-11-01
+date: 2022-11-01
 conference_id: "SFN_2022"
 presenters:
    - bahar_shahsavarani

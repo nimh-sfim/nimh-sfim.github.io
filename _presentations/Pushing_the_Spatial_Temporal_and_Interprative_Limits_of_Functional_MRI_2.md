@@ -1,7 +1,7 @@
 ---
 title: "Pushing the Spatial, Temporal and Interprative Limits of Functional MRI"
 project_id: 
-conf_date: 1999-12-06
+date: 1999-12-06
 conference_id: ""
 presenters:
    - peter_bandettini

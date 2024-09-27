@@ -1,7 +1,7 @@
 ---
 title: "Multi-echo fMRI enhances reliability of Brain-wide BOLD responses to a naturalistic movie"
 project_id: multi_echo
-conf_date: 2015-10-01
+date: 2015-10-01
 conference_id: "SFN_2015"
 presenters:
    - ben_gutierrez

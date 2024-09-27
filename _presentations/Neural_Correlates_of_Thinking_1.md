@@ -1,7 +1,7 @@
 ---
 title: "Neural Correlates of Thinking"
 project_id: 
-conf_date: 2006-05-06
+date: 2006-05-06
 conference_id: ""
 presenters:
    - peter_bandettini

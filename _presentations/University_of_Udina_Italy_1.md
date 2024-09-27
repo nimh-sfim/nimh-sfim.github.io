@@ -1,7 +1,7 @@
 ---
 title: "University of Udina, Italy"
 project_id: 
-conf_date: 2003-08-06
+date: 2003-08-06
 conference_id: ""
 presenters:
    - peter_bandettini

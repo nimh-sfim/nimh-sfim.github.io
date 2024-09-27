@@ -1,7 +1,7 @@
 ---
 title: "Cerebrovascular changes during the valsalva maneuver measured with VASO"
 project_id: layer_fmri
-conf_date: 2016-06-01
+date: 2016-06-01
 conference_id: "OHBM_2016"
 presenters:
    - daniel_handwerker

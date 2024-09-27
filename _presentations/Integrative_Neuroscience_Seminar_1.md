@@ -1,7 +1,7 @@
 ---
 title: "Integrative Neuroscience Seminar"
 project_id: 
-conf_date: 1999-09-06
+date: 1999-09-06
 conference_id: ""
 presenters:
    - peter_bandettini

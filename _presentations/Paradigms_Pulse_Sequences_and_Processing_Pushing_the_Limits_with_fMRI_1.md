@@ -1,7 +1,7 @@
 ---
 title: "Paradigms, Pulse Sequences, and Processing: Pushing the Limits with fMRI"
 project_id: 
-conf_date: 2005-11-06
+date: 2005-11-06
 conference_id: ""
 presenters:
    - peter_bandettini

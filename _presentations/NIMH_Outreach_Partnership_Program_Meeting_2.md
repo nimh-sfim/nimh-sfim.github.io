@@ -1,7 +1,7 @@
 ---
 title: "NIMH Outreach Partnership Program Meeting."
 project_id: 
-conf_date: 2004-12-06
+date: 2004-12-06
 conference_id: ""
 presenters:
    - peter_bandettini

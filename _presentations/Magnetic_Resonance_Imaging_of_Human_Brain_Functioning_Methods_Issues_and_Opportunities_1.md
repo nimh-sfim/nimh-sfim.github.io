@@ -1,7 +1,7 @@
 ---
 title: "Magnetic Resonance Imaging of Human Brain Functioning: Methods, Issues, and Opportunities"
 project_id: 
-conf_date: 2003-05-06
+date: 2003-05-06
 conference_id: ""
 presenters:
    - peter_bandettini

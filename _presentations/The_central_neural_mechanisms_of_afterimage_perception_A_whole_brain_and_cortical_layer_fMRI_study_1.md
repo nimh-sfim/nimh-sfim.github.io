@@ -1,7 +1,7 @@
 ---
 title: "The central neural mechanisms of afterimage perception: A whole brain and cortical layer fMRI study"
 project_id: consciousness
-conf_date: 2024-07-01
+date: 2024-07-01
 conference_id: "ASSC_2024"
 presenters:
    - sharif_kronemer

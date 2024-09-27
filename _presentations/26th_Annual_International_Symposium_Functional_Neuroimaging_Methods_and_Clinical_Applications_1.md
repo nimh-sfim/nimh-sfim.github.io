@@ -1,7 +1,7 @@
 ---
 title: "26th Annual International Symposium, Functional Neuroimaging: Methods and Clinical Applications"
 project_id: 
-conf_date: 2004-04-06
+date: 2004-04-06
 conference_id: ""
 presenters:
    - peter_bandettini

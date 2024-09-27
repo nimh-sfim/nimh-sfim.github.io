@@ -1,7 +1,7 @@
 ---
 title: "Phase of pupillary unrest corresponds with perceptual sensitivity, MEG, and whole brain fMRI signals"
 project_id: consciousness
-conf_date: 2024-06-01
+date: 2024-06-01
 conference_id: "OHBM_2024"
 presenters:
    - victoria_gobo

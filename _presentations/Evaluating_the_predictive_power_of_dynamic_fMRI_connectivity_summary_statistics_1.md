@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the predictive power of dynamic fMRI connectivity summary statistics"
 project_id: bold_connectivity_dynamics
-conf_date: 2023-11-01
+date: 2023-11-01
 conference_id: "SFN_2023"
 presenters:
    - megan_spurney

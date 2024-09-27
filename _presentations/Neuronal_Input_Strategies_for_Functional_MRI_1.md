@@ -1,7 +1,7 @@
 ---
 title: "Neuronal Input Strategies for Functional MRI"
 project_id: 
-conf_date: 2001-07-06
+date: 2001-07-06
 conference_id: ""
 presenters:
    - peter_bandettini

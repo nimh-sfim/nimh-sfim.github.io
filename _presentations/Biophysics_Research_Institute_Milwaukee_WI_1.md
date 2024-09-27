@@ -1,7 +1,7 @@
 ---
 title: "Biophysics Research Institute, Milwaukee, WI"
 project_id: 
-conf_date: 1996-08-06
+date: 1996-08-06
 conference_id: ""
 presenters:
    - peter_bandettini

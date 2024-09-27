@@ -1,7 +1,7 @@
 ---
 title: "The Functional MRI Core Facility"
 project_id: 
-conf_date: 2009-05-06
+date: 2009-05-06
 conference_id: ""
 presenters:
    - peter_bandettini

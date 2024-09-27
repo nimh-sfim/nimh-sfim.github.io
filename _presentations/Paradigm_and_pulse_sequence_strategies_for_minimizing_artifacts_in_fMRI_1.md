@@ -1,7 +1,7 @@
 ---
 title: "Paradigm and pulse sequence strategies for minimizing artifacts in fMRI"
 project_id: 
-conf_date: 2000-06-06
+date: 2000-06-06
 conference_id: ""
 presenters:
    - peter_bandettini

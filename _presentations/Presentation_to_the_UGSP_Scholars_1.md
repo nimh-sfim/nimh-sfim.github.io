@@ -1,7 +1,7 @@
 ---
 title: "Presentation to the UGSP Scholars"
 project_id: 
-conf_date: 2006-12-06
+date: 2006-12-06
 conference_id: ""
 presenters:
    - peter_bandettini

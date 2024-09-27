@@ -1,7 +1,7 @@
 ---
 title: "Cluster-based connectivity tool: Capturing laminar and columnar topography during naturalistic tasks"
 project_id: layer_fmri
-conf_date: 2023-07-01
+date: 2023-07-01
 conference_id: "OHBM_2023"
 presenters:
    - richard_klein

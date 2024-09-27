@@ -1,7 +1,7 @@
 ---
 title: "Simultaneous EEG-fMRI Reveal Temporal-Spatial Bias Patterns"
 project_id: multimodal_neuroimaging
-conf_date: 2018-06-01
+date: 2018-06-01
 conference_id: "OHBM_2018"
 presenters:
    - peter_bandettini

@@ -14,11 +14,7 @@ class: wide
 
 <div class="three-col-table">
     <div class="three-col-table-left">
-      {%if presentation.conf_date%}
-      <b>Presented on: </b><br>{{presentation.conf_date | date: "%B %Y"}} 
-      {%else%}
-      <b>Presented on: </b><br>
-      {%endif%}
+      <b>Presented on: </b><br>{{presentation.date | date: "%B %Y"}} 
      </div>
     <div class="three-col-table-center"><b>Title:</b><br><a href="{{presentation.url}}">{{presentation.title}}</a></div>
     <div class="three-col-table-right"><b>File:</b><br><a href="{{presentation.file}}">{{presentation.filename}}</a></div>

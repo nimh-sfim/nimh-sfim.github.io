@@ -1,7 +1,7 @@
 ---
 title: "Network changes in response to thetaburst TMS to the rpSTS"
 project_id: multi_echo
-conf_date: 2017-06-01
+date: 2017-06-01
 conference_id: "OHBM_2017"
 presenters:
    - daniel_handwerker

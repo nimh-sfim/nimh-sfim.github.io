@@ -1,7 +1,7 @@
 ---
 title: "Max Plank fMRI school, Sorrento, Italy"
 project_id: 
-conf_date: 2006-10-06
+date: 2006-10-06
 conference_id: ""
 presenters:
    - peter_bandettini

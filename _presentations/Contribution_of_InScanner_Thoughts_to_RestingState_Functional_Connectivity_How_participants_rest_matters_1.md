@@ -1,7 +1,7 @@
 ---
 title: "Contribution of In-Scanner Thoughts to Resting-State Functional Connectivity: How participants rest matters"
 project_id: bold_connectivity_dynamics
-conf_date: 2023-11-01
+date: 2023-11-01
 conference_id: "SFN_2023"
 presenters:
    - javier_gonzalez-castillo

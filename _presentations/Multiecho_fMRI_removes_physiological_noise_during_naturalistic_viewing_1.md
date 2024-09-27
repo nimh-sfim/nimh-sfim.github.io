@@ -1,7 +1,7 @@
 ---
 title: "Multi-echo fMRI removes physiological noise during naturalistic viewing"
 project_id: multi_echo
-conf_date: 2023-07-01
+date: 2023-07-01
 conference_id: "OHBM_2023"
 presenters:
    - micah_holness

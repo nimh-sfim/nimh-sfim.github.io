@@ -7,9 +7,7 @@ classes: wide
 
 <div>
     <div>
-        {%if page.conf_date%}
-        <b>Presented: </b>{{page.conf_date | date: "%B %Y"}} <br>
-        {%endif%}
+        <b>Presented: </b>{{page.date | date: "%B %Y"}} <br>
 
         {assign project_item = site.projects | where: "project_id", page.project_id | first %} 
         {%if page.project_id}

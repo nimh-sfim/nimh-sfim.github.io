@@ -1,7 +1,7 @@
 ---
 title: "Norwegian Medical Physics Society Meeting"
 project_id: 
-conf_date: 1996-09-06
+date: 1996-09-06
 conference_id: ""
 presenters:
    - peter_bandettini

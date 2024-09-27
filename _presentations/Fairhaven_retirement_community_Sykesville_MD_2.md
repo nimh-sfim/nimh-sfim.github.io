@@ -1,7 +1,7 @@
 ---
 title: "Fairhaven retirement community, Sykesville, MD"
 project_id: 
-conf_date: 2008-02-06
+date: 2008-02-06
 conference_id: ""
 presenters:
    - peter_bandettini

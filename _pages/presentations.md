@@ -6,17 +6,7 @@ classes: wide
 
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
-{% assign sorted_presentations =  site.presentations  | group_by_exp: "presentation", "presentation.conf_date | date: '%Y'" | reverse %}
-
-{% assign presentations_by_year = site.presentations | map: "conf_date" | sort: "conf_date | date: '%Y-%m-%d'" | reverse %}
-
-{% for presentation in site.presentations %}
-  {% if presentation.conf_date %}
-    {% assign pres_date = presentation.conf_date | date: "%Y" %}
-    {% assign presentation["year"] = pres_date %}
-  {% endif %}
-{% endfor %}
-
+{% assign sorted_presentations =  site.presentations  | group_by_exp: "presentation", "presentation.date | date: '%Y'" | reverse %}
 
 <h2> 2020-Present &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="{{ '/pres_2010s/' | relative_url }}" >2010-2019</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="{{ '/pres_2000s/' | relative_url }}" >2000-2009</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="{{ '/pres_1990s/' | relative_url }}" >1990-1999</a>  </h2>
 
@@ -33,11 +23,7 @@ classes: wide
         <b>Title: </b><br><a href="{{presentation.url}}">{{presentation.title}}</a><br>
     </div>
     <div class="presentation-item">
-        {%if presentation.conf_date%}
-        <b>Presented on: </b><br>{{presentation.conf_date | date: "%B %Y"}} <br>
-        {%else%}
-        <b>Presented on: </b>
-        {%endif%}
+        <b>Presented on: </b><br>{{presentation.date | date: "%B %Y"}} <br>
     </div>
     <div class="presentation-item">
         {% assign conference_item = site.conferences | where: "conference_id", presentation.conference_id | first %}

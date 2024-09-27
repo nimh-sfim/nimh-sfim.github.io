@@ -1,7 +1,7 @@
 ---
 title: "Limits of BOLD and Beyond: Hemodynamics to Neuronal Currents"
 project_id: 
-conf_date: 2002-12-06
+date: 2002-12-06
 conference_id: ""
 presenters:
    - peter_bandettini

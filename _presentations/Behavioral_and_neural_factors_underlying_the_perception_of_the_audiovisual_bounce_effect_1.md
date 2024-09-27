@@ -1,7 +1,7 @@
 ---
 title: "Behavioral and neural factors underlying the perception of the audiovisual bounce effect"
 project_id: 
-conf_date: 2023-11-01
+date: 2023-11-01
 conference_id: "SFN_2023"
 presenters:
    - isabel_gephart

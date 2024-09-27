@@ -1,7 +1,7 @@
 ---
 title: "GE Medical Systems"
 project_id: 
-conf_date: 1992-06-06
+date: 1992-06-06
 conference_id: ""
 presenters:
    - peter_bandettini

@@ -1,7 +1,7 @@
 ---
 title: "Quantitative deconvolution of neuronal-related BOLD events with Multi-Echo Sparse Free Paradigm Mapping"
 project_id: multi_echo
-conf_date: 2018-06-01
+date: 2018-06-01
 conference_id: "ISMRM_2018"
 presenters:
    - javier_gonzalez-castillo

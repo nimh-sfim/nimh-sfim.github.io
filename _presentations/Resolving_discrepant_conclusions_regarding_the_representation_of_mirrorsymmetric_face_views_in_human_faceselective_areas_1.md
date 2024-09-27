@@ -1,7 +1,7 @@
 ---
 title: "Resolving discrepant conclusions regarding the representation of mirror-symmetric face views in human face-selective areas"
 project_id: 
-conf_date: 2023-11-01
+date: 2023-11-01
 conference_id: "SFN_2023"
 presenters:
    - fernando_ramirez

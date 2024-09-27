@@ -1,7 +1,7 @@
 ---
 title: "National Research Council, Washington DC"
 project_id: 
-conf_date: 2007-07-06
+date: 2007-07-06
 conference_id: ""
 presenters:
    - peter_bandettini

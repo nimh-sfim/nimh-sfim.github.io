@@ -1,7 +1,7 @@
 ---
 title: "BOLD Connectivity Dynamics & Relationship to On-Going Cognition"
 project_id: 
-conf_date: 2014-09-06
+date: 2014-09-06
 conference_id: ""
 presenters:
    - javier_gonzalez-castillo

@@ -1,7 +1,7 @@
 ---
 title: "tedana: A growing multi-echo fMRI ecosystem"
 project_id: multi_echo
-conf_date: 2023-07-01
+date: 2023-07-01
 conference_id: "OHBM_2023"
 presenters:
    - daniel_handwerker

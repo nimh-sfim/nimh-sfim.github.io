@@ -1,7 +1,7 @@
 ---
 title: "fMRI Training Course"
 project_id: 
-conf_date: 2001-12-06
+date: 2001-12-06
 conference_id: ""
 presenters:
    - peter_bandettini

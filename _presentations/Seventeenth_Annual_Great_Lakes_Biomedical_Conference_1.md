@@ -1,7 +1,7 @@
 ---
 title: "Seventeenth Annual Great Lakes Biomedical Conference"
 project_id: 
-conf_date: 1993-03-06
+date: 1993-03-06
 conference_id: ""
 presenters:
    - peter_bandettini

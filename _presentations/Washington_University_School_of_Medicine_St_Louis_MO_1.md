@@ -1,7 +1,7 @@
 ---
 title: "Washington University School of Medicine, St. Louis, MO"
 project_id: 
-conf_date: 1995-04-06
+date: 1995-04-06
 conference_id: ""
 presenters:
    - peter_bandettini

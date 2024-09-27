@@ -1,7 +1,7 @@
 ---
 title: "Tour talk to NIMH Outstanding Residents"
 project_id: 
-conf_date: 2005-09-06
+date: 2005-09-06
 conference_id: ""
 presenters:
    - peter_bandettini

@@ -1,7 +1,7 @@
 ---
 title: "Perceptually-matched images and afterimages share whole brain fMRI dynamics"
 project_id: consciousness
-conf_date: 2023-11-01
+date: 2023-11-01
 conference_id: "SFN_2023"
 presenters:
    - sharif_kronemer

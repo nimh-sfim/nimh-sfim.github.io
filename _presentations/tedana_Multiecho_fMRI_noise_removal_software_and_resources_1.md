@@ -1,7 +1,7 @@
 ---
 title: "tedana: Multi-echo fMRI noise removal software and resources"
 project_id: multi_echo
-conf_date: 2024-06-01
+date: 2024-06-01
 conference_id: "OHBM_2024"
 presenters:
    - daniel_handwerker

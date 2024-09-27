@@ -1,7 +1,7 @@
 ---
 title: "Rutgers University, NJ"
 project_id: 
-conf_date: 2003-12-06
+date: 2003-12-06
 conference_id: ""
 presenters:
    - peter_bandettini

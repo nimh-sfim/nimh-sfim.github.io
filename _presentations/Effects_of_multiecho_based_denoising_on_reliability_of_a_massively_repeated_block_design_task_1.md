@@ -1,7 +1,7 @@
 ---
 title: "Effects of multi-echo based denoising on reliability of a massively repeated block design task"
 project_id: multi_echo
-conf_date: 2015-07-01
+date: 2015-07-01
 conference_id: "OHBM_2015"
 presenters:
    - ben_gutierrez

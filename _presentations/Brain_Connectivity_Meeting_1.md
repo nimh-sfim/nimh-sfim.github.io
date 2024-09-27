@@ -1,7 +1,7 @@
 ---
 title: "Brain Connectivity Meeting"
 project_id: 
-conf_date: 2005-03-06
+date: 2005-03-06
 conference_id: ""
 presenters:
    - peter_bandettini

@@ -1,7 +1,7 @@
 ---
 title: "Putting the Fun into Functional MRI"
 project_id: 
-conf_date: 2006-02-06
+date: 2006-02-06
 conference_id: ""
 presenters:
    - peter_bandettini

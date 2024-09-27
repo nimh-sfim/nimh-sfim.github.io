@@ -1,7 +1,7 @@
 ---
 title: "fMRI Overview for Mark Hallett's group."
 project_id: 
-conf_date: 2006-07-06
+date: 2006-07-06
 conference_id: ""
 presenters:
    - peter_bandettini

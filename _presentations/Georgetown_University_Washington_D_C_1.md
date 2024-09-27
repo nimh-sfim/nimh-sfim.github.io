@@ -1,7 +1,7 @@
 ---
 title: "Georgetown University, Washington D. C."
 project_id: 
-conf_date: 1997-08-06
+date: 1997-08-06
 conference_id: ""
 presenters:
    - peter_bandettini

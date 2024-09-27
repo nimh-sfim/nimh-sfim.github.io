@@ -1,7 +1,7 @@
 ---
 title: "Moving away from ICA in multi-echo fMRI denoising"
 project_id: multi_echo
-conf_date: 2018-06-01
+date: 2018-06-01
 conference_id: "OHBM_2018"
 presenters:
    - daniel_handwerker

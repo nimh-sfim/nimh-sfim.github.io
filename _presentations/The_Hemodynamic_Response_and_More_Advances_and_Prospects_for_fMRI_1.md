@@ -1,7 +1,7 @@
 ---
 title: "The Hemodynamic Response and More: Advances and Prospects for fMRI"
 project_id: 
-conf_date: 2002-02-06
+date: 2002-02-06
 conference_id: ""
 presenters:
    - peter_bandettini

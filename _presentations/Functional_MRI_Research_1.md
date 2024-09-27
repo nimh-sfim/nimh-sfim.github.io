@@ -1,7 +1,7 @@
 ---
 title: "Functional MRI Research"
 project_id: 
-conf_date: 2007-09-06
+date: 2007-09-06
 conference_id: ""
 presenters:
    - david_knight

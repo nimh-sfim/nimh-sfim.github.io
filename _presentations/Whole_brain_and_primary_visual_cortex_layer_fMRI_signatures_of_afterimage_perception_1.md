@@ -1,7 +1,7 @@
 ---
 title: "Whole brain and primary visual cortex layer fMRI signatures of afterimage perception"
 project_id: consciousness
-conf_date: 2024-06-01
+date: 2024-06-01
 conference_id: "OHBM_2024"
 presenters:
    - sharif_kronemer

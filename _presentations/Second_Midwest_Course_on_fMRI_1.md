@@ -1,7 +1,7 @@
 ---
 title: "Second Midwest Course on fMRI"
 project_id: 
-conf_date: 1994-10-06
+date: 1994-10-06
 conference_id: ""
 presenters:
    - peter_bandettini

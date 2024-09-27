@@ -1,7 +1,7 @@
 ---
 title: "Purdue University, West Lafayette, Indiana"
 project_id: 
-conf_date: 2000-01-06
+date: 2000-01-06
 conference_id: ""
 presenters:
    - peter_bandettini

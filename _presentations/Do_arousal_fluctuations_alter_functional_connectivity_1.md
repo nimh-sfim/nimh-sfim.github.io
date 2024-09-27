@@ -1,7 +1,7 @@
 ---
 title: "Do arousal fluctuations alter functional connectivity?"
 project_id: bold_connectivity_dynamics
-conf_date: 2021-11-01
+date: 2021-11-01
 conference_id: "SFN_2021"
 presenters:
    - bahar_shahsavarani

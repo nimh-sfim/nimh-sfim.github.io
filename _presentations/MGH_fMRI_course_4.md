@@ -1,7 +1,7 @@
 ---
 title: "MGH fMRI course"
 project_id: 
-conf_date: 1996-01-06
+date: 1996-01-06
 conference_id: ""
 presenters:
    - peter_bandettini
