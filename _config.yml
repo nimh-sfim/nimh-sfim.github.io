@@ -16,9 +16,7 @@
 title: Section on Functional Imaging Methods
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is the webpage for the Section on Functional Imaging Methods at the National Institute of Mental Health.
 github_username: https://github.com/nimh-sfim
 minimal_mistakes_skin: default
 search: true
@@ -30,7 +28,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York
 
 include:
   - _pages
@@ -64,22 +62,10 @@ analytics:
     anonymize_ip         :  true
 
 author:
-  name   : "First Lastname"
+  name   : "Section on Functional Imaging Methods"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+  bio    : "This is the webpage for the Section on Functional Imaging Methods at the National Institute of Mental Health."
+
 
 footer:
   links:
