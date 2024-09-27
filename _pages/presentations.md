@@ -8,9 +8,20 @@ classes: wide
 
 {% assign sorted_presentations =  site.presentations  | group_by_exp: "presentation", "presentation.conf_date | date: '%Y'" | reverse %}
 
+{% assign presentations_by_year = site.presentations | map: "conf_date" | sort: "conf_date | date: '%Y-%m-%d'" | reverse %}
+
+{% for presentation in site.presentations %}
+  {% if presentation.conf_date %}
+    {% assign pres_date = presentation.conf_date | date: "%Y" %}
+    {% assign presentation["year"] = pres_date %}
+  {% endif %}
+{% endfor %}
+
+
 <h2> 2020-Present &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="{{ '/pres_2010s/' | relative_url }}" >2010-2019</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="{{ '/pres_2000s/' | relative_url }}" >2000-2009</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="{{ '/pres_1990s/' | relative_url }}" >1990-1999</a>  </h2>
 
-{% for year_group in sorted_presentations %}
+{% assign presentations_by_year = site.presentations | group_by: "year" %}
+{% for year_group in presentations_by_year %}
 
 {% assign year = year_group.name | plus: 0 %}
 {% if year >= 2020 %}
