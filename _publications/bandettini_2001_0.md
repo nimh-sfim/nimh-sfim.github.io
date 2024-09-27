@@ -12,7 +12,7 @@ issue:
 pages: 123-143
 book_title: ''
 publisher: 'Oxford University Press'
-abstract: ''
+abstract: ""
 project_id: 
 paper_url: 
 doi: 

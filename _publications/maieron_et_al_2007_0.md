@@ -19,7 +19,7 @@ issue:
 pages: 4182-4190
 book_title: ''
 publisher: ''
-abstract: ''
+abstract: ""
 project_id: 
 paper_url: 
 doi: 

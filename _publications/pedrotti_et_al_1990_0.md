@@ -13,7 +13,7 @@ issue:
 pages: 542-545
 book_title: ''
 publisher: ''
-abstract: ''
+abstract: ""
 project_id: 
 paper_url: 
 doi: 

@@ -16,7 +16,7 @@ issue:
 pages: 465-481
 book_title: ''
 publisher: ''
-abstract: ''
+abstract: ""
 project_id: 
 paper_url: http://online.liebertpub.com/doi/10.1089/brain.2017.0543http://online.liebertpub.com/doi/full-xml/10.1089/brain.2017.0543
 doi: 10.1089/brain.2017.0543

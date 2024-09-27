@@ -27,7 +27,7 @@ issue:
 pages: 116463
 book_title: ''
 publisher: 'Elsevier BV'
-abstract: ''
+abstract: ""
 project_id: layer_fmri
 paper_url: 
 doi: 10.1016/j.neuroimage.2019.116463

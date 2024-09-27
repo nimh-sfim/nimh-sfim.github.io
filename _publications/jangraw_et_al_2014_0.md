@@ -15,7 +15,7 @@ issue:
 pages: 245-251
 book_title: ''
 publisher: ''
-abstract: ''
+abstract: ""
 project_id: 
 paper_url: http://linkinghub.elsevier.com/retrieve/pii/S016502701400257Xhttp://api.elsevier.com/content/article/PII:S016502701400257X?httpAccept=text/xmlhttp://api.elsevier.com/content/article/PII:S016502701400257X?httpAccept=text/plain
 doi: 10.1016/j.jneumeth.2014.06.033

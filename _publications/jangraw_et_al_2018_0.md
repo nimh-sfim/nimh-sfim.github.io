@@ -22,7 +22,7 @@ issue:
 pages: 99-109
 book_title: ''
 publisher: ''
-abstract: ''
+abstract: ""
 project_id: 
 paper_url: http://linkinghub.elsevier.com/retrieve/pii/S105381191730839Xhttp://api.elsevier.com/content/article/PII:S105381191730839X?httpAccept=text/xmlhttp://api.elsevier.com/content/article/PII:S105381191730839X?httpAccept=text/plain
 doi: 10.1016/j.neuroimage.2017.10.019

@@ -15,7 +15,7 @@ issue:
 pages: 
 book_title: ''
 publisher: ''
-abstract: ''
+abstract: ""
 project_id: 
 paper_url: 
 doi: 10.1016/j.jad.2013.04.026

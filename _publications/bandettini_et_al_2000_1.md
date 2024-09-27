@@ -15,7 +15,7 @@ issue:
 pages: 978-1014
 book_title: ''
 publisher: 'Cambridge University Press'
-abstract: ''
+abstract: ""
 project_id: 
 paper_url: 
 doi: 

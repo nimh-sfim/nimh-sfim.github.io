@@ -12,7 +12,7 @@ issue:
 pages: 
 book_title: ''
 publisher: 'Guilford Press'
-abstract: ''
+abstract: ""
 project_id: 
 paper_url: 
 doi: 

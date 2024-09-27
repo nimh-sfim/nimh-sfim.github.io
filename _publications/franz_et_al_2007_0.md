@@ -18,7 +18,7 @@ issue:
 pages: 91104
 book_title: ''
 publisher: ''
-abstract: ''
+abstract: ""
 project_id: 
 paper_url: http://aip.scitation.org/doi/10.1063/1.2709970http://aip.scitation.org/doi/pdf/10.1063/1.2709970
 doi: 10.1063/1.2709970

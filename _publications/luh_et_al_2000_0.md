@@ -16,7 +16,7 @@ issue:
 pages: 137-143
 book_title: ''
 publisher: ''
-abstract: ''
+abstract: ""
 project_id: 
 paper_url: 
 doi: 

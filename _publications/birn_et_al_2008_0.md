@@ -16,7 +16,7 @@ issue:
 pages: 740-750
 book_title: ''
 publisher: ''
-abstract: ''
+abstract: ""
 project_id: 
 paper_url: 
 doi: 10.1002/hbm.20577

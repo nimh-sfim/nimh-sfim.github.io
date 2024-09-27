@@ -12,7 +12,7 @@ issue:
 pages: 28-Jan
 book_title: ''
 publisher: 'Springer New York'
-abstract: ''
+abstract: ""
 project_id: 
 paper_url: http://link.springer.com/10.1007/978-1-4614-6434-1
 doi: 10.1007/978-1-4614-6434-1

@@ -23,7 +23,7 @@ issue: 5
 pages: 2341-2352
 book_title: ''
 publisher: ''
-abstract: ''
+abstract: ""
 project_id: 
 paper_url: https://academic.oup.com/cercor/article-lookup/doi/10.1093/cercor/bhw027
 doi: 10.1093/cercor/bhw027

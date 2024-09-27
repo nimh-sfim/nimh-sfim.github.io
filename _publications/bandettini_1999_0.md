@@ -12,7 +12,7 @@ issue:
 pages: 205-220
 book_title: ''
 publisher: 'Springer - Verlag'
-abstract: ''
+abstract: ""
 project_id: 
 paper_url: 
 doi: 

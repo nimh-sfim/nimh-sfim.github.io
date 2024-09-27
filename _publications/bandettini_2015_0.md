@@ -12,7 +12,7 @@ issue:
 pages: 18-Nov
 book_title: ''
 publisher: 'Springer US'
-abstract: ''
+abstract: ""
 project_id: 
 paper_url: http://link.springer.com/10.1007/978-1-4899-7591-1
 doi: 10.1007/978-1-4899-7591-1

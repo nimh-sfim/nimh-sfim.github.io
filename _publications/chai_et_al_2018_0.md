@@ -16,7 +16,7 @@ issue: 5
 pages: 
 book_title: ''
 publisher: ''
-abstract: ''
+abstract: ""
 project_id: 
 paper_url: http://doi.wiley.com/10.1002/hbm.23990http://onlinelibrary.wiley.com/wol1/doi/10.1002/hbm.23990/fullpdfhttps://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002\%2Fhbm.23990
 doi: 10.1002/hbm.23990

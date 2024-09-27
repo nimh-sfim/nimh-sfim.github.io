@@ -12,7 +12,7 @@ issue:
 pages: 344-357
 book_title: ''
 publisher: 'Lippencott Williams \& Wilkins'
-abstract: ''
+abstract: ""
 project_id: 
 paper_url: 
 doi: 

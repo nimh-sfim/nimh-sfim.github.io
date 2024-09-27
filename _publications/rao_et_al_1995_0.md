@@ -21,7 +21,7 @@ issue:
 pages: 919-924
 book_title: ''
 publisher: ''
-abstract: ''
+abstract: ""
 project_id: 
 paper_url: 
 doi: 

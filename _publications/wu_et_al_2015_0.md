@@ -17,7 +17,7 @@ issue: 6
 pages: 1024-1032
 book_title: ''
 publisher: ''
-abstract: ''
+abstract: ""
 project_id: 
 paper_url: http://journals.sagepub.com/doi/10.1038/jcbfm.2015.20http://journals.sagepub.com/doi/pdf/10.1038/jcbfm.2015.20http://journals.sagepub.com/doi/full-xml/10.1038/jcbfm.2015.20http://journals.sagepub.com/doi/pdf/10.1038/jcbfm.2015.20
 doi: 10.1038/jcbfm.2015.20
