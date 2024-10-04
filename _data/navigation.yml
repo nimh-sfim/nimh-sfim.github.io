@@ -1,8 +1,8 @@
 main:
   - title: "Projects"
     url: /featured_projects/
-  - title: "Lab Members"
-    url: /members/
+  - title: "People"
+    url: /people/
   - title: "Photos" 
     url: /photos 
   - title: "Publications"

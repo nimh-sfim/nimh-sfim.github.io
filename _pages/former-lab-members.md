@@ -1,11 +1,11 @@
 ---
-title: "Former Lab Members"
-permalink: /former-lab-members/
+title: "Former Members"
+permalink: /former-members/
 classes: wide
 ---
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
-<h2> <a href="{{ '/members/' | relative_url }}" >Current</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Former </h2>
+<h2> <a href="{{ '/people/' | relative_url }}" >Current</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Former </h2>
 
 {% assign sorted_members = site.members | sort: 'end_date' | reverse %}
 

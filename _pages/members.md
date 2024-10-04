@@ -1,11 +1,11 @@
 ---
-title: "Lab Members"
-permalink: /members/
+title: "People"
+permalink: /people/
 classes: wide
 ---
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
-<h2> Current &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="{{ '/former-lab-members/' | relative_url }}" >Former</a> </h2>
+<h2> Current &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="{{ '/former-members/' | relative_url }}" >Former</a> </h2>
 
 {% assign sorted_members = site.members | sort: 'weight' %}
 {% for member in sorted_members %}
