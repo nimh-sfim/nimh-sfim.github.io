@@ -36,24 +36,6 @@ show_date: false
 </div>
 
 <div>
-
-    <h2>Recent Presentations: </h2>
-
-    {% assign recent_presentations_by_author = site.presentations | where_exp: "item", "item.presenters contains page.presenter_id" | sort: "date" | reverse | slice: 0, 5 %}
-    
-    {% for presentation in recent_presentations_by_author %}
-
-    <div class="three-col-table">
-        <div class="three-col-table-left">
-          <b>Presented on: </b><br>{{presentation.date | date: "%B %Y"}} 
-          </div>
-        <div class="four-col-table-center1"><b>Title: </b><br><a href="{{presentation.url}}">{{presentation.title}}</a></div>
-        {% assign conference_item = site.conferences | where: "conference_id", presentation.conference_id | first %}
-        <div class="four-col-table-center2"><b>Conference:<br></b><a href="{{conference_item.url}}">{{conference_item.title}}</a> </div>
-        <div class="four-col-table-right"><b>File: </b><br><a href="{{presentation.file}}">{{presentation.filename}}</a></div>
-    </div>
-
-    {% endfor %}
   
     <h2>Recent Publications: </h2>
 
@@ -79,6 +61,24 @@ show_date: false
           <a href="{{publication.code_loc}}">Code</a>
           {%endif%}
       </div>
+    </div>
+
+    {% endfor %}
+
+    <h2>Recent Presentations: </h2>
+
+    {% assign recent_presentations_by_author = site.presentations | where_exp: "item", "item.presenters contains page.presenter_id" | sort: "date" | reverse | slice: 0, 5 %}
+    
+    {% for presentation in recent_presentations_by_author %}
+
+    <div class="three-col-table">
+        <div class="three-col-table-left">
+          <b>Presented on: </b><br>{{presentation.date | date: "%B %Y"}} 
+          </div>
+        <div class="four-col-table-center1"><b>Title: </b><br><a href="{{presentation.url}}">{{presentation.title}}</a></div>
+        {% assign conference_item = site.conferences | where: "conference_id", presentation.conference_id | first %}
+        <div class="four-col-table-center2"><b>Conference:<br></b><a href="{{conference_item.url}}">{{conference_item.title}}</a> </div>
+        <div class="four-col-table-right"><b>File: </b><br><a href="{{presentation.file}}">{{presentation.filename}}</a></div>
     </div>
 
     {% endfor %}
