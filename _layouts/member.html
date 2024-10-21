@@ -77,7 +77,7 @@ show_date: false
           </div>
         <div class="four-col-table-center1"><b>Title: </b><br><a href="{{presentation.url}}">{{presentation.title}}</a></div>
         {% assign conference_item = site.conferences | where: "conference_id", presentation.conference_id | first %}
-        <div class="four-col-table-center2"><b>Conference:<br></b><a href="{{conference_item.url}}">{{conference_item.title}}</a> </div>
+        <div class="four-col-table-center2"><b>Conference/Event:<br></b><a href="{{conference_item.url}}">{{conference_item.title}}</a> </div>
         <div class="four-col-table-right"><b>File: </b><br><a href="{{presentation.file}}">{{presentation.filename}}</a></div>
     </div>
 
