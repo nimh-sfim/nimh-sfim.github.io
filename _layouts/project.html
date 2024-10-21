@@ -7,24 +7,6 @@ class: wide
 <div class="full-page-content"> 
 {{page.summary}}
 
-<h2>Presentations: </h2>
-
-{% assign sorted_presentations =  site.presentations | sort: 'date' | reverse %}
-{% for presentation in sorted_presentations %}
-{%if presentation.project_id == page.project_id %}
-
-<div class="three-col-table">
-  <div class="three-col-table-left">
-    <b>Presented on: </b><br>{{presentation.date | date: "%B %Y"}} </div>
-  <div class="four-col-table-center1"><b>Title: </b><br><a href="{{presentation.url}}">{{presentation.title}}</a></div>
-  {% assign conference_item = site.conferences | where: "conference_id", presentation.conference_id | first %}
-  <div class="four-col-table-center2"><b>Conference:<br></b><a href="{{conference_item.url}}">{{conference_item.title}}</a> </div>
-  <div class="four-col-table-right"><b>File: </b><br><a href="{{presentation.file}}">{{presentation.filename}}</a></div>
-</div>
-
-{% endif %}
-{% endfor %}
-
 <h2>Publications: </h2>
 
 {% assign sorted_publications =  site.publications | sort: 'date' | reverse %}
@@ -49,6 +31,24 @@ class: wide
     <a href="{{publication.code_loc}}">Code</a>
     {%endif%}
 </div>
+</div>
+
+{% endif %}
+{% endfor %}
+
+<h2>Presentations: </h2>
+
+{% assign sorted_presentations =  site.presentations | sort: 'date' | reverse %}
+{% for presentation in sorted_presentations %}
+{%if presentation.project_id == page.project_id %}
+
+<div class="three-col-table">
+  <div class="three-col-table-left">
+    <b>Presented on: </b><br>{{presentation.date | date: "%B %Y"}} </div>
+  <div class="four-col-table-center1"><b>Title: </b><br><a href="{{presentation.url}}">{{presentation.title}}</a></div>
+  {% assign conference_item = site.conferences | where: "conference_id", presentation.conference_id | first %}
+  <div class="four-col-table-center2"><b>Conference:<br></b><a href="{{conference_item.url}}">{{conference_item.title}}</a> </div>
+  <div class="four-col-table-right"><b>File: </b><br><a href="{{presentation.file}}">{{presentation.filename}}</a></div>
 </div>
 
 {% endif %}
