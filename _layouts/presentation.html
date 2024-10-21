@@ -15,7 +15,7 @@ classes: wide
         {%endif%}
         {% assign conference_item = site.conferences | where: "conference_id", page.conference_id | first %}
         {%if page.conference_id != "" %}
-        <b>Conference: </b><a href="{{conference_item.url}}">{{conference_item.title}}</a> <br>
+        <b>Conference/Event: </b><a href="{{conference_item.url}}">{{conference_item.title}}</a> <br>
         {%endif%}
         {%if page.summary%}
         <b>Summary: </b> {{page.summary}} <br>

@@ -25,7 +25,7 @@ classes: wide
     </div>
     <div class="presentation-item">
         {% assign conference_item = site.conferences | where: "conference_id", presentation.conference_id | first %}
-        <b>Conference: </b><br><a href="{{conference_item.url}}">{{conference_item.title}}</a> <br>
+        <b>Conference/Event: </b><br><a href="{{conference_item.url}}">{{conference_item.title}}</a> <br>
     </div>
     <div class="presentation-item">
         <b>Project: </b><br>
