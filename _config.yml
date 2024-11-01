@@ -131,12 +131,12 @@ collections:
     output: true
   conferences:
     output: true
-  members_full_publications:
+  member_full_publications:
     output: true
-    permalink: /members_full_publications/:presenter_id/
-  members_full_presentations:
+    permalink: /member_full_publications/:presenter_id/
+  member_full_presentations:
     output: true
-    permalink: /members_full_presentations/:presenter_id/
+    permalink: /member_full_presentations/:presenter_id/
 
 
 category_archive:
