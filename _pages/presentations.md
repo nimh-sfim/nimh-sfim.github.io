@@ -31,8 +31,12 @@ classes: wide
     <div class="presentation-item">
         <b>Project: </b><br>
         {% if presentation.project_id%}
-        {% assign project = site.projects | where: "project_id", presentation.project_id | first %}
-        <a href="{{project.url}}">{{project.title}}</a><br>
+        {%for project in presentation.project_id%}
+            {% assign project = site.projects | where: "project_id", project | first %}
+            <li>
+            <a href="{{project.url}}">{{project.title}}</a>
+            </li>
+        {%endfor%}
         {%endif%}
     </div>
     <div class="presentation-item">
