@@ -9,3 +9,4 @@ _data/*.html
 _data/former_members.csv
 pull_sql_data.ipynb
 _data/pubs.csv
+scratch.ipynb

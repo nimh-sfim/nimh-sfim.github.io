@@ -1,0 +1,62 @@
+---
+layout: single
+class: wide
+show_date: false
+---
+  <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+
+<div class="member-profile"> 
+  <div class="member-photo-cell">
+    <img src="{{page.photo}}" alt="{{page.title}}" class="member-photo"> 
+    <h3>{{page.position}}</h3>
+    <p><b>Start Date: </b>{{page.start_date}}
+    {%if page.end_date%}
+    <b><br>End Date: </b> {{page.end_date}}
+    {%endif%}
+  </p>
+    <p>
+      {%if page.email%}
+      <b>Email: </b>{{page.email}}<br>
+      {%endif%}
+    {%if page.phone%}
+    <b>Phone: </b>{{page.phone}}<br>
+    {%endif%}
+    {%if page.address%}
+    <b>Address: </b>{{page.address}}<br>
+    {%endif%}
+    {%if page.cv_file_show%}
+    <b>CV: </b><a href="{{ page.cv_file | relative_url }}">{{page.cv_file_show}}</a>
+    {%endif%}
+    </p>
+  </div>
+</div>
+
+<div>
+    <h2>All Publications: </h2>
+
+    {% assign all_publications_by_author = site.publications | where_exp: "item", "item.author_ids contains page.presenter_id" | sort: "date" | reverse  %}
+
+    {% for publication in all_publications_by_author %}
+
+    <div class="three-col-table">
+        <div class="three-col-table-left"><b>Published: </b><br>{{publication.date | date: "%Y"}} </div>
+        <div class="four-col-table-center1"><b>Title: </b><br><a href="{{publication.url}}">{{publication.title}}</a></div>
+        <div class="four-col-table-center2"><b>Publication: </b><br>
+          {% if publication.type == "journal_article" %}
+          {{publication.journal}}
+          {%elsif publication.type =="book_chapter"%}
+          {{publication.book_title}}
+          {%endif%}
+        </div>
+        <div class="four-col-table-right">
+          {% if publication.data_loc != "" %}
+          <a href="{{publication.data_loc}}">Data<br></a>
+          {%endif%}
+          {% if publication.code_loc != "" %}
+          <a href="{{publication.code_loc}}">Code</a>
+          {%endif%}
+      </div>
+    </div>
+
+    {% endfor %}
+  </div>

@@ -131,6 +131,13 @@ collections:
     output: true
   conferences:
     output: true
+  members_full_publications:
+    output: true
+    permalink: /publications/:presenter_id/
+  members_full_presentations:
+    output: true
+    permalink: /presentation/:presenter_id/
+
 
 category_archive:
   type: liquid
