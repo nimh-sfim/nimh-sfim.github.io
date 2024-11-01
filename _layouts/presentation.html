@@ -13,8 +13,8 @@ classes: wide
         <b>Project(s):</b>
         {%for project in page.project_id%}
         {%assign project_item = site.projects | where: "project_id", project | first %} 
-        <a href="{{project_item.url}}">{{project_item.title}} &nbsp; &nbsp; &nbsp;</a><br>
-        {%endfor}
+        <a href="{{project_item.url}}">{{project_item.title}} &nbsp; &nbsp; &nbsp;</a>
+        {%endfor%}
         <br>
         {%endif%}
         {% assign conference_item = site.conferences | where: "conference_id", page.conference_id | first %}
