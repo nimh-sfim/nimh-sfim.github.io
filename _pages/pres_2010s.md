@@ -37,6 +37,7 @@ classes: wide
             </li>
         {%endfor%}
         {%endif%}
+    </div>
     <div class="presentation-item">
         <b>Presenters: </b><br>
             <ul>
