@@ -32,9 +32,9 @@ classes: wide
         <b>Project: </b><br>
         {% if presentation.project_id%}
         {%for project in presentation.project_id%}
-            {% assign project = site.projects | where: "project_id", project | first %}
+        {%assign project_item = site.projects | where: "project_id", project | first %}
             <li>
-            <a href="{{project.url}}">{{project.title}}</a>
+             <a href="{{project_item.url}}">{{project_item.title}}</a>
             </li>
         {%endfor%}
         {%endif%}
