@@ -5,6 +5,8 @@ main:
     url: /people/
   - title: "Photos" 
     url: /photos 
+  - title: "Lab News"
+    url: /posts
   - title: "Publications"
     url: /publications
   - title: "Presentations"
