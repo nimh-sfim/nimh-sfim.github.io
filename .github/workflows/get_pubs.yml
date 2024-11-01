@@ -30,6 +30,8 @@ jobs:
             python3 collect_pub_files.py
         - name:  commit updated files
           run: | 
+            git config user.email "cwalsh7894@gmail.com"
+            git config user.name "Catherine Walsh"
             git add "_data/pub_list.csv"
             git commit -m "update publication list"
             git push
