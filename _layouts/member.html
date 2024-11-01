@@ -62,11 +62,10 @@ show_date: false
           {%endif%}
       </div>
     </div>
-    <p>
-      <a href="/member_full_publications/{{ page.presenter_id }}">See all publications</a>
-    </p>
-
     {% endfor %}
+    <p>
+      <a class="btn btn--primary" href="/member_full_publications/{{ page.presenter_id }}">See all publications</a>
+    </p>
 
     <h2>Recent Presentations: </h2>
 
@@ -86,7 +85,7 @@ show_date: false
 
     {% endfor %}
     <p>
-      <a href="/member_full_presentations/{{ page.presenter_id }}">See all presentations</a>
+      <a class="btn btn--primary" href="/member_full_presentations/{{ page.presenter_id }}">See all presentations</a>
     </p>
 
 
