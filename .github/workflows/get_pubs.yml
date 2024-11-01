@@ -18,7 +18,7 @@ jobs:
         - name: Checkout
           uses: actions/checkout@v4
         - name: Setup Python
-          uses: actions/setup-python
+          uses: actions/setup-python@v5.3.0
           with:
             python-version: '3.11'
         - name: Install dependencies  
@@ -29,7 +29,6 @@ jobs:
           run: |
             python3 collect_pub_files.py
         - name:  commit updated files
-          uses: actions4git/setup-git@v1   
           run: | 
             git add "_data/pub_list.csv"
             git commit -m "update publication list"
