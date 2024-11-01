@@ -29,7 +29,7 @@ classes: wide
         <b>Conference/Event: </b><br><a href="{{conference_item.url}}">{{conference_item.title}}</a> <br>
     </div>
     <div class="presentation-item">
-        <b>Project: </b><br>
+        <b>Project(s): </b><br>
         {% if presentation.project_id%}
         {%for project in presentation.project_id%}
         {%assign project_item = site.projects | where: "project_id", project | first %}

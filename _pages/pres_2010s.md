@@ -28,12 +28,15 @@ classes: wide
         <b>Conference/Event: </b><br><a href="{{conference_item.url}}">{{conference_item.title}}</a> <br>
     </div>
     <div class="presentation-item">
-        <b>Project: </b><br>
+        <b>Project(s): </b><br>
         {% if presentation.project_id%}
-        {% assign project = site.projects | where: "project_id", presentation.project_id | first %}
-        <a href="{{project.url}}">{{project.title}}</a><br>
+        {%for project in presentation.project_id%}
+        {%assign project_item = site.projects | where: "project_id", project | first %}
+            <li>
+             <a href="{{project_item.url}}">{{project_item.title}}</a>
+            </li>
+        {%endfor%}
         {%endif%}
-    </div>
     <div class="presentation-item">
         <b>Presenters: </b><br>
             <ul>
