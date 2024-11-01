@@ -133,11 +133,8 @@ collections:
     output: true
   member_full_publications:
     output: true
-    permalink: /member_full_publications/:presenter_id/
   member_full_presentations:
     output: true
-    permalink: /member_full_presentations/:presenter_id/
-
 
 category_archive:
   type: liquid
