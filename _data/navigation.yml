@@ -3,8 +3,6 @@ main:
     url: /featured_projects/
   - title: "People"
     url: /people/
-  - title: "Photos" 
-    url: /photos 
   - title: "Lab News"
     url: /posts
   - title: "Publications"
