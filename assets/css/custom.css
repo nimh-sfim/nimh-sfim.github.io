@@ -194,3 +194,24 @@ gap:20px;
   padding:10px;
   text-align:center;
 }
+
+svg {
+  width: 100%;  /* Full-width responsive */
+  height: auto; /* Maintain aspect ratio */
+}
+.venn-circle {
+  fill-opacity: 0.5;
+}
+.venn-center-text {
+  font-size: 1em; /* Scales with SVG size */
+  font-weight: bold;
+  fill: black;
+  text-anchor: middle;
+}
+.venn-text{
+  font-size: 0.5em; /* Scales with SVG size */
+  font-weight: bold;
+  fill: black;
+  text-anchor: middle;
+
+}
