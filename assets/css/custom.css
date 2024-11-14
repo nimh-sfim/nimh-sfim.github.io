@@ -195,11 +195,18 @@ gap:20px;
   text-align:center;
 }
 
+.outer-pillar{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
 .pillar-div{
   width:25%;
-  height: 10%;
+  min-height:200px;
+  min-width:200px;
   padding: 1%;
-  margin: 10%;
+  margin: 5%;
   outline: 2px solid black;
   position: relative; 
   float: left
