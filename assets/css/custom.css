@@ -212,7 +212,7 @@ gap:20px;
   min-height:200px;
   min-width:200px;
   padding: 1%;
-  margin: 5%;
+  margin: 2%;
   outline: 2px solid black;
   position: relative; 
   float: left;
@@ -220,5 +220,5 @@ gap:20px;
 }
 
 #pillar-div li{
-  margin: -1px;
+  margin-bottom: 0em;
 }
