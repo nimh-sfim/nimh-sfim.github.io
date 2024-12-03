@@ -207,6 +207,15 @@ gap:20px;
   justify-content: center;
 }
 
+.pillar-title{
+  font-weight:bold; 
+  text-align:center; 
+  background:#5e9ac8; 
+  color:white; 
+  padding:0.5em; 
+  border-radius:0.25em;
+}
+
 .pillar-div{
   width:25%;
   min-height:200px;
@@ -222,3 +231,4 @@ gap:20px;
 #pillar-div li{
   margin-bottom: 0em;
 }
+
