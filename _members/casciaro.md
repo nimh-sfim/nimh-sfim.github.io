@@ -6,7 +6,7 @@ start_date: 2001
 end_date: 2003
 email: 
 phone: 
-photo: assets/images/
+photo: 
 status: former
 layout: member 
 ---

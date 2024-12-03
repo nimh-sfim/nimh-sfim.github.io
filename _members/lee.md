@@ -6,7 +6,7 @@ start_date:
 end_date: 2020
 email: 
 phone: 
-photo: assets/images/
+photo: 
 status: former
 layout: member 
 ---

@@ -22,7 +22,7 @@ classes: wide
 
 <div class="content-list">
 <div class="member-list-photo">
-<a href="{{ member.url }}"> <img src="{{ member.photo  | relative_url }}" alt="{{ member.title }}" class="small-photo"> </a>
+<a href="{{ member.url }}"> {%if member.photo%}  <img src="{{ member.photo  | relative_url }}" alt="{{ member.title }}" class="small-photo"> {%endif%} </a>
 </div>
 <div class="member-item">  
 <b>Name:</b><br>
