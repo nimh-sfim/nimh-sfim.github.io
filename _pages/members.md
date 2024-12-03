@@ -12,7 +12,7 @@ classes: wide
 {% if member.status == "current" %}
 <div class="content-list">
     <div class="member-list-photo">
-      <a href="{{ member.url }}"> <img src="{{ member.photo }}" alt="{{ member.title }}" class="small-photo"> </a>
+      <a href="{{ member.url }}"> <img src="{{ member.photo | relative_url}}" alt="{{ member.title }}" class="small-photo"> </a>
     </div>
     <div class="member-item">  
       <b>Name:</b><br>
