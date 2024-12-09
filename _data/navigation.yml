@@ -1,6 +1,6 @@
 main:
   - title: "Projects"
-    url: /featured_projects/
+    url: /all_projects/
   - title: "People"
     url: /people/
   - title: "Lab News"
