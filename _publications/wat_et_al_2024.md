@@ -31,8 +31,8 @@ abstract: "Despite reading being an essential and almost universal skill in the 
 project_id: 
 paper_url: https://www.sciencedirect.com/science/article/pii/S002839322300297X
 doi: 10.1016/j.neuropsychologia.2023.108763
-data_loc: ''
-code_loc: ''
+data_loc: 'https://doi.org/10.5061/dryad.g79cnp5x6'
+code_loc: 'https://github.com/pmolfese/Wat2023'
 file: '/assets/publications/'
 file_name: ''
 type: journal_article
