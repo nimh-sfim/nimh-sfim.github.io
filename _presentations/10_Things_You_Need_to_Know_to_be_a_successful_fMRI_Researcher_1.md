@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>Uniformed Services University, Bethesda, MD</p>"
-file: /assets/presentations/T108.ppt
-filename: T108.ppt
+file: /assets/presentations/T108.pdf
+filename: T108.pdf
 layout: presentation
 ---
