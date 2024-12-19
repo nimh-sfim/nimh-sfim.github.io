@@ -25,7 +25,7 @@ project_id: bold_connectivity_dynamics
 paper_url: https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2023.1134012/full
 doi: 10.3389/fnhum.2023.1134012
 data_loc: ''
-code_loc: ''
+code_loc: 'https://github.com/nimh-sfim/manifold_learning_fmri'
 file: '/assets/publications/'
 file_name: ''
 type: journal_article
