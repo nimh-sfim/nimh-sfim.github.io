@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>University of Wisconsin, Madison</p>"
-file: /assets/presentations/T142.ppt
-filename: T142.ppt
+file: /assets/presentations/T142.pdf
+filename: T142.pdf
 layout: presentation
 ---

@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>Yale School of Medicine, New Haven, CT</p>"
-file: /assets/presentations/T83.ppt
-filename: T83.ppt
+file: /assets/presentations/T83.pdf
+filename: T83.pdf
 layout: presentation
 ---

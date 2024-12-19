@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>Rutgers University, NJ</p>"
-file: /assets/presentations/T146.ppt
-filename: T146.ppt
+file: /assets/presentations/T146.pdf
+filename: T146.pdf
 layout: presentation
 ---

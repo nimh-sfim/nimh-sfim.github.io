@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>Mitre Corporation, McClain, VA</p>"
-file: /assets/presentations/T134.ppt
-filename: T134.ppt
+file: /assets/presentations/T134.pdf
+filename: T134.pdf
 layout: presentation
 ---

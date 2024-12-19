@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>Stanford University, Palo Alto, CA</p>"
-file: /assets/presentations/T199.ppt
-filename: T199.ppt
+file: /assets/presentations/T199.pdf
+filename: T199.pdf
 layout: presentation
 ---

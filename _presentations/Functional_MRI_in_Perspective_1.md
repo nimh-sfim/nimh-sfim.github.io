@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>The fMRI experience VII, Aston University, UK</p>"
-file: /assets/presentations/T179.ppt
-filename: T179.ppt
+file: /assets/presentations/T179.pdf
+filename: T179.pdf
 layout: presentation
 ---

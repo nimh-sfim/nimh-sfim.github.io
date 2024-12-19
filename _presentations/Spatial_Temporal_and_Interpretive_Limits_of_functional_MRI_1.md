@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>University of Virginia, Charlottesville, VA</p>"
-file: /assets/presentations/T107.ppt
-filename: T107.ppt
+file: /assets/presentations/T107.pdf
+filename: T107.pdf
 layout: presentation
 ---

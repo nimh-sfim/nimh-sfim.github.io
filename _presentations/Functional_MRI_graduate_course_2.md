@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>Functional MRI graduate course, MCW, Milwaukee, WI.</p>"
-file: /assets/presentations/T164.ppt
-filename: T164.ppt
+file: /assets/presentations/T164.pdf
+filename: T164.pdf
 layout: presentation
 ---

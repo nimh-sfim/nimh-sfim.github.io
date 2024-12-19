@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>Beijing Normal University, Beijing, China</p>"
-file: /assets/presentations/T106.ppt
-filename: T106.ppt
+file: /assets/presentations/T106.pdf
+filename: T106.pdf
 layout: presentation
 ---

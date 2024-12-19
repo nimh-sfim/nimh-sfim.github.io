@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>Springdale High School, Silver Spring, MD</p>"
-file: /assets/presentations/T131.ppt
-filename: T131.ppt
+file: /assets/presentations/T131.pdf
+filename: T131.pdf
 layout: presentation
 ---

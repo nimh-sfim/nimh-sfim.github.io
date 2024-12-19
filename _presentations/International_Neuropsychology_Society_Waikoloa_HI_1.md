@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>International Neuropsychology Society, Waikoloa, HI</p>"
-file: /assets/presentations/T218.ppt
-filename: T218.ppt
+file: /assets/presentations/T218.pdf
+filename: T218.pdf
 layout: presentation
 ---

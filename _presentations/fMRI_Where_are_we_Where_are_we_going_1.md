@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>West Virginia University, Morgantown, WV</p>"
-file: /assets/presentations/T124.ppt
-filename: T124.ppt
+file: /assets/presentations/T124.pdf
+filename: T124.pdf
 layout: presentation
 ---

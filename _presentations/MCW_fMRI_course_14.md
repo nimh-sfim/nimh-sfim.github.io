@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>MCW fMRI course, Milwaukee, WI.</p>"
-file: /assets/presentations/T153.ppt
-filename: T153.ppt
+file: /assets/presentations/T153.pdf
+filename: T153.pdf
 layout: presentation
 ---

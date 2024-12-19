@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>NIH Blueprint Workshop on Non-invasive Imaging</p>"
-file: /assets/presentations/T227.ppt
-filename: T227.ppt
+file: /assets/presentations/T227.pdf
+filename: T227.pdf
 layout: presentation
 ---

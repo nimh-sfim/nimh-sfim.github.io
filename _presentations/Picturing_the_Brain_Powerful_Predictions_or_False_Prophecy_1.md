@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>National Academy of Sciences, Washington DC</p>"
-file: /assets/presentations/T148.ppt
-filename: T148.ppt
+file: /assets/presentations/T148.pdf
+filename: T148.pdf
 layout: presentation
 ---

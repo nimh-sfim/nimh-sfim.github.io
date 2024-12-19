@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>NINDS council meeting</p>"
-file: /assets/presentations/T236.ppt
-filename: T236.ppt
+file: /assets/presentations/T236.pdf
+filename: T236.pdf
 layout: presentation
 ---

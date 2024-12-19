@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>MCW graduate school course on fMRI contrast (date missing/incorrect)</p>"
-file: /assets/presentations/T83.ppt
-filename: T83.ppt
+file: /assets/presentations/T83.pdf
+filename: T83.pdf
 layout: presentation
 ---

@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>Tour talk to NIMH Outstanding Residents, NIH</p>"
-file: /assets/presentations/T180.ppt
-filename: T180.ppt
+file: /assets/presentations/T180.pdf
+filename: T180.pdf
 layout: presentation
 ---

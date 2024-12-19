@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>NIH Monkey Journal Club</p>"
-file: /assets/presentations/T183.ppt
-filename: T183.ppt
+file: /assets/presentations/T183.pdf
+filename: T183.pdf
 layout: presentation
 ---

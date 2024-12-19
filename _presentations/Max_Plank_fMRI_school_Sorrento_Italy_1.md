@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>Max Plank fMRI school, Sorrento, Italy.</p>"
-file: /assets/presentations/T196.ppt
-filename: T196.ppt
+file: /assets/presentations/T196.pdf
+filename: T196.pdf
 layout: presentation
 ---

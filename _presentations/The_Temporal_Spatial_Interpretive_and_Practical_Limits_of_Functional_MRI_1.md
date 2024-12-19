@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>fMRI Experience, Kings College, London, UK</p>"
-file: /assets/presentations/T96.ppt
-filename: T96.ppt
+file: /assets/presentations/T96.pdf
+filename: T96.pdf
 layout: presentation
 ---

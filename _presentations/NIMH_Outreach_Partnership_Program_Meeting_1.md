@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>NIMH Outreach Partnership Program Meeting</p>"
-file: /assets/presentations/T145.ppt
-filename: T145.ppt
+file: /assets/presentations/T145.pdf
+filename: T145.pdf
 layout: presentation
 ---

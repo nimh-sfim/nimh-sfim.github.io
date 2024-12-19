@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>MGH-APA fMRI course lecture 1</p>"
-file: /assets/presentations/T91a.ppt
-filename: T91a.ppt
+file: /assets/presentations/T91a.pdf
+filename: T91a.pdf
 layout: presentation
 ---

@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>NIMH PI Retreat, FMRIF overview, Bethesda, MD</p>"
-file: /assets/presentations/T204.ppt
-filename: T204.ppt
+file: /assets/presentations/T204.pdf
+filename: T204.pdf
 layout: presentation
 ---

@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>ISMRM symposium on unsolved problems</p>"
-file: /assets/presentations/T225.ppt
-filename: T225.ppt
+file: /assets/presentations/T225.pdf
+filename: T225.pdf
 layout: presentation
 ---

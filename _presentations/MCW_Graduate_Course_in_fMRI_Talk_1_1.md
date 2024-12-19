@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>MCW Graduate Course in fMRI, Talk 1, Milwaukee, WI</p>"
-file: /assets/presentations/T200.ppt
-filename: T200.ppt
+file: /assets/presentations/T200.pdf
+filename: T200.pdf
 layout: presentation
 ---

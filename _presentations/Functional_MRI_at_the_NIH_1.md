@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>Tour talk, Norwegian contingent</p>"
-file: /assets/presentations/T230.ppt
-filename: T230.ppt
+file: /assets/presentations/T230.pdf
+filename: T230.pdf
 layout: presentation
 ---

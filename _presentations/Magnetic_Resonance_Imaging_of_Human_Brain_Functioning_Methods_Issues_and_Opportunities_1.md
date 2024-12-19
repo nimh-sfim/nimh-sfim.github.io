@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>Ampere XI conference, Zakopane, Poland</p>"
-file: /assets/presentations/T136.ppt
-filename: T136.ppt
+file: /assets/presentations/T136.pdf
+filename: T136.pdf
 layout: presentation
 ---

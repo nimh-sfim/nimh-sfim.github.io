@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>Neural Information Processing Systems Workshop, Whistler, BC</p>"
-file: /assets/presentations/T222.ppt
-filename: T222.ppt
+file: /assets/presentations/T222.pdf
+filename: T222.pdf
 layout: presentation
 ---

@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>FMRI database workshop, Dartmouth University, NH</p>"
-file: /assets/presentations/T104.ppt
-filename: T104.ppt
+file: /assets/presentations/T104.pdf
+filename: T104.pdf
 layout: presentation
 ---

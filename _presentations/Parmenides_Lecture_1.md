@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>Parmenides Lecture, Lake Chiemsee, Germany</p>"
-file: /assets/presentations/T212.ppt
-filename: T212.ppt
+file: /assets/presentations/T212.pdf
+filename: T212.pdf
 layout: presentation
 ---

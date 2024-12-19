@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>OHBM 2005 education program, Toronto, CA</p>"
-file: /assets/presentations/T176.ppt
-filename: T176.ppt
+file: /assets/presentations/T176.pdf
+filename: T176.pdf
 layout: presentation
 ---

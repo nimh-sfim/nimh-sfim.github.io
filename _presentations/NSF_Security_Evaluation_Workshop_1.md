@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>NSF Security Evaluation Workshop, Arlington, VA</p>"
-file: /assets/presentations/T178.ppt
-filename: T178.ppt
+file: /assets/presentations/T178.pdf
+filename: T178.pdf
 layout: presentation
 ---

@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>APA-fMRI Workshop, San Diego, CA</p>"
-file: /assets/presentations/T94.ppt
-filename: T94.ppt
+file: /assets/presentations/T94.pdf
+filename: T94.pdf
 layout: presentation
 ---

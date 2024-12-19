@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>University of Maastricht, The Netherlands</p>"
-file: /assets/presentations/T168.ppt
-filename: T168.ppt
+file: /assets/presentations/T168.pdf
+filename: T168.pdf
 layout: presentation
 ---

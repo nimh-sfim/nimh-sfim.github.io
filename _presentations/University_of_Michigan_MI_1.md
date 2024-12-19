@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>University of Michigan, MI</p>"
-file: /assets/presentations/T219.ppt
-filename: T219.ppt
+file: /assets/presentations/T219.pdf
+filename: T219.pdf
 layout: presentation
 ---

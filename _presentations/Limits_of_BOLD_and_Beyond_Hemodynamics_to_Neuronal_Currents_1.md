@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>Functional Imaging Laboratory, London, UK</p>"
-file: /assets/presentations/T129.ppt
-filename: T129.ppt
+file: /assets/presentations/T129.pdf
+filename: T129.pdf
 layout: presentation
 ---

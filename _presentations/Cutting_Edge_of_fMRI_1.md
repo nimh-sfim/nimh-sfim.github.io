@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>OHBM 2003 morning symposium, New York</p>"
-file: /assets/presentations/T137.ppt
-filename: T137.ppt
+file: /assets/presentations/T137.pdf
+filename: T137.pdf
 layout: presentation
 ---

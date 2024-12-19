@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>Yale University, New Haven, CT</p>"
-file: /assets/presentations/T112.ppt
-filename: T112.ppt
+file: /assets/presentations/T112.pdf
+filename: T112.pdf
 layout: presentation
 ---

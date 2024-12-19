@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>Workshop on neurovascular coupling, Tokyo, JP</p>"
-file: /assets/presentations/T99.ppt
-filename: T99.ppt
+file: /assets/presentations/T99.pdf
+filename: T99.pdf
 layout: presentation
 ---

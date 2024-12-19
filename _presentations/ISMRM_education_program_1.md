@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>ISMRM education program</p>"
-file: /assets/presentations/T224.ppt
-filename: T224.ppt
+file: /assets/presentations/T224.pdf
+filename: T224.pdf
 layout: presentation
 ---

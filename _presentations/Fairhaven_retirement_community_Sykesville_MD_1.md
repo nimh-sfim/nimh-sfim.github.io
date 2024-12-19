@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>Fairhaven retirement community, Sykesville, MD</p>"
-file: /assets/presentations/T223.ppt
-filename: T223.ppt
+file: /assets/presentations/T223.pdf
+filename: T223.pdf
 layout: presentation
 ---

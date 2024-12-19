@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>SMRT President’s Symposium, University of Virginia Medical Center</p>"
-file: /assets/presentations/T186.ppt
-filename: T186.ppt
+file: /assets/presentations/T186.pdf
+filename: T186.pdf
 layout: presentation
 ---

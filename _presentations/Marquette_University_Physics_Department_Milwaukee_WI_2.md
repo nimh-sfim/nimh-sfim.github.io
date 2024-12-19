@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>Marquette University Physics Department, Milwaukee, WI.</p>"
-file: /assets/presentations/T165.ppt
-filename: T165.ppt
+file: /assets/presentations/T165.pdf
+filename: T165.pdf
 layout: presentation
 ---

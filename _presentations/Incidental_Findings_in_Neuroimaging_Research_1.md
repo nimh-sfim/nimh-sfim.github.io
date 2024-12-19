@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>NINDS Incidental Findings Meeting, Bethesda, MD</p>"
-file: /assets/presentations/T163.ppt
-filename: T163.ppt
+file: /assets/presentations/T163.pdf
+filename: T163.pdf
 layout: presentation
 ---

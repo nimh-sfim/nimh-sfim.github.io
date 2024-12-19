@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>OHBM 2004 education program, Budapest</p>"
-file: /assets/presentations/T155.ppt
-filename: T155.ppt
+file: /assets/presentations/T155.pdf
+filename: T155.pdf
 layout: presentation
 ---

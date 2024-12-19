@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>Lecture at 3T imaging center, Melbourne, Australia</p>"
-file: /assets/presentations/T93.ppt
-filename: T93.ppt
+file: /assets/presentations/T93.pdf
+filename: T93.pdf
 layout: presentation
 ---

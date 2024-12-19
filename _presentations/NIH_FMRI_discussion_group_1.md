@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>NIH FMRI discussion group</p>"
-file: /assets/presentations/T184.ppt
-filename: T184.ppt
+file: /assets/presentations/T184.pdf
+filename: T184.pdf
 layout: presentation
 ---

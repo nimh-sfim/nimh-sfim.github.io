@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>Obesity Workshop</p>"
-file: /assets/presentations/T229.ppt
-filename: T229.ppt
+file: /assets/presentations/T229.pdf
+filename: T229.pdf
 layout: presentation
 ---

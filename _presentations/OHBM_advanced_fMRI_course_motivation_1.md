@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>OHBM advanced fMRI course motivation</p>"
-file: /assets/presentations/T208.ppt
-filename: T208.ppt
+file: /assets/presentations/T208.pdf
+filename: T208.pdf
 layout: presentation
 ---

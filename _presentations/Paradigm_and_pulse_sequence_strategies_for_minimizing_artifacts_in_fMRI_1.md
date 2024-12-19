@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>Lecture for Jordan Grafman group, NINDS, NIH Bethesda, MD</p>"
-file: /assets/presentations/T182.ppt
-filename: T182.ppt
+file: /assets/presentations/T182.pdf
+filename: T182.pdf
 layout: presentation
 ---

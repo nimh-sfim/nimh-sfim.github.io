@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>Brindizzi, Italy</p>"
-file: /assets/presentations/T101.ppt
-filename: T101.ppt
+file: /assets/presentations/T101.pdf
+filename: T101.pdf
 layout: presentation
 ---

@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>University of Udina, Italy</p>"
-file: /assets/presentations/T140.ppt
-filename: T140.ppt
+file: /assets/presentations/T140.pdf
+filename: T140.pdf
 layout: presentation
 ---

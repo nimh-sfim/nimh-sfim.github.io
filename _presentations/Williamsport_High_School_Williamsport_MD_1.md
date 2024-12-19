@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>Williamsport High School, Williamsport, MD</p>"
-file: /assets/presentations/T170.ppt
-filename: T170.ppt
+file: /assets/presentations/T170.pdf
+filename: T170.pdf
 layout: presentation
 ---

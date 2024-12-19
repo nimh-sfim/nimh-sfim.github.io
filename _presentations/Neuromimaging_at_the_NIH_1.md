@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>NIH Cloisters, High School Teacher workshop</p>"
-file: /assets/presentations/T130.ppt
-filename: T130.ppt
+file: /assets/presentations/T130.pdf
+filename: T130.pdf
 layout: presentation
 ---

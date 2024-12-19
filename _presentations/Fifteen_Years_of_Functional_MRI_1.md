@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>Nicola Tesla Lecture, Mind and Brain V, Dubrovnik, Croatia</p>"
-file: /assets/presentations/T195.ppt
-filename: T195.ppt
+file: /assets/presentations/T195.pdf
+filename: T195.pdf
 layout: presentation
 ---

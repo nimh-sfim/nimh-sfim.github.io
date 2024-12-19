@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>Seneca Valley High School, Germantown, MD</p>"
-file: /assets/presentations/T169.ppt
-filename: T169.ppt
+file: /assets/presentations/T169.pdf
+filename: T169.pdf
 layout: presentation
 ---

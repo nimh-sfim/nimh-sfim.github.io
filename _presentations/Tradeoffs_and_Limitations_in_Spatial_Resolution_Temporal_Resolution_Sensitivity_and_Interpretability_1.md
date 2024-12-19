@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>MGH fMRI course, MGH-NMR Center, Charlestown, MA</p>"
-file: /assets/presentations/T113.ppt
-filename: T113.ppt
+file: /assets/presentations/T113.pdf
+filename: T113.pdf
 layout: presentation
 ---

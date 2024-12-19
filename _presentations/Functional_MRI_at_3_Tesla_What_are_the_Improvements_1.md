@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>3T scanner inauguration meeting, San Giovanni Rotundo, Italy</p>"
-file: /assets/presentations/T144.ppt
-filename: T144.ppt
+file: /assets/presentations/T144.pdf
+filename: T144.pdf
 layout: presentation
 ---

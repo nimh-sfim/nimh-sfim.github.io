@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>Workshop on understanding BOLD phenomena, Chapel Hill, NC</p>"
-file: /assets/presentations/T95.ppt
-filename: T95.ppt
+file: /assets/presentations/T95.pdf
+filename: T95.pdf
 layout: presentation
 ---

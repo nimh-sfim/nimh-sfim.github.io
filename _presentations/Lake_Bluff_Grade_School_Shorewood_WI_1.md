@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>Lake Bluff Grade School, Shorewood, WI</p>"
-file: /assets/presentations/T201.ppt
-filename: T201.ppt
+file: /assets/presentations/T201.pdf
+filename: T201.pdf
 layout: presentation
 ---

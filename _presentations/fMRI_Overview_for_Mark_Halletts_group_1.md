@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>fMRI Overview for Mark Hallett&#39;s group.</p>"
-file: /assets/presentations/T192.ppt
-filename: T192.ppt
+file: /assets/presentations/T192.pdf
+filename: T192.pdf
 layout: presentation
 ---

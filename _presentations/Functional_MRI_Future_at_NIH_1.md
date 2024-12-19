@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>GE CRADA talk, GE Medical Systems, Milwaukee</p>"
-file: /assets/presentations/T188.ppt
-filename: T188.ppt
+file: /assets/presentations/T188.pdf
+filename: T188.pdf
 layout: presentation
 ---

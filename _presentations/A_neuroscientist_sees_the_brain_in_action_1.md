@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>Sligo Creek Elementary School</p>"
-file: /assets/presentations/T235.ppt
-filename: T235.ppt
+file: /assets/presentations/T235.pdf
+filename: T235.pdf
 layout: presentation
 ---

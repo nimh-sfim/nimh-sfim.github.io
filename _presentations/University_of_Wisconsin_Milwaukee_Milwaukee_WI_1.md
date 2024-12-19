@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>University of Wisconsin, Milwaukee, Milwaukee, WI</p>"
-file: /assets/presentations/T206.ppt
-filename: T206.ppt
+file: /assets/presentations/T206.pdf
+filename: T206.pdf
 layout: presentation
 ---

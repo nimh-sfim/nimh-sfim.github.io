@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "<p>MERGe summer series lecture, NIH, Bethesda, MD</p>"
-file: /assets/presentations/T228.ppt
-filename: T228.ppt
+file: /assets/presentations/T228.pdf
+filename: T228.pdf
 layout: presentation
 ---
