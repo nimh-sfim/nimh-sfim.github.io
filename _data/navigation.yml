@@ -3,8 +3,6 @@ main:
     url: /all_projects/
   - title: "People"
     url: /people/
-  - title: "Lab News"
-    url: /posts
   - title: "Publications"
     url: /publications
   - title: "Presentations"
