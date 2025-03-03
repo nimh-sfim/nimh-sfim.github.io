@@ -1,6 +1,6 @@
 ---
 title: "Blood-nulling versus tissue-suppression: Enhancing integrated VASO and perfusion (VAPER) contrast for laminar fMRI"
-date: 2024-01-07
+date: 2025-01-21
 authors_string: Yuhui Chai, Linqing Li, Rüdiger Stirnberg, Laurentius Huber, Tony Stöcker, Peter Bandettini, Bradley P. Sutton
 authors:
    - Yuhui Chai
