@@ -4,10 +4,13 @@ published: true
 tags:
   - Postbacs
   - Photos
+excerpt: "It's always bittersweet to say goodbye to our post-bacs as they head off to graduate school."
+header:
+  teaser: /assets/images/postbac_goodbye_lunch1.jpg
 ---
 
 
-{% raw %}<img src="/assets/images/postbac_goodbye_lunch1.jpg" alt="Goodbye lunch">{% endraw %}
+{% raw %}<center><img src="/assets/images/postbac_goodbye_lunch1.jpg" alt="Goodbye lunch"></center>{% endraw %}
 
 It's always bittersweet to say goodbye to our post-bacs as they head off to graduate school.
 

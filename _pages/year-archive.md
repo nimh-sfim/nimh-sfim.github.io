@@ -1,6 +1,7 @@
 ---
-title: "Posts by Year"
+title: "Recent SFIM News"
 permalink: /posts/
 layout: posts
+entries_layout: grid
 author_profile: false
 ---
