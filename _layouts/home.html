@@ -78,7 +78,7 @@ and the variable and incompletely-determined relationship between neuronal activ
 
 <div>
 
-To learn more about what we do in SFIM, please check out our featured projects, recent publications, and more, below. 
+To learn more about what we do in SFIM, please check out our featured projects, recent publications, recent news, and more, below. 
 
 </div>
 
@@ -134,6 +134,25 @@ To learn more about what we do in SFIM, please check out our featured projects, 
 
 </div>
 
+<h2>Recent SFIM News</h2>
+
+{% assign sorted_news = site.posts | sort:'date' | reverse %}
+{% assign recent_news = sorted_news | slice: 0,5%}
+
+<div>
+<ul>
+    {% for post in recent_news %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+
+<div class="center-button">
+    <a href="/posts" class="btn btn--primary">View all</a>
+
+</div>
 
 <h3>Related NIMH Groups</h3>
 <div class="related-groups">
