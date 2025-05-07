@@ -1,7 +1,7 @@
 ---
 title: "Daniel A Handwerker, Ph.D."
 presenter_id: daniel_handwerker
-position: Staff Scientist
+position: Associate Scientist
 start_date: 2007
 end_date: 
 email: "handwerkerd@mail.nih.gov"
