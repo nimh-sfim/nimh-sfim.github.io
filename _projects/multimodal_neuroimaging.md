@@ -6,7 +6,6 @@ summary: "<p>Using multimodal neuroimaging can aid us in understanding human cog
 
 <h2>Blood Pressure Waves</h2>
 <p>External blood pressure recordings correlate with resting state BOLD signals recorded simultaneously, this correlation has a certain structure at group level, this spatial structure resembles to functional networks and temporal arrival time peaks earlier in primary cortices then spreads around all cortical areas and moves to the posterior part of the brain indicating the cerebral pathway of blood inflow and outflow. Primary cortices are metabolically more active and often more densely vascularized and have more localized blood flow than association cortices, which makes those areas more sensitive to blood pressure changes. This physiological pattern overlaps visual and motor areas that widely studied, and it has significant contribution to BOLD signal. Here we show a strong physiological confound which is happening in slow BOLD (0.01-0.1Hz) frequency range and not only specific to high frequency range (~ 0.3Hz breathing ~ 1 Hz cardiac).  This finding shows the MAP. We’re currently working on how much removing these physiological patterns will enhance subsequent functional connectivity and task-based activation results.</p>
-<img src='/assets/images/multimodal1.jpg',alt='Multimodal Neuroimaging, Figure 1'>
 
 <h2>CSF</h2>
 
