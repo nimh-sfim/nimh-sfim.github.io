@@ -3,7 +3,7 @@ title: "Fernando Ramírez, Ph.D."
 presenter_id: fernando_ramirez
 position: Post-Doctoral Fellow
 start_date: 2021
-end_date: 
+end_date: 2025
 email: "fernando.ramirez@nih.gov"
 phone: "(301) 480-8170"
 address: 
@@ -12,6 +12,6 @@ bio: "Fernando Ramírez received his PhD in Psychology from the Humboldt Univers
 cv_file: "/assets/CVs/Ramirez_CV_0.pdf"
 cv_file_show: "Ramirez_CV_0.pdf"
 weight: 4
-status: current
+status: former
 layout: member
 ---

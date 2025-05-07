@@ -3,7 +3,7 @@ title: "Samika Kumar"
 presenter_id: samika_kumar
 position: Graduate Student
 start_date: 
-end_date: 
+end_date: 2025
 email: "samika.kumar@nih.gov"
 phone: "(301) 496-8174"
 address: 
@@ -12,6 +12,6 @@ bio: "Samika Kumar received her BA in Cognitive Science from the University of C
 cv_file: "/assets/CVs/"
 cv_file_show: 
 weight: 5
-status: current
+status: former
 layout: member
 ---
