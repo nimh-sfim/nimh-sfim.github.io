@@ -8,9 +8,9 @@ email: "sharif.kronemer@nih.gov"
 phone: "(301) 496-8174"
 address: 
 photo: "/assets/images/kronemer_framed_cropped.png"
-bio: "Sharif I. Kronemer, PhD received a BA in Neuroscience and Philosophy from Ohio Wesleyan University (2012) and then completed a MSc in Cognitive Neuroscience from the University College London (2013). Dr. Kronemer completed his PhD at Yale University supervised by Hal Blumenfeld, MD, PhD (2021). His thesis research utilized innovative multimodal approaches, including fMRI and intracranial EEG to investigate the neural mechanisms of visual consciousness. Dr. Kronemer now serves as a postdoctoral fellow in the Section on Functional Imaging Methods at the National Institute of Mental Health. His current research aims to discriminate between the neural mechanisms for seen versus illusory visual conscious experiences and chart the intrinsic fluctuations in conscious perception with fMRI. Dr. Kronemer is a passionate science educator and outreach advocate. For more information about Dr. Kronemer, please follow this link: [sharifkronemer.com](sharifkronemer.com)."
-cv_file: "/assets/CVs/CV_Kronemer.pdf"
-cv_file_show: "CV_Kronemer.pdf"
+bio: "Sharif I. Kronemer, PhD earned a BA in Neuroscience and Philosophy from Ohio Wesleyan University (2012), followed by an MSc in Cognitive Neuroscience from University College London (2013). He completed his PhD at Yale University in 2021 where his research combined fMRI, scalp and intracranial EEG, pupillometry, and machine learning to explore the human brain mechanisms of visual consciousness. Currently, Dr. Kronemer is a Postdoctoral Fellow in the Section on Functional Imaging Methods at the National Institute of Mental Health. His research focuses on uncovering the brain mechanisms that distinguish real versus illusory visual perception and studying spontaneous fluctuations in conscious state using advanced neuroimaging techniques, including high-field fMRI and MEG. Dr. Kronemer is also leveraging machine learning and non-neural physiological signals to predict conscious perception in healthy individuals and patient groups (e.g., cortical blindness). Beyond the lab, Dr. Kronemer is a dedicated science communicator and advocate for public engagement in science. To learn more visit: [https://www.sharifkronemer.com](https://www.sharifkronemer.com)."
+cv_file: "https://www.sharifkronemer.com/cv"
+cv_file_show: "Sharif Kronemer CV"
 weight: 4
 status: current
 layout: member
