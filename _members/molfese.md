@@ -1,5 +1,5 @@
 ---
-title: "Peter J. Molfese"
+title: "Peter J. Molfese, Ph.D."
 presenter_id: peter_molfese
 position: Scientist
 start_date: 2017

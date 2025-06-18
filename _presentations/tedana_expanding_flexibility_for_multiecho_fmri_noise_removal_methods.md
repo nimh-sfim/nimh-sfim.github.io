@@ -1,7 +1,7 @@
 ---
 title: "tedana: Expanding flexibility for multi-echo fMRI noise removal methods"
 project_id: multi_echo
-date: 2025-06-24
+date: 2025-06-01
 conference_id: "OHBM_2025"
 presenters:
    - daniel_handwerker

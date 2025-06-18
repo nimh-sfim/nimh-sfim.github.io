@@ -1,7 +1,7 @@
 ---
 title: "Towards mapping CSF volume change at high resolutions at 7T"
 project_id: multimodal_neuroimaging
-date: 2025-06-24
+date: 2025-06-01
 conference_id: "OHBM_2025"
 presenters:
    - stephanie_swegle

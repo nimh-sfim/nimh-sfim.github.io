@@ -1,7 +1,7 @@
 ---
 title: "Multi-echo Functional Connectivity as an Evaluation Metric for Denoising"
 project_id: multi_echo
-date: 2025-06-24
+date: 2025-06-01
 conference_id: "OHBM_2025"
 presenters:
    - javier_gonzalez-castillo
