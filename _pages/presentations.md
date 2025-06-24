@@ -16,7 +16,9 @@ classes: wide
 {% if year >= 2020 %}
 <h3> {{ year_group.name }} </h3>
 
-{% for presentation in year_group.items %}
+{% assign presentations_sorted = year_group.items | sort: "date" | reverse %}
+
+{% for presentation in presentations_sorted %}
 <div class="content-list">
     <div class="presentation-item">
         <b>Title: </b><br><a href="{{presentation.url}}">{{presentation.title}}</a><br>
