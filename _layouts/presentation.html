@@ -24,7 +24,13 @@ classes: wide
         {%if page.summary%}
         <b>Summary: </b> {{page.summary}} <br>
         {%endif%}
-        <b>Presenters: </b><br>
+        {%if page.page.video_id != "" %}
+        {%include video id=page.video_id provider=page.provider %}
+        {%endif%}
+        {%if page.recording_link != "" %}
+        <a href="{{page.recording_link}}">Recording Link</a><br>
+        {%endif%}
+        <b>Presenter(s): </b><br>
             <ul>
             {% for presenter_id in page.presenters %}
                 {% assign presenter = site.members | where: "presenter_id", presenter_id | first %}

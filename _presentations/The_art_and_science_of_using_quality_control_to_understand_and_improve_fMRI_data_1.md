@@ -8,5 +8,8 @@ presenters:
 summary: "<p>Talk that was part of an OHBM Educational Session: 'Making Quality Control Part of Your Analysis: Learning with the FMRI Open QC Project'</p>"
 file: /assets/presentations/Handwerker_QCEducationSession_small.pdf
 filename: Handwerker_QCEducationSession_small.pdf
+recording_link: https://www.youtube.com/watch?v=zo2lfc4mBFM
+video_id: zo2lfc4mBFM
+provider: youtube
 layout: presentation
 ---
