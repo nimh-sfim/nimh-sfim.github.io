@@ -2,7 +2,7 @@
 title: "The human brain mechanisms of afterimages: From networks to cortical layers"
 project_id: consciousness
 date: 2025-08-18
-conference_id: 
+conference_id: ""
 presenters:
    - sharif_kronemer
    - burak_akin
