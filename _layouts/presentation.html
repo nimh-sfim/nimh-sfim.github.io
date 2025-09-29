@@ -27,7 +27,7 @@ classes: wide
         {%if page.page.video_id != "" %}
         {%include video id=page.video_id provider=page.provider %}
         {%endif%}
-        {%if page.recording_link != "" %}
+        {%if page.recording_link %}
         <a href="{{page.recording_link}}">Recording Link</a><br>
         {%endif%}
         <b>Presenter(s): </b><br>
