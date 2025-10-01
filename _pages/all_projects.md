@@ -4,7 +4,7 @@ permalink: /all_projects/
 classes: wide
 ---
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
-
+{% include shutdown_banner.html %}
 <h2> All Active Projects </h2>
 
 {% for project in site.projects %}
