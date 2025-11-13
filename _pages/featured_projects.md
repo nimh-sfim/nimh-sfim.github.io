@@ -5,7 +5,6 @@ classes: wide
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
-{% include shutdown_banner.html %}
 <p>Check out a few of our featured projects. For more information on these projects, or to see other projects that are currently going on in the lab, check out our full list of projects <a href="/all_projects">here</a>. For big picture overviews of what SFIM has done, please check out our past BSC reviews (<a href="/assets/BSCs/Bandettini_2003_SFIM_BSC_report.pdf">2003</a>, <a href="/assets/BSCs/Bandettini_2007_SFIM_BSC_report.pdf">2007</a>, <a href="/assets/BSCs/Bandettini_2012_SFIM_BSC_report.pdf">2012</a>, <a href="/assets/BSCs/Bandettini_2016_SFIM_BSC_report.pdf">2016</a>, <a href="/assets/BSCs/Bandettini_2020_SFIM_BSC.pdf">2020</a>).</p>
 
 <h2><a href="/projects/layer_fmri/">Layer-Specific fMRI</a></h2>

@@ -5,7 +5,6 @@ classes: wide
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
-{% include shutdown_banner.html %}
 {% assign publications_by_year = site.publications | group_by_exp: "publication", "publication.date | date: '%Y'" | reverse %}
 
 <h2> 2020-Present &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="{{ '/pubs_2010s/' | relative_url }}" >2010-2019</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="{{ '/pubs_2000s/' | relative_url }}" >2000-2009</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="{{ '/pubs_1990s/' | relative_url }}" >1990-1999</a>  </h2>

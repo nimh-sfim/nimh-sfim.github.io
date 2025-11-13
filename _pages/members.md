@@ -4,7 +4,6 @@ permalink: /people/
 classes: wide
 ---
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
-{% include shutdown_banner.html %}
 <h2> Current &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="{{ '/former-members/' | relative_url }}" >Former</a> </h2>
 
 {% assign sorted_members = site.members | sort: 'weight' %}

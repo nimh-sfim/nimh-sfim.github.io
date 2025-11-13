@@ -5,7 +5,6 @@ classes: wide
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
-{% include shutdown_banner.html %}
 {% assign presentations_by_year = site.presentations | group_by_exp: "presentation", "presentation.date | date: '%Y'" | reverse %}
 
 <h2> <a href="{{ '/presentations/' | relative_url }}" >2020-Present </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="{{ '/pres_2010s/' | relative_url }}" >2010-2019</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="{{ '/pres_2000s/' | relative_url }}" >2000-2009 </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1990-1999  </h2>

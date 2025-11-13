@@ -5,7 +5,6 @@ classes: wide
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
-{% include shutdown_banner.html %}
 {% assign sorted_conferences = site.conferences | sort: 'date' | reverse %}
 {% for conference in sorted_conferences %}
 <div class="content-list">
