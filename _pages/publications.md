@@ -23,7 +23,7 @@ classes: wide
         <b>Authors:</b><br>{{publication.authors_string}}
     </div>
     <div class="four-col-table-center2">
-        <b>Publication:</b><br>
+        <b>Journal/Book Title:</b><br>
         {% if publication.type == "journal_article" %}
         {{publication.journal}}
         {%elsif publication.type =="book_chapter"%}
