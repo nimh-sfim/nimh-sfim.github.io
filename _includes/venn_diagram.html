@@ -1,0 +1,162 @@
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+
+
+<div class="venn-container" id="venn-container">
+    <div class="diagram-wrapper">
+        <div class="svg-container">
+            <svg viewBox="0 0 600 560" preserveAspectRatio="xMidYMid meet">
+                <defs>
+                    <filter id="glow">
+                        <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+                        <feMerge>
+                            <feMergeNode in="coloredBlur"/>
+                            <feMergeNode in="SourceGraphic"/>
+                        </feMerge>
+                    </filter>
+                </defs>
+
+                <a href="#design" data-circle="1">
+                    <circle class="circle" cx="220" cy="200" r="130" fill="#1065AB" opacity="0.6" stroke="white" stroke-width="2"/>
+                    <text class="circle-text" x="185" y="155" text-anchor="middle" dominant-baseline="middle" fill="#3d4144" font-size="16" font-weight="bold">Paradigm Design</text>
+                    <text class="circle-text" x="185" y="175" text-anchor="middle" dominant-baseline="middle" fill="#3d4144" font-size="16" font-weight="bold">&amp; Methodology</text>
+                </a>
+
+                <a href="#research" data-circle="2">
+                    <circle class="circle" cx="380" cy="200" r="130" fill="#3A93C3" opacity="0.6" stroke="white" stroke-width="2"/>
+                    <text class="circle-text" x="415" y="155" text-anchor="middle" dominant-baseline="middle" fill="#3d4144" font-size="16" font-weight="bold">Basic Research</text>
+                    <text class="circle-text" x="415" y="175" text-anchor="middle" dominant-baseline="middle" fill="#3d4144" font-size="16" font-weight="bold">&amp; Clinical</text>
+                    <text class="circle-text" x="415" y="195" text-anchor="middle" dominant-baseline="middle" fill="#3d4144" font-size="16" font-weight="bold">Applications</text>
+                </a>
+
+                <a href="#sequences" data-circle="3">
+                    <circle class="circle" cx="220" cy="360" r="130" fill="#8EC3DE" opacity="0.6" stroke="white" stroke-width="2"/>
+                    <text class="circle-text" x="185" y="385" text-anchor="middle" dominant-baseline="middle" fill="#3d4144" font-size="16" font-weight="bold">MRI Pulse</text>
+                    <text class="circle-text" x="185" y="405" text-anchor="middle" dominant-baseline="middle" fill="#3d4144" font-size="16" font-weight="bold">Sequences &amp;</text>
+                    <text class="circle-text" x="185" y="425" text-anchor="middle" dominant-baseline="middle" fill="#3d4144" font-size="16" font-weight="bold">Hardware</text>
+                </a>
+
+                <a href="#contrast" data-circle="4">
+                    <circle class="circle" cx="380" cy="360" r="130" fill="#D1E5F0" opacity="0.6" stroke="white" stroke-width="2"/>
+                    <text class="circle-text" x="415" y="365" text-anchor="middle" dominant-baseline="middle" fill="#3d4144" font-size="16" font-weight="bold">Interpretation of</text>
+                    <text class="circle-text" x="415" y="385" text-anchor="middle" dominant-baseline="middle" fill="#3d4144" font-size="16" font-weight="bold">Contrast</text>
+                    <text class="circle-text" x="415" y="405" text-anchor="middle" dominant-baseline="middle" fill="#3d4144" font-size="16" font-weight="bold">Mechanisms &amp;</text>
+                    <text class="circle-text" x="415" y="425" text-anchor="middle" dominant-baseline="middle" fill="#3d4144" font-size="16" font-weight="bold">Physiology</text>
+                </a>
+                <circle cx="300" cy="280" r="70" fill="#b9d7ed" opacity="1.0" stroke="white" stroke-width="2"/>
+                <text x="300" y="280" text-anchor="middle" dominant-baseline="middle" fill="#3d4144" font-size="32" font-weight="bold" class="circle-text">SFIM</text>
+
+                
+            </svg>
+        </div>
+
+        <div class="description-box" id="description-box">
+                <div class="description-content">
+                    <h3 id="desktop-title"></h3>
+                    <div id="desktop-text"></div>
+                </div>
+            </div>
+    </div>
+
+</div>
+
+<script>
+    var circles = {
+        "1": {
+            text: "Paradigm Design & Methodology",
+            description: "<p>Experimental design and methodological approaches for fMRI research</p><ul><li>Influence and capture neuronal activity in time and space</li><li>Separate information from noise and artifact</li><li>Functional activation, connectivity, patterns, dynamics</li></ul>",
+            cx: 220,
+            cy: 200
+        },
+        "2": {
+            text: "Basic Research & Clinical Applications",
+            description: "<p>Applying novel imaging techniques to cognitive neuroscience problems</p><ul><li>Biomarker discovery and development</li><li>Targets for neuromodulation</li><li>Presurgical mapping</li><li>Neurofeedback</li><li>Uncover mechanisms and principles of functional brain organization</li></ul>",
+            cx: 380,
+            cy: 200
+        },
+        "3": {
+            text: "MRI Pulse Sequences & Hardware",
+            description: "<p>Technical implementation of imaging sequences and hardware systems</p><ul><li>Speed</li><li>Resolution</li><li>Sensitivity</li><li>Specificity</li><li>Reproducibility</li><li>Quantitation</li><li>New contrasts</li></ul>",
+            cx: 220,
+            cy: 360
+        },
+        "4": {
+            text: "Interpretation of Contrast Mechanisms & Physiology",
+            description: "<p>Understanding physiological basis of imaging contrasts</p><ul><li>Identify relevant temporal and spatial structure</li><li>Relate signal to neuronal activity</li><li>Relate to signal non-neuronal physiology</li></ul>",
+            cx: 380,
+            cy: 360
+        }
+    };
+
+    var contentBox = document.getElementById("venn-container");
+    var contentWidth = contentBox.width;
+
+    var descriptionBox = document.getElementById("description-box");
+    var desktopTitle = document.getElementById("desktop-title");
+    var desktopText = document.getElementById("desktop-text");
+
+    var circleLinks = document.querySelectorAll("a[data-circle]");
+    var allCircles = document.querySelectorAll(".circle");
+    var svgContainer = document.querySelector(".svg-container");
+
+    for (var i = 0; i < circleLinks.length; i++) {
+        (function() {
+               var link = circleLinks[i];
+                var circleId = link.getAttribute("data-circle");
+                var circleData = circles[circleId];
+                var currentCircle = link.querySelector(".circle");
+
+                link.addEventListener("mouseenter", function(e) {
+                    desktopTitle.textContent = circleData.text;
+                    desktopText.innerHTML = circleData.description;
+
+                    var svgRect = svgContainer.getBoundingClientRect();
+                    var svgWidth = svgRect.width;
+                    var svgHeight = svgRect.height;
+                    
+                    var scaleX = svgWidth / 600;
+                    var scaleY = svgHeight / 560;
+                    
+                    var baseFontSize = 16 * Math.min(scaleX, 1)
+                    var scaleAmount = Math.min(scaleX, 1)
+
+
+                    var circleCenterX = circleData.cx * scaleX;
+                    var circleCenterY = circleData.cy * scaleY;
+                    
+                    var boxWidth = svgWidth * 0.33 * scaleX;
+                    var spacing = 50 * scaleX;
+
+
+                    var scaleAmount = Math.min(scaleX, 1);
+
+                    if (baseFontSize > 12){
+
+                        descriptionBox.style.transform = "scale(" + scaleAmount + ")";
+                        descriptionBox.style.transformOrigin = "top left";
+                    } else {
+                        descriptionBox.style.fontSize = "12px";
+
+                    }
+
+                
+                descriptionBox.style.top = (200 * scaleY) - (130 * scaleY) + "px";
+                descriptionBox.style.width = boxWidth + "px";
+                descriptionBox.classList.add("active");
+
+                for (var j = 0; j < allCircles.length; j++) {
+                    if (allCircles[j] !== currentCircle) {
+                        allCircles[j].classList.add("dimmed");
+                    }
+                }
+            });
+
+            link.addEventListener("mouseleave", function(e) {
+                descriptionBox.classList.remove("active");
+
+                for (var j = 0; j < allCircles.length; j++) {
+                    allCircles[j].classList.remove("dimmed");
+                }
+            });
+        })();
+    }
+</script>
