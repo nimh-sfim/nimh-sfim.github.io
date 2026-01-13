@@ -8,7 +8,9 @@ show_date: false
   <div class="member-photo-cell">
     {%if page.photo%}<img src="{{page.photo| relative_url}}" alt="{{page.title}}" class="member-photo"> {%endif%}
     <h3>{{page.position}}</h3>
+    {% if page.start_date %}
     <p><b>Start Date: </b>{{page.start_date}}
+      {%endif%}
     {%if page.end_date%}
     <b><br>End Date: </b> {{page.end_date}}
     {%endif%}
