@@ -14,7 +14,7 @@ pages: 461-472
 book_title: 'Functional Neuroradiology'
 publisher: 'Springer International Publishing'
 abstract: ""
-project_id: education
+project_id: perspectives
 paper_url: 
 doi: 10.1007/978-3-031-10909-6_19
 data_loc: ''

@@ -13,7 +13,7 @@ pages:
 book_title: ''
 publisher: ''
 abstract: ""
-project_id: education
+project_id: perspectives
 paper_url: 
 doi: https://doi.org/10.52294/725139d7-0b8a-49dc-a81d-ba2ca64ff6d9
 data_loc: 'https://apertureneuro.org/article/81986'

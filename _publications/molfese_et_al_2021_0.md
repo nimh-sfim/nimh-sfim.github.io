@@ -15,7 +15,7 @@ pages:
 book_title: ''
 publisher: ''
 abstract: ""
-project_id: education
+project_id: perspectives
 paper_url: https://link.springer.com/article/10.1007/s00247-020-04875-y
 doi: https://doi.org/10.1007/s00247-020-04875-y
 data_loc: ''

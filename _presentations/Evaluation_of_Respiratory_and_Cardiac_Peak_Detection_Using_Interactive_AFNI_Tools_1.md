@@ -1,6 +1,6 @@
 ---
 title: "Evaluation of Respiratory and Cardiac Peak Detection Using Interactive AFNI Tools"
-project_id: education
+project_id: 
 date: 2024-06-01
 conference_id: "OHBM_2024"
 presenters:
