@@ -1,5 +1,5 @@
 ---
-title: " A functionally time-resolved reconstruction technique for high-resolution fMRI"
+title: "A functionally time-resolved reconstruction technique for high-resolution fMRI"
 project_id: 
 date: 2022-06-01
 conference_id: "OHBM_2022"

@@ -1,5 +1,5 @@
 ---
-title: "Eye metrics are a marker of visual conscious awareness and neural processing in cerebral blindness"
+title: "Eye metrics often reflect visual conscious awareness, conscious content, and neural processing in cerebral blindness"
 date: 2025-12-01
 authors_string: Sharif Kronemer, Victoria Gobo, Shruti Japee, Eli Merriam, Benjamin Osborne, Peter Bandettini, Tina Liu
 authors:
