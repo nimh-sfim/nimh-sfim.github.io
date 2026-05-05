@@ -1,5 +1,5 @@
 ---
-title: "2026 Gingerbread House Competition"
+title: "2025 Gingerbread House Competition"
 published: true
 tags:
   - Photos
