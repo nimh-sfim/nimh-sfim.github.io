@@ -3,7 +3,7 @@ title: "Cassie Levesque"
 presenter_id: cassie_levesque
 position: Postbac IRTA
 start_date: 2024
-end_date: 
+end_date: 2026
 email: "cassie.levesque@nih.gov"
 phone: "(301) 402-3893"
 address: 
@@ -12,6 +12,6 @@ bio: "Cassie is a post-bac in Alex Martin’s Section on Cognitive Neuropsycholo
 cv_file: "https://drive.google.com/file/d/1-N1tMKy43syKFlWu0E2kDyr89TI9mjit/view?usp=sharing"
 cv_file_show: "Levesque CV"
 weight: 6
-status: current
+status: former
 layout: member
 ---

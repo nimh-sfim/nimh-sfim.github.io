@@ -3,7 +3,7 @@ title: "Plyfaa Suwanamalik-Murphy"
 presenter_id: plyfaa_suwanamalik-murphy
 position: Postbac IRTA
 start_date: 2024
-end_date: 
+end_date: 2026
 email: "plyfaa.suwanamalik-murphy@nih.gov"
 phone: "(301) 402-1408"
 address: 
@@ -12,6 +12,6 @@ bio: "Plyfaa Suwanamalik-Murphy graduated from the University of California, Dav
 cv_file: "https://docs.google.com/document/d/1S9buE1K1vPung3XwCmCTH6eVEGxsXjw-/edit"
 cv_file_show: "Plyfaa Suwanamalik-Murphy CV.pdf"
 weight: 6
-status: current
+status: former
 layout: member
 ---

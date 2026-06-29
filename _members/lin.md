@@ -3,7 +3,7 @@ title: "Esther Lin"
 presenter_id: esther_lin
 position: Postbac IRTA
 start_date: 2025
-end_date: 
+end_date: 2026
 email: "esther.lin@nih.gov"
 phone: "(301) 496-5000"
 address: 
@@ -12,6 +12,6 @@ bio: "Esther received her B.A. in Psychology from Emory University in May 2023. 
 cv_file: "/assets/CVs/"
 cv_file_show: 
 weight: 6
-status: current
+status: former
 layout: member
 ---
