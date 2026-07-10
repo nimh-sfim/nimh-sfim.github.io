@@ -4,7 +4,7 @@ project_id: consciousness
 date: 2026-05-16
 conference_id: "VSS_2026"
 presenters:
-   - plyfa_suwanamalik-murphy
+   - plyfaa_suwanamalik-murphy
 summary: ""
 file: /assets/presentations/suwanamalik-murphy_vss_talk_2026.pdf
 filename: suwanamalik-murphy_vss_talk_2026.pdf
