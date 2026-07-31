@@ -17,7 +17,7 @@ class: wide
       <b>Presented on: </b><br>{{presentation.date | date: "%B %Y"}} 
      </div>
     <div class="three-col-table-center"><b>Title:</b><br><a href="{{presentation.url}}">{{presentation.title}}</a></div>
-    <div class="three-col-table-right"><b>File:</b><br><a href="{{presentation.file}}">{{presentation.filename}}</a></div>
+    <div class="three-col-table-right"><b>File:</b><br>{% if presentation.file != "/assets/presentations/" %}<a href="{{presentation.file}}">PDF</a>{%endif%}</div>
 </div>
 
 {% endif %}
