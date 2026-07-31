@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "Presented on Feburary 5, 2026 at the Functional Imaging Frontiers Symposium, TRENDS, Atlanta, GA"
-file: /assets/presentations/.pdf
-filename: .pdf
+file: /assets/presentations/
+filename: ""
 layout: presentation
 ---
