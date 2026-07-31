@@ -21,25 +21,14 @@ classes: wide
 {% for presentation in presentations_sorted %}
 <div class="content-list">
     <div class="presentation-item">
-        <b>Title: </b><br><a href="{{presentation.url}}">{{presentation.title}}</a><br>
+        <b>Presented on: </b><br>{{presentation.date | date: "%B %Y"}} <br>
     </div>
     <div class="presentation-item">
-        <b>Presented on: </b><br>{{presentation.date | date: "%B %Y"}} <br>
+        <b>Title: </b><br><a href="{{presentation.url}}">{{presentation.title}}</a><br>
     </div>
     <div class="presentation-item">
         {% assign conference_item = site.conferences | where: "conference_id", presentation.conference_id | first %}
         <b>Conference/Event: </b><br><a href="{{conference_item.url}}">{{conference_item.title}}</a> <br>
-    </div>
-    <div class="presentation-item">
-        <b>Project(s): </b><br>
-        {% if presentation.project_id%}
-        {%for project in presentation.project_id%}
-        {%assign project_item = site.projects | where: "project_id", project | first %}
-            <li>
-             <a href="{{project_item.url}}">{{project_item.title}}</a>
-            </li>
-        {%endfor%}
-        {%endif%}
     </div>
     <div class="presentation-item">
         <b>Presenters: </b><br>
@@ -52,6 +41,11 @@ classes: wide
             {% endfor %}
             </ul>
     </div>
+    <div class="presentation-item">
+        <b>File: </b><br>
+        {% if presentation.file != "" %}<a href="{{presentation.file}}">PDF</a>{%endif%}
+    </div>
+    
 </div>
 {% endfor %}
 {%endif%}
