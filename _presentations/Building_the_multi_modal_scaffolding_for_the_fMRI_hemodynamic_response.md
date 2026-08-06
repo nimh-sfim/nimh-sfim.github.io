@@ -6,7 +6,7 @@ conference_id: ""
 presenters:
    - peter_bandettini
 summary: "Presented on January 13, 2026 for the NIMH Investigators Seminar Series"
-file: /assets/presentations/the_HRF_Jan13_2026.pdf
-filename: the_HRF_Jan13_2026.pdf
+file: /assets/presentations/The HRF_Jan13_2025_3.pdf
+filename: The_HRF_Jan13_2026.pdf
 layout: presentation
 ---
