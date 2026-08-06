@@ -5,7 +5,7 @@ tags:
   - Photos
 excerpt: "Come take a walk down memory lane with us!"
 header:
-  teaser: /assets/images/ohbm2026.png
+  teaser: /assets/images/lab_group_photos/lab2000_cropped.JPG
 gallery_courtyard: 
   - url: /assets/images/courtyard_photos/courtyard2002.JPG
     image_path: /assets/images/courtyard_photos/courtyard2002.JPG
@@ -100,9 +100,52 @@ gallery_lab:
   - url: /assets/images/lab_group_photos/lab2026.jpeg
     image_path: /assets/images/lab_group_photos/lab2026.jpeg
   
+
+gallery_scanners: 
+  - url: /assets/images/scanner_photos/scanner1.JPG
+    image_path: /assets/images/scanner_photos/scanner1.JPG
+  - url: /assets/images/scanner_photos/scanner2.JPG
+    image_path: /assets/images/scanner_photos/scanner2.JPG
+  - url: /assets/images/scanner_photos/scanner3.JPG
+    image_path: /assets/images/scanner_photos/scanner3.JPG
+  - url: /assets/images/scanner_photos/scanner4.JPG
+    image_path: /assets/images/scanner_photos/scanner4.JPG
+  - url: /assets/images/scanner_photos/scanner5.JPG
+    image_path: /assets/images/scanner_photos/scanner5.JPG
+  - url: /assets/images/scanner_photos/scanner6.JPG
+    image_path: /assets/images/scanner_photos/scanner6.JPG
+  - url: /assets/images/scanner_photos/scanner7.JPG
+    image_path: /assets/images/scanner_photos/scanner7.JPG
+  - url: /assets/images/scanner_photos/scanner8.JPG
+    image_path: /assets/images/scanner_photos/scanner8.JPG
+  - url: /assets/images/scanner_photos/scanner9.JPG
+    image_path: /assets/images/scanner_photos/scanner9.JPG
+  - url: /assets/images/scanner_photos/scanner10.JPG
+    image_path: /assets/images/scanner_photos/scanner10.JPG
+  - url: /assets/images/scanner_photos/scanner11.JPG
+    image_path: /assets/images/scanner_photos/scanner11.JPG
+  - url: /assets/images/scanner_photos/scanner12.JPG
+    image_path: /assets/images/scanner_photos/scanner12.JPG
+  - url: /assets/images/scanner_photos/scanner13.JPG
+    image_path: /assets/images/scanner_photos/scanner13.JPG
+  - url: /assets/images/scanner_photos/scanner14.JPG
+    image_path: /assets/images/scanner_photos/scanner14.JPG
+  - url: /assets/images/scanner_photos/scanner15.JPG
+    image_path: /assets/images/scanner_photos/scanner15.JPG
+  - url: /assets/images/scanner_photos/scanner16.JPG
+    image_path: /assets/images/scanner_photos/scanner16.JPG
+  - url: /assets/images/scanner_photos/scanner17.JPG
+    image_path: /assets/images/scanner_photos/scanner17.JPG
+  - url: /assets/images/scanner_photos/scanner18.JPG
+    image_path: /assets/images/scanner_photos/scanner18.JPG
+  - url: /assets/images/scanner_photos/scanner19.JPG
+    image_path: /assets/images/scanner_photos/scanner19.JPG
+  - url: /assets/images/scanner_photos/scanner20.JPG
+    image_path: /assets/images/scanner_photos/scanner20.JPG
+
 ---
 
-<p>Come take a walk down memory lane with us, and enjoy the photos of our lab and office space over the years.</p>
+<p>Come take a walk down memory lane with us, and enjoy the photos of our lab, office space and scanners over the years.</p>
 
 {% include gallery id="gallery_lab" caption="Some photos of SFIM over the years." %}
 
@@ -113,3 +156,7 @@ gallery_lab:
 <p>The NMRF courtyard is just downstairs from our office space. Over time, the plants in the courtyard have exploded, making it a beautiful place to have a meeting, eat some lunch, enjoy a coffee in the morning or simply take a quick break outside.</p>
 
 {% include gallery id="gallery_courtyard" caption="Some photos of the NMRF courtyard over time." %}
+
+<p>The Functional MRI Facility (FMRIF) was established in 1999. Since then, it has ensured that the center has cutting edge technology, allowing us to do our best scientifi work. Here, we have some photos of the scanners over time - during installation, and what the facility looked like over the years</p>
+
+{% include gallery id="gallery_scanners" caption="Some photos of the FMRIF scanners over time." %}
