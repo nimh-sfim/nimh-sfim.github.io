@@ -3,7 +3,7 @@ title: "Marly Rubin"
 presenter_id: marly_rubin
 position: Postbac IRTA
 start_date: 2024
-end_date: 
+end_date: 2026
 email: "marly.rubin@nih.gov"
 phone: "(301) 496-8174"
 address: 
@@ -12,6 +12,6 @@ bio: "Marly Rubin graduated from American University in December 2023 with a maj
 cv_file: "/assets/CVs/"
 cv_file_show: 
 weight: 6
-status: current
+status: former
 layout: member
 ---
